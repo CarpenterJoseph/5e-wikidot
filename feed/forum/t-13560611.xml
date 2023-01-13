@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>error in cleric spell list</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13560611/error-in-cleric-spell-list</link>
+		<description>Posts in the discussion thread &quot;error in cleric spell list&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:24:46 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13560611#post-4729283</guid>
+				<title>Re: error in cleric spell list</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13560611/error-in-cleric-spell-list#post-4729283</link>
+				<description></description>
+				<pubDate>Sat, 25 Jul 2020 15:05:21 +0000</pubDate>
+				<wikidot:authorName>bonarvichi</wikidot:authorName>				<wikidot:authorUserId>6678232</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>here's the list of changes that should be made (as far as i can tell):</p> <p><strong>cantrips</strong><br /> &quot;Virtue&quot; should be marked as UA<br /> &quot;Hand of radiance (UA)&quot; and a page for it should be added</p> <p><strong>1st Level</strong><br /> Link to &quot;Ceremony&quot; should be added (XGtE)<br /> &quot;Guiding Hand&quot; should be marked as UA</p> <p><strong>3rd level</strong><br /> following pages and links should be added:<br /> &quot;Life Transference&quot; (XGtE)<br /> &quot;Fast Friends&quot; (Acq Inc)<br /> &quot;Incite Greed&quot; (Acq Inc)<br /> &quot;Motivational Speech&quot; (Acq Inc)</p> <p><strong>5th level</strong><br /> following pages and links should be added:<br /> &quot;Dawn&quot; (XGtE)<br /> &quot;Holy Weapon&quot; (XGtE)</p> <p><strong>7th level</strong><br /> page and link for &quot;Temple of the Gods&quot; (XGtE) should be added</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13560611#post-4729240</guid>
+				<title>Re: error in cleric spell list</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13560611/error-in-cleric-spell-list#post-4729240</link>
+				<description></description>
+				<pubDate>Sat, 25 Jul 2020 14:31:04 +0000</pubDate>
+				<wikidot:authorName>bonarvichi</wikidot:authorName>				<wikidot:authorUserId>6678232</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>there are many more problems with that list. spells are missing, spells from unearthed arcana are not marked, it should be reworked basically.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13560611#post-4722420</guid>
+				<title>error in cleric spell list</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13560611/error-in-cleric-spell-list#post-4722420</link>
+				<description></description>
+				<pubDate>Sat, 18 Jul 2020 00:51:23 +0000</pubDate>
+				<wikidot:authorName>ArMor007</wikidot:authorName>				<wikidot:authorUserId>5094744</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>ceremony should be listed under the level 1 spells list.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

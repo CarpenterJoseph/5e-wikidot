@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Error in the druid 2nd level &quot;Animal messenger&quot; spell.</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13010884/error-in-the-druid-2nd-level-animal-messenger-spell</link>
+		<description>Posts in the discussion thread &quot;Error in the druid 2nd level &quot;Animal messenger&quot; spell.&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:24:55 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13010884#post-4511147</guid>
+				<title>Re: Error in the druid 2nd level &quot;Animal messenger&quot; spell.</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13010884/error-in-the-druid-2nd-level-animal-messenger-spell#post-4511147</link>
+				<description></description>
+				<pubDate>Fri, 21 Feb 2020 18:51:19 +0000</pubDate>
+				<wikidot:authorName>Skyao</wikidot:authorName>				<wikidot:authorUserId>6089401</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hey, thanks for the shout. The issue has been fixed now!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13010884#post-4489490</guid>
+				<title>Error in the druid 2nd level &quot;Animal messenger&quot; spell.</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13010884/error-in-the-druid-2nd-level-animal-messenger-spell#post-4489490</link>
+				<description></description>
+				<pubDate>Tue, 04 Feb 2020 19:48:18 +0000</pubDate>
+				<wikidot:authorName>David Marcil</wikidot:authorName>				<wikidot:authorUserId>6089224</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The description showing is a copy of the &quot;Animal friendship&quot; spell and the it should be listed as a 2nd level spell (Ritual) as well.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>DND 5th Edition - new forum threads</title>
+		<link>http://dnd5e.wikidot.com/forum/start</link>
+		<description>Threads in forums of the site &quot;DND 5th Edition&quot; - community wiki</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 19:57:07 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15515748</guid>
+				<title>Broken Links</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15515748/broken-links</link>
+				<description>I recently made a local backup of this site and in the process discovered a bunch of broken links which I list in this thread.</description>
+				<pubDate>Sat, 07 Jan 2023 18:04:56 +0000</pubDate>
+				<wikidot:authorName>GavstarB</wikidot:authorName>				<wikidot:authorUserId>8425778</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I use this site a lot during character creation but recently I keep getting 502 errors on random pages. To combat this I took a mirror of the entire site so I can load the missing pages locally. In the process of changing the links on the mirrored pages to redirect to my other local pages I discovered a few mistyped or otherwise broken links.</p> <p>[artificer] &quot;spells:cure-wounds&quot; should be &quot;spell:cure-wounds&quot;<br /> [artificer:armorer-ua] &quot;spell:greater-invisibilty&quot; should be &quot;spell:greater-invisibility&quot;<br /> [background:gruul-anarch] &quot;spell:dominante-beast&quot; should be &quot;spell:dominate-beast&quot;<br /> [background:sword-coast-heroic-chronicle] &quot;background:Cloistered&quot; should be &quot;background:cloistered-scholar&quot;<br /> [background:sword-coast-heroic-chronicle] &quot;background:spy&quot; should be &quot;background:criminal#toc1&quot;<br /> [epic-boons] &quot;spells:plane-shift&quot; should be &quot;spell:plane-shift&quot;<br /> [fighter:monster-hunter-ua] &quot;spelldetect-magic&quot; should be &quot;spell:detect-magic&quot;<br /> [lineage:kalashtar] &quot;dream&quot; should be &quot;spell:dream&quot; x2<br /> [lineage:kalashtar] &quot;sleep&quot; should be &quot;spell:sleep&quot; x2<br /> [sorcerer:clockwork-soul-ua] &quot;spell:protection-from-good-and-evil&quot; should be &quot;spell:protection-from-evil-and-good&quot; (link text wrong too)<br /> [supernatural-gifts] &quot;piety&quot; (missing page?)<br /> [warlock:celestial-ua] &quot;spell:buuning-hands&quot; should be &quot;spell:burning-hands&quot;<br /> [warlock:ghost-in-the-machine-ua] &quot;spell:haywire&quot; should be &quot;spell:haywire-ua&quot;<br /> [wizard:artificer-ua:magic-item-tables] &quot;wondrous-items:dust-of-dissapearance&quot; should be &quot;wondrous-items:dust-of-disappearance&quot; (link text wrong too)<br /> [wizard:artificer-ua:magic-item-tables] &quot;wondrous-items:goggle-of-night&quot; should be &quot;wondrous-items:goggles-of-night&quot; (link text wrong too)<br /> [wizard:artificer-ua:magic-item-tables] &quot;wondrous-items:Potion-of-greater-healing&quot; should be &quot;wondrous-items:potion-of-healing&quot;<br /> [wondrous-items:all] &quot;wondrous-items:shield&quot; (missing page?)<br /> [wondrous-items:cauldron-of-rebirth] &quot;wondrous-items:potion-of-greater-healing&quot; should be &quot;wondrous-items:potion-of-healing&quot;<br /> [wondrous-items:demonomicon-of-iggwilv] &quot;wondrous-items:fraz-urbluus-staff&quot; (missing page?)<br /> [wondrous-items:the-infernal-machine-of-lum-the-mad] &quot;spell:conjure-minor-elemental&quot; should be &quot;spell:conjure-minor-elementals&quot; (link text wrong too)</p> <p>Hope this is helpful and thank you to everyone who contributes to this site.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15515510</guid>
+				<title>Dragonlance: Shadow of the Dragon Queen</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15515510/dragonlance:shadow-of-the-dragon-queen</link>
+				<description>Adding new content</description>
+				<pubDate>Sat, 07 Jan 2023 15:58:37 +0000</pubDate>
+				<wikidot:authorName>Valkyria Grey</wikidot:authorName>				<wikidot:authorUserId>6675660</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Gonna start adding new pages for content in the new Dragonlance book.</p> <p><span style="text-decoration: underline;">Lineages:</span><br /> Kender - <a href="http://dnd5e.wikidot.com/lineage:kender">http://dnd5e.wikidot.com/lineage:kender</a></p> <p><span style="text-decoration: underline;">Subclasses:</span><br /> Sorcerer: Lunar Sorcery - <a href="http://dnd5e.wikidot.com/sorcerer:lunar-sorcery">http://dnd5e.wikidot.com/sorcerer:lunar-sorcery</a></p> <p><span style="text-decoration: underline;">Backgrounds:</span><br /> Knight of Solamnia - <a href="http://dnd5e.wikidot.com/background:knight-of-solamnia">http://dnd5e.wikidot.com/background:knight-of-solamnia</a><br /> Mage of High Sorcery - <a href="http://dnd5e.wikidot.com/background:mage-of-high-sorcery">http://dnd5e.wikidot.com/background:mage-of-high-sorcery</a></p> <p><span style="text-decoration: underline;">Feats:</span><br /> Adept of the Black Robes - <a href="http://dnd5e.wikidot.com/feat:adept-of-the-black-robes">http://dnd5e.wikidot.com/feat:adept-of-the-black-robes</a><br /> Adept of the Red Robes - <a href="http://dnd5e.wikidot.com/feat:adept-of-the-red-robes">http://dnd5e.wikidot.com/feat:adept-of-the-red-robes</a><br /> Adept of the White Robes - <a href="http://dnd5e.wikidot.com/feat:adept-of-the-white-robes">http://dnd5e.wikidot.com/feat:adept-of-the-white-robes</a><br /> Divinely Favored - <a href="http://dnd5e.wikidot.com/feat:divinely-favored">http://dnd5e.wikidot.com/feat:divinely-favored</a><br /> Initiate of High Sorcery - <a href="http://dnd5e.wikidot.com/feat:initiate-of-high-sorcery">http://dnd5e.wikidot.com/feat:initiate-of-high-sorcery</a><br /> Knight of the Crown - <a href="http://dnd5e.wikidot.com/feat:knight-of-the-crown">http://dnd5e.wikidot.com/feat:knight-of-the-crown</a><br /> Knight of the Rose - <a href="http://dnd5e.wikidot.com/feat:knight-of-the-rose">http://dnd5e.wikidot.com/feat:knight-of-the-rose</a><br /> Knight of the Sword - <a href="http://dnd5e.wikidot.com/feat:knight-of-the-sword">http://dnd5e.wikidot.com/feat:knight-of-the-sword</a><br /> Squire of Solamnia - <a href="http://dnd5e.wikidot.com/feat:squire-of-solamnia">http://dnd5e.wikidot.com/feat:squire-of-solamnia</a></p> <p><span style="text-decoration: underline;">Magic Items:</span><br /> Dragonlance - <a href="http://dnd5e.wikidot.com/wondrous-items:dragonlance">http://dnd5e.wikidot.com/wondrous-items:dragonlance</a><br /> Flying Citadel Helm - <a href="http://dnd5e.wikidot.com/wondrous-items:flying-citadel-helm">http://dnd5e.wikidot.com/wondrous-items:flying-citadel-helm</a><br /> Kagonesti Forest Shroud - <a href="http://dnd5e.wikidot.com/wondrous-items:kagonesti-forest-shroud">http://dnd5e.wikidot.com/wondrous-items:kagonesti-forest-shroud</a><br /> Mirror of Reflected Pasts - <a href="http://dnd5e.wikidot.com/wondrous-items:mirror-of-reflected-pasts">http://dnd5e.wikidot.com/wondrous-items:mirror-of-reflected-pasts</a></p> <p><span style="text-decoration: underline;">Adventuring Gear:</span><br /> Fargab - <a href="http://dnd5e.wikidot.com/adventuring-gear">http://dnd5e.wikidot.com/adventuring-gear</a><br /> Narycrash - <a href="http://dnd5e.wikidot.com/adventuring-gear">http://dnd5e.wikidot.com/adventuring-gear</a></p> <p><span style="text-decoration: underline;">Weapons:</span><br /> Hoopak - <a href="http://dnd5e.wikidot.com/weapons">http://dnd5e.wikidot.com/weapons</a></p> <p><span style="text-decoration: underline;">Siege Equipment:</span><br /> Boilerdrak - <a href="http://dnd5e.wikidot.com/siege-equipment:boilerdrak">http://dnd5e.wikidot.com/siege-equipment:boilerdrak</a><br /> Gnomeflinger - <a href="http://dnd5e.wikidot.com/siege-equipment:gnomeflinger">http://dnd5e.wikidot.com/siege-equipment:gnomeflinger</a></p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15505558</guid>
+				<title>Can we put the Races back on the main page?</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15505558/can-we-put-the-races-back-on-the-main-page</link>
+				<description>Can we revert whatever moderator changed races to be &#039;new page&#039; redirecfs instead of having them on the main page?</description>
+				<pubDate>Tue, 03 Jan 2023 23:02:04 +0000</pubDate>
+				<wikidot:authorName>ArcaediusX</wikidot:authorName>				<wikidot:authorUserId>8419874</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Please? Not only is it vastly more convenient to have the races listed individually and accessibly directly from the main page, instead of having to click and redirect to a 'category' page and then redirect to the race you want, but whoever decided they needed to revamp practically the entire race section back in April (according to history logs) also broke the 'Table of Contents' navigation - the links do not jump to those sections anymore and are off now. They also broke some of the races and some races are missing information (ie. Volo's Aasimar information, etc.)</p> <p>Can we please just fix and revert that?</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15505451</guid>
+				<title>Races missing</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15505451/races-missing</link>
+				<description></description>
+				<pubDate>Tue, 03 Jan 2023 21:28:21 +0000</pubDate>
+				<wikidot:authorName>Zapp Brannigan</wikidot:authorName>				<wikidot:authorUserId>1382739</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Not sure if anyone else has the same issue, but it seems that the races are missing from the main page and trying to go straight to some of the individual race pages ends in a 502 error. Has something changed with the site or is this just a bug?</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15500865</guid>
+				<title>Increasing amount of 502 (Bad Gateway) Errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15500865/increasing-amount-of-502-bad-gateway-errors</link>
+				<description>An increasing amount of pages have been giving 502 errors over these past few days - is there a known cause?</description>
+				<pubDate>Sat, 31 Dec 2022 14:58:00 +0000</pubDate>
+				<wikidot:authorName>BlazingGold</wikidot:authorName>				<wikidot:authorUserId>3267446</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hi!</p> <p>I've been using this website for a while now, and as of recent I've noticed a lot of 502 errors. I saw one mentioned already with Fire Genasi, but it's covered a lot of different pages - spell:summon-aberration, spells:wizard, etc. Many spells and other options seem to frequently return these errors, some lasting for several days at a time.</p> <p>From what I know about these, it's possible that they can be from my end instead of the server's - I have been able to access some of those pages while in Incognito mode. But, since I'm not the only one, I was curious about what others have found and think is happening.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15490833</guid>
+				<title>Spelljammer: Adventures in Space</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15490833/spelljammer:adventures-in-space</link>
+				<description></description>
+				<pubDate>Wed, 28 Dec 2022 01:03:10 +0000</pubDate>
+				<wikidot:authorName>Valkyria Grey</wikidot:authorName>				<wikidot:authorUserId>6675660</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hey, I'm a little late on adding these, but I've started adding content from Spelljammer. So far I have created and updated existing pages for the lineages. I'll work on adding backgrounds, spells, and magic items next (and then will start working on adding stuff from the new Dragonlance book after that.)</p> <p><span style="text-decoration: underline;">Lineages:</span><br /> Astral Elf - <a href="http://dnd5e.wikidot.com/lineage:elf-astral">http://dnd5e.wikidot.com/lineage:elf-astral</a><br /> Autognome - <a href="http://dnd5e.wikidot.com/lineage:autognome">http://dnd5e.wikidot.com/lineage:autognome</a><br /> Giff - <a href="http://dnd5e.wikidot.com/lineage:giff">http://dnd5e.wikidot.com/lineage:giff</a><br /> Hadozee - <a href="http://dnd5e.wikidot.com/lineage:hadozee">http://dnd5e.wikidot.com/lineage:hadozee</a><br /> Plasmoid - <a href="http://dnd5e.wikidot.com/lineage:plasmoid">http://dnd5e.wikidot.com/lineage:plasmoid</a><br /> Thri-kreen - <a href="http://dnd5e.wikidot.com/lineage:thri-kreen">http://dnd5e.wikidot.com/lineage:thri-kreen</a></p> <p><span style="text-decoration: underline;">Backgrounds:</span><br /> Astral Drifter - <a href="http://dnd5e.wikidot.com/background:astral-drifter">http://dnd5e.wikidot.com/background:astral-drifter</a><br /> Wildspacer - <a href="http://dnd5e.wikidot.com/background:wildspacer">http://dnd5e.wikidot.com/background:wildspacer</a></p> <p><span style="text-decoration: underline;">Spells:</span><br /> Air Bubble - <a href="http://dnd5e.wikidot.com/spell:air-bubble">http://dnd5e.wikidot.com/spell:air-bubble</a><br /> Create Spelljamming Helm - <a href="http://dnd5e.wikidot.com/spell:create-spelljamming-helm">http://dnd5e.wikidot.com/spell:create-spelljamming-helm</a></p> <p><span style="text-decoration: underline;">Magic Items:</span><br /> Fish Suit - <a href="http://dnd5e.wikidot.com/wondrous-items:fish-suit">http://dnd5e.wikidot.com/wondrous-items:fish-suit</a><br /> Spelljamming Helm - <a href="http://dnd5e.wikidot.com/wondrous-items:spelljamming-helm">http://dnd5e.wikidot.com/wondrous-items:spelljamming-helm</a><br /> Talarith - <a href="http://dnd5e.wikidot.com/wondrous-items:talarith">http://dnd5e.wikidot.com/wondrous-items:talarith</a><br /> Wildspace Orrery - <a href="http://dnd5e.wikidot.com/wondrous-items:wildspace-orrery">http://dnd5e.wikidot.com/wondrous-items:wildspace-orrery</a></p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15490224</guid>
+				<title>Fire Genasi Linked to Bad Gateway</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15490224/fire-genasi-linked-to-bad-gateway</link>
+				<description>You cannot access the Fire Genasi Page from the exotic race list.</description>
+				<pubDate>Tue, 27 Dec 2022 22:14:10 +0000</pubDate>
+				<wikidot:authorName>Valerie Ferrell</wikidot:authorName>				<wikidot:authorUserId>7358675</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>When you click on the &quot;Fire Genasi&quot; Link in the exotic race section, it takes you to &quot;bad gateway.&quot;</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15475918</guid>
+				<title>Crown of Stars is listed incorrectly</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15475918/crown-of-stars-is-listed-incorrectly</link>
+				<description></description>
+				<pubDate>Wed, 21 Dec 2022 19:32:55 +0000</pubDate>
+				<wikidot:authorName>celicancn</wikidot:authorName>				<wikidot:authorUserId>8270179</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hello!</p> <p>Just wanted to note that Crown of Stars is listed as an <strong>abjuration</strong> when it should actually be an <strong>evocation</strong> spell.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15472752</guid>
+				<title>Aasimar lineage page error</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15472752/aasimar-lineage-page-error</link>
+				<description></description>
+				<pubDate>Mon, 19 Dec 2022 14:40:51 +0000</pubDate>
+				<wikidot:authorName>Aspharon</wikidot:authorName>				<wikidot:authorUserId>7997003</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>On the Aasimar Lineage page, the following error is displayed:</p> <blockquote> <p>Included page &quot;lineage:aasimar-core-vgm&quot; does not exist (create it now)</p> </blockquote> <p>It seems the page refers to the nonexistent page &quot;lineage:aasimar-core-vgm&quot;. Instead, it should be referring to the page &quot;lineage:aasimar-vgm&quot;, which does exist.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15459595</guid>
+				<title>Incorrect spell lists for Bard</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15459595/incorrect-spell-lists-for-bard</link>
+				<description>I noticed some incongruencies between the Wikidot Bard Spell list and D&amp;DBeyond&#039;s pages</description>
+				<pubDate>Tue, 13 Dec 2022 06:23:25 +0000</pubDate>
+				<wikidot:authorName>bsea219</wikidot:authorName>				<wikidot:authorUserId>8389225</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Two spells that I've noticed so far (Color Spray, Mirror Image) are listed as bard spells on this website, but are not considered bard spells on D&amp;D Beyond. I don't know if D&amp;D Beyond is missing information, if the spells have been updated recently, or if the information on the Wikidot is incorrect, but I figured I'd point it out just in case!!!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15418961</guid>
+				<title>The revised ranger is missing a subclass</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15418961/the-revised-ranger-is-missing-a-subclass</link>
+				<description>Can someone add the Monster Slayer to the revised ranger?</description>
+				<pubDate>Mon, 28 Nov 2022 09:41:44 +0000</pubDate>
+				<wikidot:authorName>Porcospino10</wikidot:authorName>				<wikidot:authorUserId>8368695</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>In general in the archived UA the monster slayer ranger subclass is missing.<br /> Can somebody add it?<br /> I would link the UA but I can't since I don't have enough karma, it's an UA from 2017 called &quot;UA Three Subclasses&quot;</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15401544</guid>
+				<title>Noting Tasha&#039;s expansioned class spell lists</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15401544/noting-tasha-s-expansioned-class-spell-lists</link>
+				<description>Any way to implement this?</description>
+				<pubDate>Mon, 21 Nov 2022 05:07:27 +0000</pubDate>
+				<wikidot:authorName>qorinthian</wikidot:authorName>				<wikidot:authorUserId>6517502</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I think it'd be helpful to note which spells were offered via Tasha's expanded spells, which are technically optional. This would be a pretty big undertaking but I think is worth it to avoid future confusion. A superscript T like how we treated the Dunamancy/Chronurgy spells would be pretty elegant.</p> <p>How do we feel about this?</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15393552</guid>
+				<title>Spelljammer Lineages</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15393552/spelljammer-lineages</link>
+				<description></description>
+				<pubDate>Thu, 17 Nov 2022 18:45:33 +0000</pubDate>
+				<wikidot:authorName>TimurMRGB</wikidot:authorName>				<wikidot:authorUserId>1825525</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Was going through the new Lineage page and noticed quite a few of the lineages from Spelljammer are still listed as part of the unearthed arcana section, despite having official release versions. Is there any particular reason for that or is it just a question of them not having been updated yet? (Also as a note, if anyone with edit perms needs me to send them the current versions from the Spelljammer book+errata let me know)</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15357570</guid>
+				<title>New actual play - Level Quest - starts Nov 9th</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15357570/new-actual-play-level-quest-starts-nov-9th</link>
+				<description>Our table is streaming our next D&amp;D campaign. It will be aired live at https://www.twitch.tv/levelquest on Wednesdays at 7pm PT beginning Nov. 9th.
+
+Come join us for some gritty, elemental, chaotic fun!</description>
+				<pubDate>Thu, 03 Nov 2022 23:42:57 +0000</pubDate>
+				<wikidot:authorName>LevelQuest</wikidot:authorName>				<wikidot:authorUserId>8332820</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hi y'all,</p> <p>I’m Kory, the DM for a new D&amp;D actual play stream called Level Quest airing <strong>Wednesdays at 7:00&#160;pm PT</strong> on Twitch. Real people, remote play, melodrama, inappropriate comedy… the usual.<br /> Session #1 is scheduled for <span style="text-decoration: line-through;">Nov. 9th</span> Nov. 23rd – we’d be honored to have you check out our story.</p> <p><strong>THE SETTING - ILLISTERA</strong><br /> Level Quest takes place in the world of Illistera (ILL-is-TARE-uh) – an unforgiving and elemental land yet ravaged by echoes of the past the brightest minds are still trying to understand. Civilization struggles forward despite raging storms and violent neighbors. Hungering monstrosities await the foolhardy braving the wilds in search of glory and long-buried treasures.</p> <p><strong>THE CAMPAIGN - SOULBOUND</strong><br /> The PCs are regular folk. Commoners thrust into a story larger than they could have imagined, beset by visions of the past, and bestowed with power beyond the reach of most. What they choose to do with it… well, that’s what we’re here to find out.</p> <p>The land is as threatening as its denizens, meaning survival is far from guaranteed for our heroes. They do, however, have one advantage…</p> <p>If death simply meant a new beginning, how would you approach life? Would you sacrifice yourself for a cause knowing all it costs is time? We explore these questions and more as the PCs are born again and again, reckoning with the long-term consequences of their actions in a manner unseen in most campaigns.</p> <p>The decisions will be difficult.<br /> The challenges brutal.<br /> Welcome to Illistera.</p> <p>*</p> <p>If you want to see some clips or the full vid of our “tech run part 2” from last night (11/2) find us on Twitch. Nothing shown there is canon :P</p> <p>Thanks for reading! I hope this intrigues you enough to toss us a follow and stop by our inaugural stream on Wednesday, <span style="text-decoration: line-through;">Nov 9th</span> Nov. 23rd. We’ll also be posting VODs to Youtube and creating a podcast version for on-the-go enjoyment.</p> <p>If you would like more information or to learn a bit about our party, check out our website. I’m happy to answer questions here as well.</p> <p>Your Unseen Servant,<br /> Kory</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15319287</guid>
+				<title>A guidebook for the optional skill/ability rule</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15319287/a-guidebook-for-the-optional-skill-ability-rule</link>
+				<description>I&#039;d be glad if you could check it out. It&#039;s for the rule where you can use different abilities for skills.</description>
+				<pubDate>Thu, 20 Oct 2022 21:13:27 +0000</pubDate>
+				<wikidot:authorName>SerLoxy</wikidot:authorName>				<wikidot:authorUserId>8313108</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>This guidebook tries to make it easier for players and DMs to come up with ways to use different abilities for skill checks. Usually during a hectic session it's pretty difficult to come up with anything else than str intimidate.</p> <p>But I can't find a way to send it to you. I can't post links so Google Drive is out. It's a pdf so I attach it to the post either.</p> <p>Could you help me?</p> <p>SerLoxy</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15219627</guid>
+				<title>Resonant Echo</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15219627/resonant-echo</link>
+				<description>Why isn&#039;t this Dunamancy spell listed?</description>
+				<pubDate>Fri, 23 Sep 2022 17:01:45 +0000</pubDate>
+				<wikidot:authorName>Professor Fun Times</wikidot:authorName>				<wikidot:authorUserId>8271929</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>and its not just on this site, its everything where the CR team's content is displayed, even 5Etools doesn't have that spell shown for some odd ball reason either.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15153080</guid>
+				<title>Morgrave Miscellany and Lingering Soul</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15153080/morgrave-miscellany-and-lingering-soul</link>
+				<description>Content from approved Homebrew Creators</description>
+				<pubDate>Tue, 06 Sep 2022 05:55:52 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>While Im still sorta near completing the work for Exploring Ebberon homebrew races (Though my works been slowed due to a combination of my main computer kicking the bucket and being piled with exams), I've in the mean time happened to stumble upon two more lists of work by agreed upon homebrew authors:</p> <p><strong>Morgrave Miscellany - Keith Backer</strong><br /> This book is a supplement to Wayfinders Guide to Ebberon, and in terms of player resources, contains a number of subclasses, listed as follows:</p> <p>- Barbarian: Path of the Extreme Explorer<br /> - Bard: College of Keys<br /> - Cleric: Sovereign Domain<br /> - Druid: Circle of the Arbiter<br /> - Fighter: Bone Knight<br /> - Fighter: Vigilante<br /> - Monk: Argent Fist<br /> - Paladin: Oath of Sacrament<br /> - Ranger: Field Marshal<br /> - Rogue: Divine Herald<br /> - Sorcerer: Progenitor Spark<br /> - Warlock: Pact of the Host<br /> - Wizard: School of Antiquities</p> <p>I haven't yet gotten access to the book itself, but some of the archetypes from what I've been able to find have been pretty neat.</p> <p>Edit: Got access to a PDF, heres a few more things in it:</p> <p>Races / Subraces:<br /> - Halfling<br /> -<br /> -<br /> -<br /> - Shifter<br /> -<br /> -<br /> -<br /> - Tiefling<br /> - Dragonforged<br /> - Elf<br /> - Mark of Death<br /> - Child of Khyber<br /> - Abberent Elf<br /> - Abberant dwarf<br /> - Abbent Gnome<br /> - Abberant half elf<br /> - Abebrant Halfling<br /> - Abberant Half Orc<br /> - Abberant Human</p> <p>Dragonmark Feats:<br /> - Fledgling Mark of detection<br /> - Fledgling Mark of Finding<br /> - Fledgling Mark of Handling<br /> - Fledgling Mark of Healing<br /> - Fledgling Mark of Hospitality<br /> - Fledgling Mark of Making<br /> - Fledgling Mark of Passage<br /> - Fledgling Mark of Scribing<br /> - Fledgling Mark of Sentinel<br /> - Fledgling Mark of Shadow<br /> - Fledgling Mark of Storm<br /> - Fledgling Mark of Warding</p> <p>- Siberys Mark of detection<br /> - Siberys Mark of Finding<br /> - Siberys Mark of Handling<br /> - Siberys Mark of Healing<br /> - Siberys Mark of Hospitality<br /> - Siberys Mark of Making<br /> - Siberys Mark of Passage<br /> - Siberys Mark of Scribing<br /> - Siberys Mark of Sentinel<br /> - Siberys Mark of Shadow<br /> - Siberys Mark of Storm<br /> - Siberys Mark of Warding</p> <p>- Greater Abberant Dragonmark<br /> - Khyber Dragonmark</p> <p>- Fledgling Mark of Death (Feat)<br /> - Greater Mark of Death (Feat)<br /> - Siberys Mark of Death (Feat)</p> <p>Evolutionary Feats:<br /> - Atavist<br /> - Chameleon<br /> - Hierophant<br /> - Moonspeaker<br /> - Quori Nightmare<br /> - Spirit Rider<br /> - Warforged Collossus<br /> - Warforged Reclaimer<br /> - Weretouched Master</p> <p>Backgrounds:<br /> - Aspirant<br /> - Auditor<br /> - Cadet<br /> - Chronicler</p> <p><strong>Lingering Soul - Matthew Mercer</strong><br /> The lingeing soul is a class / alterante death rule that allows a player to play a ghost. Again, havent read the content absolutely fully yet, but I think the idea is quite neat, and I would think it could be cool on the wikidot. However, I do believe it should, if on there, have notes about &quot;Hey, you've gotta properly discuss this with a DM and all, this is homebrew and is also not designed for every game&quot;, because new players do use the site and etc. But aside from that, I think its pretty cool</p> <p>So yeah, thoughts on these sets of homebrew? I presume morgrave is a pretty straightforward include, though lingering soul im not sure? If we did include lingering soul, I think itd be better to have it in the homebrew section and not give it the bloodhunter treatment where it gets top of the page (which bloodhunter gets due to its overwhelming popularity and mainstream-ness).</p> <p>Yeah, just wanted to bring up things I found.</p> <p>Edit: Added a bunch of stuff from Morgrave</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15118271</guid>
+				<title>Journeys through the Radiant Citadel Magic Item</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15118271/journeys-through-the-radiant-citadel-magic-item</link>
+				<description></description>
+				<pubDate>Fri, 26 Aug 2022 13:08:29 +0000</pubDate>
+				<wikidot:authorName>Valkyria Grey</wikidot:authorName>				<wikidot:authorUserId>6675660</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Just posting this here just to keep track of the new additions.</p> <p>I've created and updated all related pages for the magic item in Journeys through Radiant Citadel.</p> <p>Hammock of Worlds - <a href="http://dnd5e.wikidot.com/wondrous-items:hammock-of-worlds">http://dnd5e.wikidot.com/wondrous-items:hammock-of-worlds</a></p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15094864</guid>
+				<title>Minor Note: Circle of the forged got altered</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15094864/minor-note:circle-of-the-forged-got-altered</link>
+				<description></description>
+				<pubDate>Fri, 19 Aug 2022 02:57:36 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Just poiting out that the page links for the circle of the forged got changed to druid:forged-hb from druid:circle-of-the-forged, so the frontpage link to it needs to be fixed</p> <p>Also going to make a note to Zkaij that its helpful to make posts bringing up whenever you take actions on the site since it helps people stay in the loop, got a bit worried the page got deleted there.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15094861</guid>
+				<title>&quot;DnDOne&quot;</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15094861/dndone</link>
+				<description></description>
+				<pubDate>Fri, 19 Aug 2022 02:50:04 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Opening up a thread to start discussion and have a place to share thoughts about the new information regarding &quot;the next evolution of dnd&quot; and what it means for the overall shape of the wikidot.</p> <p>From what I can feel, despite the marketing, is that it is intended to be a 5.5e.</p> <p>My current thoughts on the matter are that, depending on how it turns out on release, we could do with a sister website? I.e., theres the Dnd5e.wikidot, and then the DnD5.5e or DnD1 or DnD[whatever] wikidot, which both would include a link and text on the frontpage along the lines of &quot;This content is for the DnD5e/5.5e edition of the game, content from Dnd5.5e/5e can be found on our sister wiki, [Link]&quot;, reason being from the UA article is that while the content does feel compatible-ish, it might cause massive amounts of bloat for the website if a lot of PHB stuff is doubled, or sections are doubled, or whatnot. And I'd prefer to avoid bloat and unwieldyness, since what I think makes the 5ewikidot a good website is its comfortable and easy to access formatting.</p> <p>Yeah, thoughts from everyone else?</p> <p>(edit: thinking about feats from another post actually, the sister sites feats section might end up a whole lot cleaner if thats what we do, since feats will be organized by level, so we could probably do for them a page similiar to what we do for spells (: )</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15090025</guid>
+				<title>Warlock Invocation page layout</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15090025/warlock-invocation-page-layout</link>
+				<description></description>
+				<pubDate>Tue, 16 Aug 2022 01:02:24 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hey just wanted to double check what we were doing with the warlock page and start a discussion, since I feel its worth discussing how to handle the UA in it?</p> <p>So recap to bring everyone up to speed, the UA work I was doing previously (I'll get back to double checking it all, sorry, had assignments due in the recent weeks) had us find a bunch of UA invocations that never made it to print, and also a bunch were revised or reworked. Though, for archival purposes I took this as a chance to move all the UA warlock feats into a seperate subpage (linked on the original invocations page), as so that the invocation page only holds printed content, and then if a person wanted to view old UA, they could hop into the subpage. However, a few days back, this was reverted, and the new UA invocations moved onto the main invocation page?</p> <p>I think since there is uncertainty in what we want to do, I feel bringing it up in a discussion thread is a good idea, so thats what this is. Would we rather all the UA invocations sit on the main invocations page as they did before, or would we rather to have them all on a separate sub page in order to organize them seperately and make it more clear between which is which.</p> <p>Yeah</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15054807</guid>
+				<title>Correction to Flock of Familiars</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15054807/correction-to-flock-of-familiars</link>
+				<description></description>
+				<pubDate>Fri, 29 Jul 2022 08:51:46 +0000</pubDate>
+				<wikidot:authorName>Mickeylover</wikidot:authorName>				<wikidot:authorUserId>8170033</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>In the Warlock spells subcategory level 2 spells, the Flock of Familiars spell says that it is not concentration, but then upon reading the spells description, it does in fact require concentration. Sorry if this isn't the place for me to tell you this, I don't know how this shit works.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15031375</guid>
+				<title>Siege Equipment and Poisons</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15031375/siege-equipment-and-poisons</link>
+				<description></description>
+				<pubDate>Thu, 21 Jul 2022 13:22:52 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Alongside the other things to work on, I've decided to quickly take some time to add Siege Equipment and Poisons to the site, which are from the DMG, since I do believe that, while they are rare, they definitely fall under the range of player usable items in the same way wondrous items and such are</p> <p>Siege equipment is complete, and at the exact moment of writing this I haven't started the poisons page.</p> <p><a href="http://dnd5e.wikidot.com/siege-equipment">http://dnd5e.wikidot.com/siege-equipment</a><br /> <a href="http://dnd5e.wikidot.com/poisons">http://dnd5e.wikidot.com/poisons</a></p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15025335</guid>
+				<title>Wonders of the Multiverse UA</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15025335/wonders-of-the-multiverse-ua</link>
+				<description></description>
+				<pubDate>Mon, 18 Jul 2022 19:15:39 +0000</pubDate>
+				<wikidot:authorName>Valkyria Grey</wikidot:authorName>				<wikidot:authorUserId>6675660</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>New UA so new content to add! I'll be adding links here as the pages are completed.<br /> <a href="https://media.wizards.com/2022/dnd/downloads/UA2022-WondersoftheMultiverse.pdf">https://media.wizards.com/2022/dnd/downloads/UA2022-WondersoftheMultiverse.pdf</a></p> <p><span style="text-decoration: underline;">Races:</span><br /> Glitchling - <a href="http://dnd5e.wikidot.com/glitchling-ua">http://dnd5e.wikidot.com/glitchling-ua</a></p> <p><span style="text-decoration: underline;">Subclasses:</span><br /> Fate Domain - <a href="http://dnd5e.wikidot.com/cleric:fate-ua">http://dnd5e.wikidot.com/cleric:fate-ua</a></p> <p><span style="text-decoration: underline;">Backgrounds:</span><br /> Gate Warden - <a href="http://dnd5e.wikidot.com/background:gate-warden-ua">http://dnd5e.wikidot.com/background:gate-warden-ua</a><br /> Giant Foundling - <a href="http://dnd5e.wikidot.com/background:giant-foundling-ua">http://dnd5e.wikidot.com/background:giant-foundling-ua</a><br /> Planar Philosopher - <a href="http://dnd5e.wikidot.com/background:planar-philosopher-ua">http://dnd5e.wikidot.com/background:planar-philosopher-ua</a><br /> Rune Carver - <a href="http://dnd5e.wikidot.com/background:rune-carver-ua">http://dnd5e.wikidot.com/background:rune-carver-ua</a></p> <p><span style="text-decoration: underline;">Feats:</span><br /> Agent of Order - <a href="http://dnd5e.wikidot.com/feat:agent-of-order-ua">http://dnd5e.wikidot.com/feat:agent-of-order-ua</a><br /> Baleful Scion - <a href="http://dnd5e.wikidot.com/feat:baleful-scion-ua">http://dnd5e.wikidot.com/feat:baleful-scion-ua</a><br /> Cartomancer - <a href="http://dnd5e.wikidot.com/feat:cartomancer-ua">http://dnd5e.wikidot.com/feat:cartomancer-ua</a><br /> Cohort of Chaos - <a href="http://dnd5e.wikidot.com/feat:cohort-of-chaos-ua">http://dnd5e.wikidot.com/feat:cohort-of-chaos-ua</a><br /> Ember of the Fire Giant (Revised) - <a href="http://dnd5e.wikidot.com/feat:ember-of-the-fire-giant-revised-ua">http://dnd5e.wikidot.com/feat:ember-of-the-fire-giant-revised-ua</a><br /> Fury of the Frost Giant (Revised) - <a href="http://dnd5e.wikidot.com/feat:fury-of-the-frost-giant-revised-ua">http://dnd5e.wikidot.com/feat:fury-of-the-frost-giant-revised-ua</a><br /> Guile of the Cloud Giant (Revised) - <a href="http://dnd5e.wikidot.com/feat:guile-of-the-cloud-giant-revised-ua">http://dnd5e.wikidot.com/feat:guile-of-the-cloud-giant-revised-ua</a><br /> Keenness of the Stone Giant (Revised) - <a href="http://dnd5e.wikidot.com/feat:keenness-of-the-stone-giant-revised-ua">http://dnd5e.wikidot.com/feat:keenness-of-the-stone-giant-revised-ua</a><br /> Outlands Envoy - <a href="http://dnd5e.wikidot.com/feat:outlands-envoy-ua">http://dnd5e.wikidot.com/feat:outlands-envoy-ua</a><br /> Planar Wanderer - <a href="http://dnd5e.wikidot.com/feat:planar-wanderer-ua">http://dnd5e.wikidot.com/feat:planar-wanderer-ua</a><br /> Righteous Heritor - <a href="http://dnd5e.wikidot.com/feat:righteous-heritor-ua">http://dnd5e.wikidot.com/feat:righteous-heritor-ua</a><br /> Rune Carver Apprentice (Revised) - <a href="http://dnd5e.wikidot.com/feat:rune-carver-apprentice-revised-ua">http://dnd5e.wikidot.com/feat:rune-carver-apprentice-revised-ua</a><br /> Rune Carver Adept (Revised) - <a href="http://dnd5e.wikidot.com/feat:rune-carver-adept-revised-ua">http://dnd5e.wikidot.com/feat:rune-carver-adept-revised-ua</a><br /> Scion of Elemental Air - <a href="http://dnd5e.wikidot.com/feat:scion-of-elemental-air-ua">http://dnd5e.wikidot.com/feat:scion-of-elemental-air-ua</a><br /> Scion of Elemental Earth - <a href="http://dnd5e.wikidot.com/feat:scion-of-elemental-earth-ua">http://dnd5e.wikidot.com/feat:scion-of-elemental-earth-ua</a><br /> Scion of Elemental Fire - <a href="http://dnd5e.wikidot.com/feat:scion-of-elemental-fire-ua">http://dnd5e.wikidot.com/feat:scion-of-elemental-fire-ua</a><br /> Scion of Elemental Water - <a href="http://dnd5e.wikidot.com/feat:scion-of-elemental-water-ua">http://dnd5e.wikidot.com/feat:scion-of-elemental-water-ua</a><br /> Scion of the Outer Planes - <a href="http://dnd5e.wikidot.com/feat:scion-of-the-outer-planes-ua">http://dnd5e.wikidot.com/feat:scion-of-the-outer-planes-ua</a><br /> Soul of the Storm Giant (Revised) - <a href="http://dnd5e.wikidot.com/feat:soul-of-the-storm-giant-revised-ua">http://dnd5e.wikidot.com/feat:soul-of-the-storm-giant-revised-ua</a><br /> Strike of the Giants - <a href="http://dnd5e.wikidot.com/feat:strike-of-the-giants-ua">http://dnd5e.wikidot.com/feat:strike-of-the-giants-ua</a><br /> Vigor of the Hill Giant (Revised) - <a href="http://dnd5e.wikidot.com/feat:vigor-of-the-hill-giant-revised-ua">http://dnd5e.wikidot.com/feat:vigor-of-the-hill-giant-revised-ua</a></p> <p><span style="text-decoration: underline;">Spells:</span><br /> Antagonize - <a href="http://dnd5e.wikidot.com/spell:antagonize-ua">http://dnd5e.wikidot.com/spell:antagonize-ua</a><br /> House of Cards - <a href="http://dnd5e.wikidot.com/spell:house-of-cards-ua">http://dnd5e.wikidot.com/spell:house-of-cards-ua</a><br /> Spirit of Death - <a href="http://dnd5e.wikidot.com/spell:spirit-of-death-ua">http://dnd5e.wikidot.com/spell:spirit-of-death-ua</a><br /> Spray of Cards - <a href="http://dnd5e.wikidot.com/spell:spray-of-cards-ua">http://dnd5e.wikidot.com/spell:spray-of-cards-ua</a><br /> Summon Warrior Spirit - <a href="http://dnd5e.wikidot.com/spell:summon-warrior-spirit-ua">http://dnd5e.wikidot.com/spell:summon-warrior-spirit-ua</a></p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15017298</guid>
+				<title>The wording on the page for Mace of Terror is a bit off</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15017298/the-wording-on-the-page-for-mace-of-terror-is-a-bit-off</link>
+				<description>There&#039;s a repeat in the description paragraph.</description>
+				<pubDate>Sat, 16 Jul 2022 02:19:59 +0000</pubDate>
+				<wikidot:authorName>Oracle-Raven</wikidot:authorName>				<wikidot:authorUserId>7541010</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hi,</p> <p>I noticed a repeat in the description paragraph for Mace of Terror.</p> <p>It says &quot;Each creature of your choice in a 30-foot radius extending from you must succeed on a DC 15 Wisdom saving throw <strong>or become frightened of you for 1 minute. While it is frightened of you for 1 minute. While it is frightened in this way</strong>, a creature must spend its turns trying to move as far away from you as it can [&#8230;]&quot;</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14973429</guid>
+				<title>Investiture of Wind duration should be 10 mintues</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14973429/investiture-of-wind-duration-should-be-10-mintues</link>
+				<description></description>
+				<pubDate>Sun, 03 Jul 2022 23:03:51 +0000</pubDate>
+				<wikidot:authorName>JaBang</wikidot:authorName>				<wikidot:authorUserId>3502516</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>As of this post, it is showing 1 minute</p> <p>~/spell:investiture-of-wind</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14955822</guid>
+				<title>UA-work</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14955822/ua-work</link>
+				<description></description>
+				<pubDate>Thu, 30 Jun 2022 07:44:07 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Im mostly using this thread as a way to track progress as I go through each UA to ensure we have its contents up on the wikidot (thank you very much cotteneyenoh for the checklist &lt;333 <a href="http://dnd5e.wikidot.com/forum/t-14715608/errata-checklist">http://dnd5e.wikidot.com/forum/t-14715608/errata-checklist</a>), since yeah, I find having a discussion forum helps with me tracking my work.</p> <p>First up out of order is UA warlock and wizard's Eldritch Invocations, which we dont have, despite having the ravenqueen warlock from said UA.</p> <p>Though, I'm thinking with this, since there are about 60 Eldritch invocations at present on the wikidot, and there are 20+ invocations in this UA, that I feel I'm going to start by migrating the current UA invocations to a /warlock:eldritch-invocations-UA link, so as to better distinguish them, and then link the UA ones in the top of the warlock page, and then someone with front page perms can add them below the warlocks Archived UA section</p> <p>edit: Oh! And this does actually open up the window to creating similiar pages for Homebrew invocations from the list of homebrew creators we list. Same goes infusions too I believe, meaning I might add an equivilant page, since I know that Exploring Ebberon had a couple of infusions in there</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14932960</guid>
+				<title>DMG Races</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14932960/dmg-races</link>
+				<description></description>
+				<pubDate>Mon, 27 Jun 2022 13:39:18 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>With the work towards finalizing and front-page-ifying the new lineages pages, I got thinking towards something I loosely remembered, and, today had found it:</p> <p>The DMG has in it, a bunch of additional, non standard races. These include things such as gnolls, zombies, skeletons and grimlocks.</p> <p>So, I'm wondering what peoples thoughts are towards them, and whether they should be added.</p> <p>On one opinion, they are listed as NPC races, and the book in discussing them describes them as intended to be used for DM's making NPC's (Some of the races on that same list already had player races, but the NPC race version of them exists as a simplified form of them). So, odds are these weren't really made with players in mind (and well, items such as the skeleton have stats such as +1+2-6-4-4 in their arrays)</p> <p>On the other hand, the Oathbreaker Paladin and the Death Cleric are also DMG subclasses, and they are listed on the wikidot.</p> <p>But then, against that argument, is the fact the DMG does go out of its way to discuss these races as player options</p> <p>So yeah, I wanted to hear other people heres thoughts on it. Personally, on one hand, they are race options in an official WoTC book, but on the other, they most definitely do not feel like they are designed for players (as can tell with things like abilities that are +1 to hit all attacks, which work for NPCs, but not players), and they are also sorta hidden in the book.</p> <p>If we did add them, I feel we'd need to go out of our way somewhere to point out that they would be very, <em>very</em> non standard, (probably more so than the homebrew we list on the wikidot even), since I feel theyd need a bit of context to explain them, and I wouldn't want to have a new player who uses the site use them without said knowledge</p> <p>Plus, it does feel aimed at DMs, so it might not match the wikidots usual &quot;player focused&quot; attitude.</p> <p>Yeah, that about sums it up for me. Just wanted to bring them up for the sake of discussion and so as that we were all aware of them if we were not already</p> <p>Oh, if you want to take a look at the races yourself, they're on the table on page 282 of the DMG</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14915840</guid>
+				<title>monsters</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14915840/monsters</link>
+				<description>should we start adding them?</description>
+				<pubDate>Fri, 24 Jun 2022 02:39:44 +0000</pubDate>
+				<wikidot:authorName>lousilver</wikidot:authorName>				<wikidot:authorUserId>8099718</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I was wondering if there was a particular reason why monsters aren't available here? this would complete this perfect resource.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14861475</guid>
+				<title>Should the wiki change from Race to Lineage?</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14861475/should-the-wiki-change-from-race-to-lineage</link>
+				<description>Should the wiki change all the Race pages to say Lineage? Also should the pages also change for the stat increases to be choices? Thoughts?</description>
+				<pubDate>Thu, 16 Jun 2022 02:49:41 +0000</pubDate>
+				<wikidot:authorName>Josephjj321</wikidot:authorName>				<wikidot:authorUserId>8083618</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>In Tasha's Cauldron of Everything WotC started to make the change for 5e to have Race change to Lineage for a more of the times wording. Also they are moving to make all the Lineages have stat increases that are choices. What do you all think about changing the wiki pages proactively? I personally have been running my games where the stat increases are choices anyway, but should the wiki reflect the ASI paragraph on page 7 of TCoE?<br /> I think that the Wiki pages should have a paragraph on the top of every Lineage page that says something along the lines of &quot;the ASI, Proficiency, and Languages are optional. TCoE states that you can chose what would best fit your character&quot;<br /> Thoughts??</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14725856</guid>
+				<title>Unearthed Arcana: Giant Options</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14725856/unearthed-arcana:giant-options</link>
+				<description></description>
+				<pubDate>Fri, 27 May 2022 03:37:12 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>We really do have a nice set of work needed as of late, with the wikidot coming back online, and then just now, we've got new UA</p> <p>Link: <a href="https://dnd.wizards.com/unearthed-arcana/giant-options">https://dnd.wizards.com/unearthed-arcana/giant-options</a></p> <p>Being a bit more experimental with our checklists, <a href="https://docs.google.com/spreadsheets/d/1Q2Xks8pOqu64O_B7QTbl6DUpTtk_oCyXDlf0xvnfgeY/edit?usp=sharing">here's a google spreadsheets link</a>, which will let us all update the same spreadsheet, rather than waiting for one of us to update our table in our own comment, which should help it run a little smoother</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14715608</guid>
+				<title>Errata Checklist</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14715608/errata-checklist</link>
+				<description></description>
+				<pubDate>Wed, 25 May 2022 10:28:48 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>During the downtime on the Wikidot, I spent some time listening to some community feedback on the wikidot, and one of the things we should definitely get done is to get a checklist of every bit of UA, and then work through them 1 by 1 to ensure everything is up to date with the latest. Hell, if we can just get a list of the Errata, I could probably get that done myself</p> <p>Yeah</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14678821</guid>
+				<title>Exploring Eberron and Homebrew Races</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14678821/exploring-eberron-and-homebrew-races</link>
+				<description>Thoughts potentially on adding the homebrew races from Keith Baker&#039;s Exploring Eberron or other homebrew races</description>
+				<pubDate>Tue, 03 May 2022 03:51:20 +0000</pubDate>
+				<wikidot:authorName>ThymeSaffron</wikidot:authorName>				<wikidot:authorUserId>6941388</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Heyo, I was recently looking through the Exploring Eberron book, and I know that the homebrew subclasses are added onto here, but I was wondering if there would be a chance to add the homebrew races as well? Such as the Gnoll, and extra subraces for Aasimar and etc. It would be cool to see them on here, but i understand if not. Thanks for y'all time!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14673252</guid>
+				<title>Equipment and Items</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14673252/equipment-and-items</link>
+				<description></description>
+				<pubDate>Sat, 30 Apr 2022 19:02:10 +0000</pubDate>
+				<wikidot:authorName>Dexials</wikidot:authorName>				<wikidot:authorUserId>8012334</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hello, new user here love how usefully this page is. I was wondering if tables and descriptions will be added for equipment. For example some classes start with a &quot;dungeoneer’s pack&quot;, but there's no table or description about what's in that pack. Sure it's easy to google, but just wondering if that'll be something to get added?</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14663637</guid>
+				<title>Heroes of Krynn Revisited UA</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14663637/heroes-of-krynn-revisited-ua</link>
+				<description></description>
+				<pubDate>Mon, 25 Apr 2022 20:24:19 +0000</pubDate>
+				<wikidot:authorName>Valkyria Grey</wikidot:authorName>				<wikidot:authorUserId>6675660</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>This new UA is basically revising elements from the last one. I'll be combing through it over the next few days, either making updates to current pages or making new ones if the changes are significant enough. I'll post any new pages or note any changes here.</p> <p>Kender (Revised) - <a href="http://dnd5e.wikidot.com/kender-ua-revised">http://dnd5e.wikidot.com/kender-ua-revised</a></p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14596844</guid>
+				<title>Lineage Pages for MMotM</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14596844/lineage-pages-for-mmotm</link>
+				<description>making pages and getting everything linked to the main page</description>
+				<pubDate>Wed, 06 Apr 2022 16:06:29 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I've recently gotten access to the MMotM book and have been trying to figure out how to incorporate its entries based on earlier discussions. I've been using Fredbob's lineage page on the test page (<a href="http://dnd5e.wikidot.com/lineage">linked here</a>) and begun working on making new lineage pages for MMotM. I'll try to update my progress as I go, but hopefully it can be a template for others with the book who want to add other entries (and maybe even incorporating the lineage structure into the main page).</p> <table class="wiki-content-table"> <tr> <th>Lineage</th> <th>Link (if complete)</th> </tr> <tr> <td>Aarakocra</td> <td><a href="http://dnd5e.wikidot.com/lineage:aarakocra-mmotm">http://dnd5e.wikidot.com/lineage:aarakocra-mmotm</a></td> </tr> <tr> <td>Aasimar</td> <td><a href="http://dnd5e.wikidot.com/lineage:aasimar-mmotm">http://dnd5e.wikidot.com/lineage:aasimar-mmotm</a></td> </tr> <tr> <td>Bugbear</td> <td><a href="http://dnd5e.wikidot.com/lineage:bugbear-mmotm">http://dnd5e.wikidot.com/lineage:bugbear-mmotm</a></td> </tr> <tr> <td>Centaur</td> <td><a href="http://dnd5e.wikidot.com/lineage:centaur-mmotm">http://dnd5e.wikidot.com/lineage:centaur-mmotm</a></td> </tr> <tr> <td>Changeling</td> <td><a href="http://dnd5e.wikidot.com/lineage:changeling-mmotm">http://dnd5e.wikidot.com/lineage:changeling-mmotm</a></td> </tr> <tr> <td>Deep Gnome</td> <td><a href="http://dnd5e.wikidot.com/lineage:deep-gnome-mmotm">http://dnd5e.wikidot.com/lineage:deep-gnome-mmotm</a></td> </tr> <tr> <td>Duergar</td> <td><a href="http://dnd5e.wikidot.com/lineage:duergar-mmotm">http://dnd5e.wikidot.com/lineage:duergar-mmotm</a></td> </tr> <tr> <td>Eladrin</td> <td><a href="http://dnd5e.wikidot.com/lineage:eladrin-mmotm">http://dnd5e.wikidot.com/lineage:eladrin-mmotm</a></td> </tr> <tr> <td>Fairy</td> <td><a href="http://dnd5e.wikidot.com/lineage:fairy-mmotm">http://dnd5e.wikidot.com/lineage:fairy-mmotm</a></td> </tr> <tr> <td>Firbolg</td> <td><a href="http://dnd5e.wikidot.com/lineage:firbolg-mmotm">http://dnd5e.wikidot.com/lineage:firbolg-mmotm</a></td> </tr> <tr> <td>Genasi, Air</td> <td><a href="http://dnd5e.wikidot.com/lineage:genasi-air-mmotm">http://dnd5e.wikidot.com/lineage:genasi-air-mmotm</a></td> </tr> <tr> <td>Genasi, Earth</td> <td><a href="http://dnd5e.wikidot.com/lineage:genasi-earth-mmotm">http://dnd5e.wikidot.com/lineage:genasi-earth-mmotm</a></td> </tr> <tr> <td>Genasi, Fire</td> <td><a href="http://dnd5e.wikidot.com/lineage:genasi-fire-mmotm">http://dnd5e.wikidot.com/lineage:genasi-fire-mmotm</a></td> </tr> <tr> <td>Genasi, Water</td> <td><a href="http://dnd5e.wikidot.com/lineage:genasi-water-mmotm">http://dnd5e.wikidot.com/lineage:genasi-water-mmotm</a></td> </tr> <tr> <td>Githyanki</td> <td><a href="http://dnd5e.wikidot.com/lineage:githyanki-mmotm">http://dnd5e.wikidot.com/lineage:githyanki-mmotm</a></td> </tr> <tr> <td>Githzerai</td> <td><a href="http://dnd5e.wikidot.com/lineage:githzerai-mmotm">http://dnd5e.wikidot.com/lineage:githzerai-mmotm</a></td> </tr> <tr> <td>Goblin</td> <td><a href="http://dnd5e.wikidot.com/lineage:goblin-mmotm">http://dnd5e.wikidot.com/lineage:goblin-mmotm</a></td> </tr> <tr> <td>Goliath</td> <td><a href="http://dnd5e.wikidot.com/lineage:goliath-mmotm">http://dnd5e.wikidot.com/lineage:goliath-mmotm</a></td> </tr> <tr> <td>Harengon</td> <td><a href="http://dnd5e.wikidot.com/lineage:harengon-mmotm">http://dnd5e.wikidot.com/lineage:harengon-mmotm</a></td> </tr> <tr> <td>Hobgoblin</td> <td><a href="http://dnd5e.wikidot.com/lineage:hobgoblin-mmotm">http://dnd5e.wikidot.com/lineage:hobgoblin-mmotm</a></td> </tr> <tr> <td>Kenku</td> <td><a href="http://dnd5e.wikidot.com/lineage:kenku-mmotm">http://dnd5e.wikidot.com/lineage:kenku-mmotm</a></td> </tr> <tr> <td>Kobold</td> <td><a href="http://dnd5e.wikidot.com/lineage:kobold-mmotm">http://dnd5e.wikidot.com/lineage:kobold-mmotm</a></td> </tr> <tr> <td>Lizardfolk</td> <td><a href="http://dnd5e.wikidot.com/lineage:lizardfolk-mmotm">http://dnd5e.wikidot.com/lineage:lizardfolk-mmotm</a></td> </tr> <tr> <td>Minotaur</td> <td><a href="http://dnd5e.wikidot.com/lineage:minotaur-mmotm">http://dnd5e.wikidot.com/lineage:minotaur-mmotm</a></td> </tr> <tr> <td>Orc</td> <td><a href="http://dnd5e.wikidot.com/lineage:orc-mmotm">http://dnd5e.wikidot.com/lineage:orc-mmotm</a></td> </tr> <tr> <td>Satyr</td> <td><a href="http://dnd5e.wikidot.com/lineage:satyr-mmotm">http://dnd5e.wikidot.com/lineage:satyr-mmotm</a></td> </tr> <tr> <td>Sea Elf</td> <td><a href="http://dnd5e.wikidot.com/lineage:sea-elf-mmotm">http://dnd5e.wikidot.com/lineage:sea-elf-mmotm</a></td> </tr> <tr> <td>Shadar-Kai</td> <td><a href="http://dnd5e.wikidot.com/lineage:shadar-kai-mmotm">http://dnd5e.wikidot.com/lineage:shadar-kai-mmotm</a></td> </tr> <tr> <td>Shifter</td> <td><a href="http://dnd5e.wikidot.com/lineage:shifter-mmotm">http://dnd5e.wikidot.com/lineage:shifter-mmotm</a></td> </tr> <tr> <td>Tabaxi</td> <td><a href="http://dnd5e.wikidot.com/lineage:tabaxi-mmotm">http://dnd5e.wikidot.com/lineage:tabaxi-mmotm</a></td> </tr> <tr> <td>Tortle</td> <td><a href="http://dnd5e.wikidot.com/lineage:tortle-mmotm">http://dnd5e.wikidot.com/lineage:tortle-mmotm</a></td> </tr> <tr> <td>Triton</td> <td><a href="http://dnd5e.wikidot.com/lineage:triton-mmotm">http://dnd5e.wikidot.com/lineage:triton-mmotm</a></td> </tr> <tr> <td>Yuan-Ti</td> <td><a href="http://dnd5e.wikidot.com/lineage:yuan-ti-mmotm">http://dnd5e.wikidot.com/lineage:yuan-ti-mmotm</a></td> </tr> </table> <p><span style="text-decoration: line-through;">if anyone wants to also add pages for the updated linages, use the ones above as a template and reply to this with the links.</span></p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14592571</guid>
+				<title>Correction at the Summon Celestial page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14592571/correction-at-the-summon-celestial-page</link>
+				<description></description>
+				<pubDate>Sun, 03 Apr 2022 12:53:10 +0000</pubDate>
+				<wikidot:authorName>Kostas Sgouros</wikidot:authorName>				<wikidot:authorUserId>7965449</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>At the Summon Celestial page, at the Celestial Spirit stat block, at the AC tab, it should be added &quot;+2 (Defender only)&quot; according to page 110 of Tasha's Cauldron of Everything&quot; book.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14582244</guid>
+				<title>Call to all Rules lawyers and contract specialist</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14582244/call-to-all-rules-lawyers-and-contract-specialist</link>
+				<description>I need help creating a contract with a demon Lord</description>
+				<pubDate>Mon, 28 Mar 2022 15:01:52 +0000</pubDate>
+				<wikidot:authorName>Neon Rayne </wikidot:authorName>				<wikidot:authorUserId>7956269</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>A call to all Rules lawyers and contract specialists I need help￼</p> <p>So I’m in a campaign￼ with a soul collecting demon lord, whose primary goal is to collect the souls of the entire party. he already has two￼ and set up my character for a slow burn mid to late campaign collection should I give in.￼ Now I play an aasimar ￼ corrupted by a vampire bite so technically fallen but not if you know what I mean (protector Aasimar damphier hybrid)(Domain of￼ blood cleric rogue assassin) ￼￼ basically a justicar(definitely didn’t spell that right)￼ /temple assassin in-service to the goddess of war soldiers and Justice. ￼and this demon lord is a contract specialist￼. Due to events in the campaign￼ Several of our party needed to disguise themselves due to a quest in which our party needed to enter a foreign country with a severe opposition to magic specifically they employ mage hunters￼￼ One of our tiefling‘s while in my presence requested this disguise from his patron a.k.a. the demon lord who we all know as shade now our tiefling did not specify the disguise other than to blend in and be able to swim so he’s patron utilizing my characters biggest weakness￼ Ultra cute fluffy things temporarily permanently￼ ￼(if he doesn’t fulfill the bargain he remains in this form( Collect the soul of the regent of the country we are headed to who is in league with one of the big bad cults And has escaped my goddess is justice￼￼) Transformed our Centaur tiefling Into a super cute fluffy female jackalope ￼ A.k.a. my characters perfect addiction ￼ so far this demon lord has only requested the souls of sinners and those who have escaped justice So in essence working within the confines of my goddesses (mandate￼? Can’t really think of a good word here) but I think you’ll get my meaning So what I’m asking is to gather my rules lawyers and contract specialists and help me create a situation in which I have a full proof contract ready for the temptation of sad demon lord because odds are He’s going to corrupt the party￼￼￼ And I’m trying to figure out a way to keep my soul my own and pure while still reaping the benefits￼ That he offers￼ My friends I set you this task￼ Do not fail me￼ For I wish to have my bunny girl cake and eat it too￼</p> <p>And on a sidenote I can’t even kill this guy without violating my goddesses tenants￼￼</p> <p>Now even should a party get together with a deity or somesuch to kill said demon lord he is “completely innocent of sin” and therefore I would be violating the tenants of my Goddess by killing him</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14574559</guid>
+				<title>Corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14574559/corrections</link>
+				<description></description>
+				<pubDate>Tue, 22 Mar 2022 02:29:05 +0000</pubDate>
+				<wikidot:authorName>Kaplosion</wikidot:authorName>				<wikidot:authorUserId>7914322</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Cause Fear - does not have Somatic components<br /> Summon Fiend - Death Throes says &quot;ire damage&quot; instead &quot;fire damage&quot;<br /> Conjure Lesser Demon - Title should be &quot;Conjure Lesser Demon (UA)&quot;</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14556402</guid>
+				<title>Aura of Vitality: Wrong classes</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14556402/aura-of-vitality:wrong-classes</link>
+				<description>The spell Aura of Vitality should only be accessible to Paladins.</description>
+				<pubDate>Thu, 10 Mar 2022 19:40:53 +0000</pubDate>
+				<wikidot:authorName>Obnidem</wikidot:authorName>				<wikidot:authorUserId>7340743</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The 3rd level spell Aura of Vitality should - according to other sites - only be accessible to Paladins, but is also listed for Clerics and Druids.</p> <p>I hope this is the correct way of reporting mistakes like this. Otherwise feel free to educate me.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14553846</guid>
+				<title>Heroes of Krynn UA</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14553846/heroes-of-krynn-ua</link>
+				<description></description>
+				<pubDate>Tue, 08 Mar 2022 22:53:21 +0000</pubDate>
+				<wikidot:authorName>Valkyria Grey</wikidot:authorName>				<wikidot:authorUserId>6675660</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>New UA just dropped, so there's new stuff to add. I'll be posting the links to the pages I make for them here.</p> <p>Races/Lineages:<br /> Kender race - <a href="http://dnd5e.wikidot.com/kender-ua">http://dnd5e.wikidot.com/kender-ua</a></p> <p>Subclasses:<br /> Sorcerer Lunar Magic subclass - <a href="http://dnd5e.wikidot.com/sorcerer:lunar-magic-ua">http://dnd5e.wikidot.com/sorcerer:lunar-magic-ua</a></p> <p>Backgrounds:<br /> Knight of Solamnia - <a href="http://dnd5e.wikidot.com/background:knight-of-solamnia-ua">http://dnd5e.wikidot.com/background:knight-of-solamnia-ua</a></p> <p>Mage of High Sorcery - <a href="http://dnd5e.wikidot.com/background:mage-of-high-sorcery-ua">http://dnd5e.wikidot.com/background:mage-of-high-sorcery-ua</a></p> <p>Feats:<br /> Adept of the Black Robes - <a href="http://dnd5e.wikidot.com/feat:adept-of-the-black-robes-ua">http://dnd5e.wikidot.com/feat:adept-of-the-black-robes-ua</a></p> <p>Adept of the Red Robes - <a href="http://dnd5e.wikidot.com/feat:adept-of-the-red-robes-ua">http://dnd5e.wikidot.com/feat:adept-of-the-red-robes-ua</a></p> <p>Adept of the White Robes - <a href="http://dnd5e.wikidot.com/feat:adept-of-the-white-robes-ua">http://dnd5e.wikidot.com/feat:adept-of-the-white-robes-ua</a></p> <p>Divine Communications - <a href="http://dnd5e.wikidot.com/feat:divine-communications-ua">http://dnd5e.wikidot.com/feat:divine-communications-ua</a></p> <p>Divinely Favored - <a href="http://dnd5e.wikidot.com/feat:divinely-favored-ua">http://dnd5e.wikidot.com/feat:divinely-favored-ua</a></p> <p>Initiate of High Sorcery - <a href="http://dnd5e.wikidot.com/feat:initiate-of-high-sorcery-ua">http://dnd5e.wikidot.com/feat:initiate-of-high-sorcery-ua</a></p> <p>Knight of the Crown - <a href="http://dnd5e.wikidot.com/feat:knight-of-the-crown-ua">http://dnd5e.wikidot.com/feat:knight-of-the-crown-ua</a></p> <p>Knight of the Sword - <a href="http://dnd5e.wikidot.com/feat:knight-of-the-sword-ua">http://dnd5e.wikidot.com/feat:knight-of-the-sword-ua</a></p> <p>Knight of the Rose - <a href="http://dnd5e.wikidot.com/feat:knight-of-the-rose-ua">http://dnd5e.wikidot.com/feat:knight-of-the-rose-ua</a></p> <p>Squire of Solamnia - <a href="http://dnd5e.wikidot.com/feat:squire-of-solamnia-ua">http://dnd5e.wikidot.com/feat:squire-of-solamnia-ua</a></p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14545578</guid>
+				<title>Auroboros: Coils of the Serpent</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14545578/auroboros:coils-of-the-serpent</link>
+				<description>Should we include this content in the homebrew section?</description>
+				<pubDate>Tue, 01 Mar 2022 03:47:26 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Figured I'd throw this out there, see what everyone thinks. See how this approach to including non-official content works.</p> <p>I backed this Kickstarter a while ago, and they're getting ready to send digital copies of the content out this week. What does everyone think about including this? Raised about $1.2 million on Kickstarter, and based on a campaign run by Chris Metzen (former Blizzard employee who worked on Starcraft, WoW, etc.) back in the 80's and 90's.</p> <p>Link to the Kickstarter: <a href="https://www.kickstarter.com/projects/warchief/auroboros/description">https://www.kickstarter.com/projects/warchief/auroboros/description</a></p> <p>Once I have a copy, I can share some of the content on here so people can get a better idea of the quality.</p> <p><iframe frameborder='0' src='https://www.easypolls.net/poll.html?p=621d976de4b0e79a5d056d28' width='280' height='335'></iframe></p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14476631</guid>
+				<title>Why does some parts dont show on the main page?</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14476631/why-does-some-parts-dont-show-on-the-main-page</link>
+				<description></description>
+				<pubDate>Wed, 09 Feb 2022 07:00:36 +0000</pubDate>
+				<wikidot:authorName>Toksy3</wikidot:authorName>				<wikidot:authorUserId>7884423</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I was looking for race and found fairy on this page but to my suprise the non ua isn't on the main page, i have to speciffically search it, do you know any reason to it?</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14474696</guid>
+				<title>Tal&#039;Dorei Campaign Setting Reborn</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14474696/tal-dorei-campaign-setting-reborn</link>
+				<description>The third Critical Role sourcebook came out</description>
+				<pubDate>Tue, 08 Feb 2022 02:31:17 +0000</pubDate>
+				<wikidot:authorName>Dr Benji</wikidot:authorName>				<wikidot:authorUserId>1575709</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Heya, just wanted to know if the items and subclasses added in Tal'Dorei reborn would be put on the wiki in a near future. I'm aware that unlike the Explorer Guide to Wildemount, it isn't officialy licenced by WotC but I still believe it deserves a spot in the homebrew section.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14470304</guid>
+				<title>Mordenkainen&#039;s Monsters of the Multiverse</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14470304/mordenkainen-s-monsters-of-the-multiverse</link>
+				<description></description>
+				<pubDate>Fri, 04 Feb 2022 19:16:53 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>So as was pointed out to me recently, this book is now available, even if only in a bundle. Has anyone purchased it? I think most of the player options in it are reprints of the player races; I wonder if there are any changes vs. the existing versions from the various books.</p> <p>If so, I think we want to keep the originals intact, and add in MMotM as additional options. What does everyone think?</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14463720</guid>
+				<title>No Siren race?</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14463720/no-siren-race</link>
+				<description>The Siren race from Planeshift: Ixalan is missing!!</description>
+				<pubDate>Sat, 22 Jan 2022 14:44:59 +0000</pubDate>
+				<wikidot:authorName>snowynya</wikidot:authorName>				<wikidot:authorUserId>7727402</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hi! I was just looking through the Planeshift documents and noticed that the Siren wasn't on there!<br /> Or, perhaps it <em>is</em> already on the site but isn't linked to from the front page?</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14460644</guid>
+				<title>Wrong URL on the Epic Boons page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14460644/wrong-url-on-the-epic-boons-page</link>
+				<description>Wrong URL for Thunderwave in the Boon of the Stormborn description</description>
+				<pubDate>Tue, 18 Jan 2022 03:58:50 +0000</pubDate>
+				<wikidot:authorName>Oracle-Raven</wikidot:authorName>				<wikidot:authorUserId>7541010</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>On the page for Epic Boons, the description for the Boon of the Stormborn has a link to the Thunderwave spell, but it's linking to the wrong page (thunderwave instead of spell:thunderwave)</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14460543</guid>
+				<title>Lycanthrope/Origins of the Beast</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14460543/lycanthrope-origins-of-the-beast</link>
+				<description></description>
+				<pubDate>Tue, 18 Jan 2022 00:30:41 +0000</pubDate>
+				<wikidot:authorName>DerbyD</wikidot:authorName>				<wikidot:authorUserId>7849920</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Currently my character is a Goliath, level 2 barbarian/level1 fighter with a background of Gladiator. If I choose to level up the barbarian to level 3 and go Path of the Beast, do I also choose one of the four Origins of the Beast and get the pro/cons that come with it? I ask as I am thinking of going Goliath Lycanthrope so I may add 1 to both Strength and Constitution. I currently have + 6 Athletics so losing Natural Athlete may not be a big deal.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14441266</guid>
+				<title>Missing errata from the Conjuration Wizard page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14441266/missing-errata-from-the-conjuration-wizard-page</link>
+				<description>Minor Conjuration (p. 116) description changed</description>
+				<pubDate>Mon, 10 Jan 2022 04:10:15 +0000</pubDate>
+				<wikidot:authorName>Oracle-Raven</wikidot:authorName>				<wikidot:authorUserId>7541010</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>On the Conjuration Wizard page:<br /> <em>The object disappears after 1 hour, when you use this feature again, or if it takes any damage.</em></p> <p>The Minor Conjuration feature (p.116) received an errata in 2018 that is missing from the wikidot page.<br /> It should now read:<br /> <em>The object disappears after 1 hour, when you use this feature again, or if it takes <strong>or deals</strong> any damage.</em></p> <p>I believe this was added to prevent abuse with Purple Worm poison and similar items.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14415007</guid>
+				<title>Strixhaven: A Curriculum of Chaos</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14415007/strixhaven:a-curriculum-of-chaos</link>
+				<description>Content to be added from the newest release</description>
+				<pubDate>Wed, 29 Dec 2021 00:31:52 +0000</pubDate>
+				<wikidot:authorName>Valkyria Grey</wikidot:authorName>				<wikidot:authorUserId>6675660</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>So I recently got the new Strixhaven book and so I'm going to be creating pages for all the new player-related content and posting the links here.</p> <p>Owlin Race - <a href="http://dnd5e.wikidot.com/owlin">http://dnd5e.wikidot.com/owlin</a></p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14387377</guid>
+				<title>New Lineage Pages</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14387377/new-lineage-pages</link>
+				<description></description>
+				<pubDate>Thu, 16 Dec 2021 21:09:32 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>So been working on this off and on for months. It's always bugged me that the races (from this point on called lineages) weren't actually in their own categories. And the whole set up I thought was kind of messy so thought I'd play around see if I could come up with something else.</p> <p><a href="http://dnd5e.wikidot.com/lineage">http://dnd5e.wikidot.com/lineage</a></p> <p>If you look at the coding on these, most of them use [[include]] statements and pull in from other pages specific to a given variant or release version. If there's only a single variant, then it's all just coded on the main page.</p> <p>Curious what you all think of this set up. It won't make for a huge change to the main page, but gets them all in a category and should be a bit easier to handle if/when we start setting up book/setting specific pages like has been discussed in other threads.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14384149</guid>
+				<title>Monsters?</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14384149/monsters</link>
+				<description>Wondering if anyone could or will eventually work on adding a page with monsters stat blocks?</description>
+				<pubDate>Tue, 14 Dec 2021 15:15:51 +0000</pubDate>
+				<wikidot:authorName>Megananium</wikidot:authorName>				<wikidot:authorUserId>7798991</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I've been wondering for some time if anyone will end up adding a page similar to the magic items page but with all the monsters stat blocks. Sorry if this is already a thread if it is I couldn't find it. I realize this is a big thing if anyone decides to add it so not expecting anything anytime soon if at all just wanted to ask.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14378761</guid>
+				<title>Distinguishing non Standard content</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14378761/distinguishing-non-standard-content</link>
+				<description>Should the wikidot make better effort to distinguish between content from standard sources and setting specific sources</description>
+				<pubDate>Wed, 08 Dec 2021 10:23:02 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>With the release of Strixhaven meaning we will be adding the content from the book to the website, it's had me thinking about the way this website presents content from non-standard settings (partially due to the concerns for balance with some of said content within the book)</p> <p>the current form of the website doesn't do too much really, aside from seperating some stuff on the frontpage, such as 'setting specific races', however with the fact that many people use this website to learn more about the game, I feel the website should take better effort to distinguish between core and non-standard content. Especially since, with the release of Strixhaven, the dev's are basically announcing their intent to have different settings have different amounts of player balance. (Strixhaven backgrounds give a free feat. And for older examples, the Ravnica backgrounds added extra spells to your class spell list)</p> <p><em>[Content] is part of the [setting] setting, and may not be designed for play outside of its original setting. Check with your DM whether it is good to use if you are going to be using it in play</em></p> <p>or something along those lines, just to denote that the content is not usually part of the 'base game'. I mean, I feel like we have a sorta responsibility to try to make the game easier on others, especially others who are getting into the game, since we do run a website like this, and making stuff clear that its not part of the normal should be something we should do.</p> <p>Yeah the sources exist, but if you're a new player, something saying 'Source: Unearthed Arcana 1', 'Source: Xanathar's Guide to Everything' or 'Source: Strixhaven: Curriculum of Chaos' is kinda meaningless, if they even do read them</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14365954</guid>
+				<title>Wildhunt Shifter needs to be updated</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14365954/wildhunt-shifter-needs-to-be-updated</link>
+				<description></description>
+				<pubDate>Sat, 04 Dec 2021 21:49:17 +0000</pubDate>
+				<wikidot:authorName>Chaz Hodge</wikidot:authorName>				<wikidot:authorUserId>7789438</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The Wildhunt Shifter subrace has its source listed as Eberron Rising from the Last War but it is actually the version from Wayfinders Guide to Eberron. The Eberron Rising from the Last War version still needs to be added.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14359319</guid>
+				<title>Tools</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14359319/tools</link>
+				<description>I made a page for Tools (both PHB and XGE stuff)</description>
+				<pubDate>Fri, 03 Dec 2021 02:05:40 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>So in the spirit of finishing the <em>This Is Your Life</em> page, I decided to start adding in descriptions of the various tool kits, esp since we don't have them otherwise in items. I've gotten pretty far, and all that remains is adding the tool descriptions from XGE (I got up to cartographer's tools).</p> <p>The page is <a href="http://dnd5e.wikidot.com/tools">http://dnd5e.wikidot.com/tools</a>, feel free to work on it if you've got the time, otherwise i'll work on it when I have the time. I think it could fit in either Items as its own category or in Miscellaneous, but I'm leaning towards Items.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14349927</guid>
+				<title>D&amp;D 5E - Missing feature from the Armorer subclass (Artificer)</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14349927/d-d-5e-missing-feature-from-the-armorer-subclass-artificer</link>
+				<description>The Armorer subclass page is missing a feature</description>
+				<pubDate>Fri, 26 Nov 2021 23:57:40 +0000</pubDate>
+				<wikidot:authorName>Oracle-Raven</wikidot:authorName>				<wikidot:authorUserId>7541010</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hi,<br /> I just noticed that the page on the Armorer subclass for the Artificer is missing a feature.</p> <p>On pages 15 and 16 of Tasha's Cauldron of Everything, at Level 3 it says:<br /> <em>&quot;You gain the following benefits while wearing this armor:<br /> - If the armor normally has a Strength requirement, the arcane armor lacks this requirement for you.<br /> - You can use the arcane armor as a spellcasting focus for your artificer spells.<br /> - The armor attaches to you and can’t be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a bonus action. The armor replaces any missing limbs, functioning identically to a body part it is replacing.<br /> <strong>- You can doff or don the armor as an action.</strong><br /> The armor continues to be Arcane Armor until you don another suit of armor or you die.&quot;</em></p> <p>The part that says &quot;you can doff or don the armor as an action&quot; is missing from the wikidot page.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14330690</guid>
+				<title>Missing Backgrounds</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14330690/missing-backgrounds</link>
+				<description>I&#039;m gonna add the last backgrounds we don&#039;t already have (State of Hillsfar and Acquisitions Inc)</description>
+				<pubDate>Sun, 21 Nov 2021 02:27:16 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>It took me a while since I couldn't find the <em>State of Hillsfar</em> backgrounds pdf, but now that I have, I'll be working on the last backgrounds we haven't made pages for yet. I'll update this forum as I do it. Let me know if there's any we still don't have and I'll add them to the list.</p> <table class="wiki-content-table"> <tr> <th>Source</th> <th>Background</th> <th>Status</th> </tr> <tr> <td>State of Hillsfar</td> <td><a href="http://dnd5e.wikidot.com/background:secret-identity">Secret Identity</a></td> <td>Page Complete</td> </tr> <tr> <td>State of Hillsfar</td> <td><a href="http://dnd5e.wikidot.com/background:shade-fanatic">Shade Fanatic</a></td> <td>Page Complete</td> </tr> <tr> <td>State of Hillsfar</td> <td><a href="http://dnd5e.wikidot.com/background:trade-sheriff">Trade Sheriff</a></td> <td>Page Complete</td> </tr> <tr> <td>Acquisitions Inc</td> <td><a href="http://dnd5e.wikidot.com/background:celebrity-adventurers-scion">Celebrity Adventurer's Scion</a></td> <td>Page Complete</td> </tr> <tr> <td>Acquisitions Inc</td> <td><a href="http://dnd5e.wikidot.com/background:failed-merchant">Failed Merchant</a></td> <td>Page Complete</td> </tr> <tr> <td>Acquisitions Inc</td> <td><a href="http://dnd5e.wikidot.com/background:gambler">Gambler</a></td> <td>Page Complete</td> </tr> <tr> <td>Acquisitions Inc</td> <td><a href="http://dnd5e.wikidot.com/background:plaintiff">Plaintiff</a></td> <td>Page Complete</td> </tr> <tr> <td>Acquisitions Inc</td> <td><a href="http://dnd5e.wikidot.com/background:rival-intern">Rival Intern</a></td> <td>Page Complete</td> </tr> </table> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14277737</guid>
+				<title>[D&amp;D 5th Edition] wikidot, Link not working (Greater Invisibility)</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14277737/d-d-5th-edition-wikidot-link-not-working-greater-invisibilit</link>
+				<description>Found an URL typo on the Armorer page</description>
+				<pubDate>Thu, 11 Nov 2021 22:20:32 +0000</pubDate>
+				<wikidot:authorName>Oracle-Raven</wikidot:authorName>				<wikidot:authorUserId>7541010</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hi,<br /> I found a typo in one of the links on the page of the Armorer subclass for Artificers.</p> <p>The 13th level spell Greater Invisibility is misspelled as &quot;Invisibilty&quot; with a missing &quot;i&quot;, and also leads to a link that isn't working because it's also missing an &quot;i&quot; in the URL</p> <p>Thanks!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14275009</guid>
+				<title>DMG Races and further miscellany</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14275009/dmg-races-and-further-miscellany</link>
+				<description></description>
+				<pubDate>Thu, 11 Nov 2021 04:20:18 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>You may have noticed the Aasimar page now holds the DMG example race listed in it.</p> <p>Additionally, I will be adding the Eladrin subrace from the DMG to the Elf page shortly.</p> <p>Following this, I will create pages for the Madness system and tables from the DMG, as well as the Spell Points system for spellcasters, all to be listed within the miscellaneous section on the front page.</p> <p>Edit: Eladrin (DMG) added</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14253914</guid>
+				<title>Spell issue</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14253914/spell-issue</link>
+				<description>Mass healing word in Bard spell list</description>
+				<pubDate>Wed, 03 Nov 2021 02:23:05 +0000</pubDate>
+				<wikidot:authorName>flyingssquirel</wikidot:authorName>				<wikidot:authorUserId>7737654</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I noticed that Mass healing word is in the Bard spell list. My understanding is it is only in the Cleric and some subclasses.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

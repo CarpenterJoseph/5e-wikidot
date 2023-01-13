@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Magic Items Page</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14011861/magic-items-page</link>
+		<description>Posts in the discussion thread &quot;Magic Items Page&quot; - should we add semi-official items to the Wondrous Items page? how&#039;s the page look? changes?</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:23:54 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14011861#post-4927924</guid>
+				<title>Re: Magic Items Page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14011861/magic-items-page#post-4927924</link>
+				<description></description>
+				<pubDate>Wed, 17 Mar 2021 00:53:22 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Once I get access to the books, I'll add the items to the website. Didn't think they'd come out so soon!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14011861#post-4927407</guid>
+				<title>Re: Magic Items Page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14011861/magic-items-page#post-4927407</link>
+				<description></description>
+				<pubDate>Tue, 16 Mar 2021 11:32:58 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Ooh, apparently the new candle keep cove (or whatever it was called) mystery themed books has some new magic items that came alongside it</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14011861#post-4922462</guid>
+				<title>Re: Magic Items Page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14011861/magic-items-page#post-4922462</link>
+				<description></description>
+				<pubDate>Wed, 10 Mar 2021 15:25:40 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Sounds good. I just updated the wondrous-items page to be the new format. I'll leave the main page management to you, but barring some CSS wizardry I'm unaware of, it should be all set until the next sourcebooks come out. Guess I need to find something else to work on now lol. It's been a nice distraction over the last 4.5 months</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14011861#post-4921993</guid>
+				<title>Re: Magic Items Page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14011861/magic-items-page#post-4921993</link>
+				<description></description>
+				<pubDate>Wed, 10 Mar 2021 01:09:28 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Nicely done! I've been keeping up with what's been going on but haven't really had the time to contribute, moved a few months ago and we're still trying to get settled into the new house.</p> <p>For the main page, we can certainly move magic items somewhere else, they do kind of get lost in the shuffle of everything on the page. I can mess around a bit later this week and see what I can come up with.</p> <p>As for using magic-items or wondrous-items; I'm fine sticking with wondrous, means we don't have to move all the pages you just created to magic to keep things consistent.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14011861#post-4921674</guid>
+				<title>Re: Magic Items Page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14011861/magic-items-page#post-4921674</link>
+				<description></description>
+				<pubDate>Tue, 09 Mar 2021 16:31:49 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Ok. This should be my last post on the matter.</p> <p>So as far as I can tell, the new Magic Items page (<a href="http://dnd5e.wikidot.com/magic-items">http://dnd5e.wikidot.com/magic-items</a>) is fully operational and good to go. It sorts all published items by rarity, and there's links to pages where you can look at specific item types or look at all items published in specific sources. I can't figure out how to sort the pages differently, but with the links provided, it should provide everything people should need.</p> <p>I guess the last questions are<br /> 1) Should we change how magic items are promoted on the main page? It's currently sort of hidden under items under &quot;Wondrous Items&quot;. I don't know if it's important enough for us to want to give it its own larger space on the main page.<br /> 2) Should we change where the link goes on the main page (change from <a href="http://dnd5e.wikidot.com/wondrous-items">http://dnd5e.wikidot.com/wondrous-items</a> to <a href="http://dnd5e.wikidot.com/magic-items">http://dnd5e.wikidot.com/magic-items</a>) OR should we just copy the source of magic-items and paste over the source of wondrous-items? Currently, every magic item page is filed under dnd5e.wikidot.com/wondrous-items, so avoiding adding magic-items to the mix might be for the best, but I don't know if anyone wants to keep the massive list currently found at wondrous-items.</p> <p>Let me know what you all think, and the admins can adjust the main page as they wish.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14011861#post-4920774</guid>
+				<title>Re: Magic Items Page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14011861/magic-items-page#post-4920774</link>
+				<description></description>
+				<pubDate>Mon, 08 Mar 2021 17:40:03 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Turns out tagging items is a much faster process than I thought. I've also hit some problems I wanted advice on.</p> <p>First of all, every item has now been tagged with the 3 following signifiers<br /> 1) Source (DMG, TCE, etc. The full list can be seen at the top of <a href="http://dnd5e.wikidot.com/wondrous-items">http://dnd5e.wikidot.com/wondrous-items</a>)<br /> 2) Rarity (common, uncommon, rare, very-rare, legendary, artifact, unique)<br /> 3) Item type (armor, potion, ring, rod, scroll, staff, wand, weapon, wondrous-item)</p> <p>There's also the two additional signifiers as needed:<br /> 4) Attuned (if it requires any sort of attunement)<br /> 5) Homebrew (so far, only Legend of Runeterra and Tal'Dorei Campaign Setting are added, but more can be based on need)</p> <p>More importantly, I've been tinkering on the page <a href="http://dnd5e.wikidot.com/magic-items">http://dnd5e.wikidot.com/magic-items</a> to see how a table akin to our spells page would work, and I'm realizing that in addition to tags, we also need to have the tagged information hidden under the item descriptions just as spell information is hidden under spell descriptions. This is the only way to make the items page list anything other than the item's name. I can go back through and try to add that information in, but it will likely take a lot of time. It'll likely be formatted as follows (using the <a href="http://dnd5e.wikidot.com/wondrous-item:potion-of-climbing">Potion of Climbing</a> page as reference. Ignore quotation marks, it's just to work around CSS):</p> <table class="wiki-content-table"> <tr> <th></th> </tr> </table> <p>Source: Dungeon Master's Guide</p> <p><em>Potion, common</em></p> <p>When you drink this potion, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.</p> <p>&quot;====&quot;<br /> [[include :snippets:suo BEGIN CODE |unique=first |type=showto]]<br /> &quot;====&quot;<br /> Potion<br /> &quot;====&quot;<br /> -<br /> &quot;====&quot;<br /> DMG<br /> &quot;====&quot;<br /> [[include :snippets:suo END CODE]]</p> <table class="wiki-content-table"> <tr> <th></th> </tr> </table> <p>If anyone who knows more about CSS than me can confirm if this should work if applied to the item pages so that the final magic items page will be able to list the relevant information, please let me know. I'm kind of just working on trial-and-error from the template of the spells page, so anyone with more experience giving me a nudge in the right direction would be appreciated.</p> <p>Edit: So apparently adding the hidden item information is also not terribly difficult since, in the last 6 hours of on-and-off tinkering. I've already gotten through almost 500 items. The WIP page is also going well, as I've gotten it to categorize items by rarity. The problem is that from there, it can only sort the items alphabetically, and I can't figure out how to change it so that the page might sort the items by, for example, item type or source. If people are alright with the items being sorted alphabetically, that might be fine, but I'd prefer if they could be sorted in other ways. I've also gotten the page to separate the homebrew items from the published items, so I can make a page dedicated to items from the unofficial sources.</p> <p>Anyways, I should be done adding the information to the items by tomorrow night, but I'd still appreciate some advice from CSS experts on how to sort the tables other than alphabetically.</p> <p>Edit 2: Wow uh. All items now have their hidden info added to them. Again, faster than I thought.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14011861#post-4915758</guid>
+				<title>Re: Magic Items Page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14011861/magic-items-page#post-4915758</link>
+				<description></description>
+				<pubDate>Wed, 03 Mar 2021 13:00:11 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>god bless you mate</p> <p>yeah best of luck with the real world stuff</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14011861#post-4914135</guid>
+				<title>Re: Magic Items Page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14011861/magic-items-page#post-4914135</link>
+				<description></description>
+				<pubDate>Mon, 01 Mar 2021 19:42:54 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>lol it was definitely an undertaking. once i finish the last few items (just added the bilgewater items, all that's left is the infernal machine and the tal'dorei items), I'll get to work tagging them. we can probably use the categories that are already there, like<br /> - the shortened version of the book (DMG, TCE, XGE, etc),<br /> - rarity,<br /> - what type of item it is (weapon, armor, potion, wondrous item),<br /> - if it's homebrew, and<br /> - if it needs attunement.</p> <p>I'm not sure how we'd reformat the page itself, like if we'd do the spells page formatting where it's sorted by rarity or item type, but that can be its own discussion. in any case, I'm just glad the information is all collected in one place</p> <p>update: every item is now finished, homebrew and the Infernal Machine included. I need to do some real-world work this week, but I'll get started on tagging the pages so we can organize the magic items page better.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14011861#post-4914105</guid>
+				<title>Re: Magic Items Page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14011861/magic-items-page#post-4914105</link>
+				<description></description>
+				<pubDate>Mon, 01 Mar 2021 18:53:47 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Holy crap man, I thought it took me a long time to get the new spell pages set up. Nicely done!</p> <p>I might take some time in the future to see if we can make some formatting changes so it's easier to find stuff. Maybe something similar to the spell pages. I've had experience adding tags to what seems like innumerable pages so we can work through that if needed. What's a little carpal tunnel in the service of expanding D&amp;D knowledge?</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14011861#post-4913367</guid>
+				<title>Re: Magic Items Page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14011861/magic-items-page#post-4913367</link>
+				<description></description>
+				<pubDate>Mon, 01 Mar 2021 00:07:03 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>thanks! Yeah, it makes sense for Tal'dorei and runeterra to have their items their, since they already have their subclasses and so as pages already</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14011861#post-4910356</guid>
+				<title>Magic Items Page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14011861/magic-items-page#post-4910356</link>
+				<description></description>
+				<pubDate>Thu, 25 Feb 2021 21:22:00 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>so i've spent a long time working on the <a href="http://dnd5e.wikidot.com/wondrous-items">Wondrous Items</a> page, making pages for every magic item, potion, weapon, ring, etc in the dnd books and adding them to the master page. so far, ive gotten through 613 / 721 items (over half of them were from the DMG).</p> <p>in looking for magic items, i also remembered two sources im hesitant to add to the page: &quot;Legends of Runeterra: Dark Tides of Bilgewater&quot; and &quot;Tal'Dorei Campaign Guide&quot;. netiher are official, wizards of the coast properties, but both are relatively popular and wouldn't be out of place considering we already have subclasses from both prominently on our main page. there's only 7 items in LR:DTB (varying from common to rare) and the 16 legendary items in the TDCG. if there's anyone who strongly opposes adding the items (likely under their own category near the bottom), let me know.</p> <p>additionally: if people could take a look at the page and let me know if there's any edits or whatever to the format of the page you'd like done, i'd appreciate it. given the scope of the page, it probably would've been smart to give them tags like our spells and mystic disciplines pages, but i'm already several hundred items in, so i wont change what's there unless there's a strong consensus to do so.</p> <p>anyways have a good week/weekend, stay healthy and all that</p> <p>Update: there's now just one item left: <em>The Infernal Machine of Lum the Mad</em>, so once that's done, every official WOTC magic item will have a page here (as far as I know. let me know if there's anything i've missed)</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Aasimar lineage page error</title>
+		<link>http://dnd5e.wikidot.com/forum/t-15472752/aasimar-lineage-page-error</link>
+		<description>Posts in the discussion thread &quot;Aasimar lineage page error&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:20:53 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15472752#post-5773606</guid>
+				<title>Re: Aasimar lineage page error</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15472752/aasimar-lineage-page-error#post-5773606</link>
+				<description></description>
+				<pubDate>Tue, 20 Dec 2022 15:44:03 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Thanks for the heads up, this has been fixed.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15472752#post-5771679</guid>
+				<title>Aasimar lineage page error</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15472752/aasimar-lineage-page-error#post-5771679</link>
+				<description></description>
+				<pubDate>Mon, 19 Dec 2022 14:40:51 +0000</pubDate>
+				<wikidot:authorName>Aspharon</wikidot:authorName>				<wikidot:authorUserId>7997003</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>On the Aasimar Lineage page, the following error is displayed:</p> <blockquote> <p>Included page &quot;lineage:aasimar-core-vgm&quot; does not exist (create it now)</p> </blockquote> <p>It seems the page refers to the nonexistent page &quot;lineage:aasimar-core-vgm&quot;. Instead, it should be referring to the page &quot;lineage:aasimar-vgm&quot;, which does exist.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Custom Origin vs Custom Lineage</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14030116/custom-origin-vs-custom-lineage</link>
+		<description>Posts in the discussion thread &quot;Custom Origin vs Custom Lineage&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:23:55 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14030116#post-4927922</guid>
+				<title>Re: Custom Origin vs Custom Lineage</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14030116/custom-origin-vs-custom-lineage#post-4927922</link>
+				<description></description>
+				<pubDate>Wed, 17 Mar 2021 00:50:34 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Yes, the user is correct.</p> <p>Custom Origin does not appear in the book, it is a misremembering of the name of the section: <strong>Customizing Your Origin</strong></p> <p>The section which has the race option is indeed called Custom Lineage.</p> <p>It should be simple enough to transfer the contents of the old page to a new page, in fact</p> <p>here: <a href="http://dnd5e.wikidot.com/custom-lineage">http://dnd5e.wikidot.com/custom-lineage</a></p> <p>all that needs to be done is to change the links and names on the front page.</p> <p>The old 'Custom Origin' page even if not linked to should most likely remain, instead of being deleted, for the ease of use of those who are trying to access the page directly from the URL and remember the old link and not the new one</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14030116#post-4927919</guid>
+				<title>Custom Origin vs Custom Lineage</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14030116/custom-origin-vs-custom-lineage#post-4927919</link>
+				<description></description>
+				<pubDate>Wed, 17 Mar 2021 00:40:43 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Ive been informed through a message from a user reading the site that there has been an error potentially with the custom origin page. The user also stated the email has been sent to a few other members of this website, so this forum thread serves as an easier way for us to communicate in coordination, aswell as having other members take part</p> <p>The issue apparently is that Custom Origin from tasha's is a seperate item from Custom Lineage.</p> <p><em>&quot;Hey! I wasn't entirely sure how to go about filing a report on a page so apologies if this isn't the best way to do it but I wanted to point out the page for Custom Orgin (<a href="http://dnd5e.wikidot.com/custom-origin">http://dnd5e.wikidot.com/custom-origin</a>)<br /> is actually the information on Custom Lineage. A little confusing I know imagine how lost I was when I was using this page as my source lol. &quot;</em><br /> <em>&quot;So Custom Lineage is actually the new variant human thing for all races it's in a little box below Custom Orgin in Tasha's this is what's currently on the page I shared before.&quot;</em><br /> <em>&quot;While Custom Orgin is floating stats, manipulatable skills and similar stuff your race provides you. This is like the first entry you can find on Tasha's.&quot;</em></p> <p>This is a mistake on my part completely, as I was confused due to the similarity of the terms, aswell as their similiar location within the book</p> <p>As a link cannot be changed, it would most likely be needed to be moved to a new link</p> <p>I will be double checking the terms used with the book to ensure if we do make a change that the change is correct</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

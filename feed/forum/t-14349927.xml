@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>D&amp;D 5E - Missing feature from the Armorer subclass (Artificer)</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14349927/d-d-5e-missing-feature-from-the-armorer-subclass-artificer</link>
+		<description>Posts in the discussion thread &quot;D&amp;D 5E - Missing feature from the Armorer subclass (Artificer)&quot; - The Armorer subclass page is missing a feature</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:25:17 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14349927#post-5143800</guid>
+				<title>Re: D&amp;D 5E - Missing feature from the Armorer subclass (Artificer)</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14349927/d-d-5e-missing-feature-from-the-armorer-subclass-artificer#post-5143800</link>
+				<description></description>
+				<pubDate>Mon, 29 Nov 2021 14:17:39 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Fixed that erroneous 1</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14349927#post-5141845</guid>
+				<title>Re: D&amp;D 5E - Missing feature from the Armorer subclass (Artificer)</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14349927/d-d-5e-missing-feature-from-the-armorer-subclass-artificer#post-5141845</link>
+				<description></description>
+				<pubDate>Sat, 27 Nov 2021 06:44:05 +0000</pubDate>
+				<wikidot:authorName>Oracle-Raven</wikidot:authorName>				<wikidot:authorUserId>7541010</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>There's a new typo on the page, it now reads:<br /> &quot;Th1e armor continues to be Arcane Armor until you don another suit of armor or you die.&quot;<br /> there's a 1 that got added</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14349927#post-5141832</guid>
+				<title>Re: D&amp;D 5E - Missing feature from the Armorer subclass (Artificer)</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14349927/d-d-5e-missing-feature-from-the-armorer-subclass-artificer#post-5141832</link>
+				<description></description>
+				<pubDate>Sat, 27 Nov 2021 06:25:07 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>found and fixed! thanks for letting us know it was missing that trait.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14349927#post-5141653</guid>
+				<title>D&amp;D 5E - Missing feature from the Armorer subclass (Artificer)</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14349927/d-d-5e-missing-feature-from-the-armorer-subclass-artificer#post-5141653</link>
+				<description></description>
+				<pubDate>Fri, 26 Nov 2021 23:57:40 +0000</pubDate>
+				<wikidot:authorName>Oracle-Raven</wikidot:authorName>				<wikidot:authorUserId>7541010</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hi,<br /> I just noticed that the page on the Armorer subclass for the Artificer is missing a feature.</p> <p>On pages 15 and 16 of Tasha's Cauldron of Everything, at Level 3 it says:<br /> <em>&quot;You gain the following benefits while wearing this armor:<br /> - If the armor normally has a Strength requirement, the arcane armor lacks this requirement for you.<br /> - You can use the arcane armor as a spellcasting focus for your artificer spells.<br /> - The armor attaches to you and can’t be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a bonus action. The armor replaces any missing limbs, functioning identically to a body part it is replacing.<br /> <strong>- You can doff or don the armor as an action.</strong><br /> The armor continues to be Arcane Armor until you don another suit of armor or you die.&quot;</em></p> <p>The part that says &quot;you can doff or don the armor as an action&quot; is missing from the wikidot page.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

@@ -1,0 +1,243 @@
+/** Customized Standard Theme
+ *  Based off of the Standard Theme by the Wikidot Community
+ *  This custom color palette was created using the
+ *  Standard Theme Colorification tool (v: 1.01.141004)
+ *
+ *  Created: 4 Oct 2014
+ * 
+ *  Colors:
+ *      Primary A    : #908149
+ *      Primary B    : #625832
+ *      Secondary A  : #786B3D
+ *      Secondary B  : #484025
+ *      Light A      : #FFFCF2
+ *      Light B      : #D3C8BA
+ *      Text A       : #D8D4D0
+ *      Text B       : #ECE9E4
+ *      Text C       : #FFFFFF
+ *  ***************************************************************************/
+ 
+@import url('//css.wikidot.com/theme:standard-theme/code_');
+ 
+/*  Primary A
+==============================================================================*/
+a,
+.pager > .target > a,
+.pager > .current,
+.pager > .dots,
+nav .side-bar ul li a:hover,
+.hover{
+    color: #908149;
+}
+.image-box.image-box-primary .image-box-caption{  color: #908149 !important; }
+ 
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.pager > .current,
+.login-status .btn.dropdown-toggle,
+#search-top-box form:before,
+nav .top-bar .navbar-toggle,
+.wiki-content-table > thead > tr > th,
+.wiki-content-table > tbody > tr > th,
+.wiki-content-table > tfoot > tr > th,
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+#action-area .autocomplete-list ul li:hover,
+.btn.btn-primary,
+.progress-bar,
+.label.label-primary,
+.panel.panel-primary .panel-heading,
+.tabview-primary .yui-navset .yui-nav li a,
+.tabview-primary .yui-navset .yui-nav li.selected a{
+    background-color: #908149;
+}
+.image-box.image-box-primary .image-box-heading{  background-color: #908149 !important; }
+.image-box.image-box-primary .image-box-link:hover,
+.image-box.image-box-default .image-box-link:hover{  border-color: #908149 !important; }
+ 
+.pager > .current,
+nav .side-bar ul li a:hover,
+.panel.panel-primary,
+.panel.panel-primary .panel-heading,
+.hover{
+    border-color: #908149;
+}
+ 
+/*  Primary B
+==============================================================================*/
+.pager > .current{
+    border-bottom-color: #625832;
+}
+.login-status .btn.dropdown-toggle,
+#search-top-box input.text,
+nav .top-bar .navbar-toggle,
+.btn.btn-primary,
+.tabview-primary .yui-navset .yui-nav li a,
+.tabview-primary .yui-navset .yui-nav li.selected a:hover,
+.tabview-primary .yui-navset .yui-nav li.selected a:focus,
+.tabview-primary .yui-navset .yui-content{
+    border-color: #625832;
+}
+ 
+/*  Secondary A
+==============================================================================*/
+a:hover,
+a:focus{
+    color: #786B3D;
+}
+ 
+header.header-wrap,
+.login-status .btn.dropdown-toggle:hover,
+nav .top-bar .navbar-toggle:hover,
+nav .top-bar .navbar-toggle:focus,
+nav .top-bar .navbar-collapse,
+.btn.btn-primary:hover,
+.tabview-primary .yui-navset .yui-nav li a:hover,
+.tabview-primary .yui-navset .yui-nav li a:focus{
+    background-color: #786B3D;
+}
+ 
+.form-control:focus,
+input[type=text]:not(.form-control):focus,
+textarea:not(.form-control):focus,
+main .content .page-title,
+.image-box.image-box-primary .image-box-link:hover{
+    border-color: #786B3D;
+}
+.form-control:focus,
+input[type=text]:not(.form-control):focus,
+textarea:not(.form-control):focus{
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset,
+                0 0 4px rgba(120, 107, 61, 0.25);
+}
+ 
+/*  Secondary B
+==============================================================================*/
+.login-status .btn.dropdown-toggle:hover,
+#search-top-box form:hover input.text,
+#search-top-box input.text:focus,
+nav .top-bar .navbar-toggle:hover,
+nav .top-bar .navbar-toggle:focus,
+.btn.btn-primary:hover,
+.tabview-primary .yui-navset .yui-nav li a:hover,
+.tabview-primary .yui-navset .yui-nav li a:focus{
+    border-color: #484025;
+}
+ 
+/*  Light A
+==============================================================================*/
+body,
+main .content .feature.offcolor{
+    background-color: #FFFCF2;
+}
+ 
+/*  Light B
+==============================================================================*/
+.code.code-primary, .code-primary .code,
+div.code.code-primary span.line::before,
+.code-primary .code span.line::before,
+.alert.alert-primary{
+    border-color: #D3C8BA;
+}
+.image-box.image-box-primary{
+    border-color: #D3C8BA !important;
+}
+div.code.code-primary span.line:hover,
+.code-primary .code span.line:hover{
+    background-color: rgba(211, 200, 186, .18);
+}
+ 
+/*  Text A
+==============================================================================*/
+header.header-wrap h2,
+#search-top-box form:before,
+nav .top-bar .navbar-nav li a,
+nav .top-bar .navbar-collapse.collapsing ul.dropdown-menu li a,
+nav .top-bar .navbar-collapse.in ul.dropdown-menu li a,
+main .content .feature.feature-header{
+    color: #D8D4D0;
+}
+
+#search-top-box input.text{
+    background: rgba(216,212,208,0);
+}
+#search-top-box form:hover input.text:focus,
+#search-top-box input.text:focus{
+    background: rgba(216,212,208,1);
+}
+nav .top-bar .navbar-toggle .icon-bar,
+nav .top-bar .navbar-toggle .icon-bar{
+    background-color: #D8D4D0;
+}
+nav .top-bar .navbar-nav > li.dropdown > a > .caret{
+    border-bottom-color: #D8D4D0;
+    border-top-color: #D8D4D0;
+}
+ 
+/*  Text B
+==============================================================================*/
+header.header-wrap h1 a,
+nav .top-bar .navbar-brand,
+.wiki-content-table > thead > tr > th,
+.wiki-content-table > tbody > tr > th,
+.wiki-content-table > tfoot > tr > th,
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.btn.btn-primary,
+.tabview-primary .yui-navset .yui-nav li a,
+main .content .feature-header h1{
+    color: #ECE9E4;
+}
+.image-box.image-box-primary .image-box-heading{  color: #ECE9E4 !important; }
+ 
+/*  Text C
+==============================================================================*/
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.pager > .current,
+header.header-wrap h1 a:hover,
+header.header-wrap h1 a:focus,
+header.header-wrap h1 a:active,
+nav .top-bar .navbar-nav li a:hover,
+nav .top-bar .navbar-nav li a:focus,
+nav .top-bar .navbar-brand:hover,
+nav .top-bar .navbar-brand:focus,
+nav .top-bar .navbar-nav > .open > a,
+nav .top-bar .navbar-nav > .open > a:hover,
+nav .top-bar .navbar-nav > .open > a:focus,
+nav .top-bar .navbar-collapse.collapsing ul.dropdown-menu li a:hover,
+nav .top-bar .navbar-collapse.in ul.dropdown-menu li a:hover,
+nav .top-bar .navbar-collapse.collapsing ul.dropdown-menu li a:focus,
+nav .top-bar .navbar-collapse.in ul.dropdown-menu li a:focus,
+.btn.btn-primary:hover{
+    color: #FFFFFF;
+}
+ 
+nav .top-bar .navbar-toggle .icon-bar,
+nav .top-bar .navbar-toggle .icon-bar{
+    background-color: #FFFFFF;
+}
+ 
+nav .top-bar .navbar-nav li.dropdown a:hover > .caret,
+nav .top-bar .navbar-nav li.dropdown a:focus > .caret{
+    border-bottom-color: #FFFFFF;
+    border-top-color: #FFFFFF;
+}
+
+/*  Images
+==============================================================================*/
+main .content .page-title span{
+    background: url('//css.wikidot.com/local--files/theme:standard-yellow/titleLeft.png') bottom left no-repeat,
+                url('//css.wikidot.com/local--files/theme:standard-yellow/titleRight.png') bottom right no-repeat,
+                url('//css.wikidot.com/local--files/theme:standard-yellow/titleCenter.png') bottom left repeat-x;
+}
+main .main-content h1{
+    background: url('//css.wikidot.com/local--files/theme:standard-yellow/h1IndentLeft.png') center left no-repeat;
+}
+main .main-content-wrap.col-md-12 .main-content h1{
+/*  Change background behavior if sidebar is not present */
+    background: url('//css.wikidot.com/local--files/theme:standard-yellow/h1IndentLeft.png') center left no-repeat,
+                url('//css.wikidot.com/local--files/theme:standard-yellow/h1IndentRight.png') center right no-repeat;
+}

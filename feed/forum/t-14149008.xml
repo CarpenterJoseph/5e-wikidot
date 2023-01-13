@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Miscellaneous Section</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section</link>
+		<description>Posts in the discussion thread &quot;Miscellaneous Section&quot; - Discussion on the contents of the Miscellaneous section of the main page</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:25:32 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5066607</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5066607</link>
+				<description></description>
+				<pubDate>Thu, 26 Aug 2021 04:36:40 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Nice! So that should be the misc section done I think, and by extension VRGtR aswell !</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5066337</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5066337</link>
+				<description></description>
+				<pubDate>Wed, 25 Aug 2021 19:27:38 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Add Charms, Blessings, &amp; Supernatural Gifts to the main page.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5064665</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5064665</link>
+				<description></description>
+				<pubDate>Tue, 24 Aug 2021 01:57:35 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Charms are complete! <a href="http://dnd5e.wikidot.com/charms">http://dnd5e.wikidot.com/charms</a><br /> I also went and did the Blessings too, which can be found at <a href="http://dnd5e.wikidot.com/blessings">http://dnd5e.wikidot.com/blessings</a></p> <p>I think thats about everything if I remember right, from the initial list of things to complete.<br /> All thats left is for me to finish the Piety system and its subpages I guess? Unless theres any other things that fit in the Misc section, and aswell we'll have to add things from any new books here too when they come out</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5064592</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5064592</link>
+				<description></description>
+				<pubDate>Mon, 23 Aug 2021 23:35:41 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>heres the Supernatural Gifts page: <a href="http://dnd5e.wikidot.com/supernatural-gifts">http://dnd5e.wikidot.com/supernatural-gifts</a></p> <p>Kind of annoying working out what to do with it, since while I was making it I at first thought that the supernatural gifts were exclusive to Theros, but it turned out that there was a single supernatural gift in a different book, that being the hollow one gift of wildemount. I ended up deciding to just kinda put a mini wildemount section at the bottom for it.</p> <p>One thing about this page thats sorta annoying is that it frequently references the piety system of theros, so odds are that will have to be made at some point.<br /> Thats OK, ill work through it later at some point.</p> <p>(:</p> <p>EDIT: Actually, the dark gifts are pretty similiar to the supernatural gifts. So maybe they could go on their own shared page? But ehh, theyre different enough in theme, purpose and origin that I feel they work on their own as different pages. And looking at the various 'charms', CoS has a bunch, but they're all refered to as 'Dark gift of XYZ', which is annoying since they use the Charm Rules, and not the newer Dark Gift rules. This will probably be confusing for newer people.<br /> But its not our fault, so I suppose it falls on WoTC for naming these things the same thing. :/</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5063839</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5063839</link>
+				<description></description>
+				<pubDate>Mon, 23 Aug 2021 03:22:55 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Nice, the Epic Boons are there.</p> <p>Also OW. Thats not nice to have the spell lists listed as spells. We could make a seperate spell list category, i.e. dnd5e.wikidot/spell-list:cleric, and then have the current spell list pages turned into redirects, but I dont know how much worth the effort it is if we did wanna do it&#8230;</p> <p>Might not be too much work really? It should just be crtl-c'ing a buncha code and dropping in some redirect modules right?</p> <p>Also yeah, thanks for going through and fixing up the orphaned pages, since its useful to be able to see what pages are actually orphaned. If I remember, I think the 'Ranger-no-spells-UA' page is orphaned, for example</p> <p>As I look through them now, we seem to have a lot of orphaned homebrew pages for some reason hm</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5063508</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5063508</link>
+				<description></description>
+				<pubDate>Sun, 22 Aug 2021 17:57:43 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Whoops, added Epic Boons.</p> <p>I'm working through the orphaned pages, removing bad ones and adding links to ones we need to keep. Unfortunately the PageList module doesn't count as a 'link' so I'm also creating dummy pages to hold permanent links to all the spells and items that won't be linked anywhere but will get all those off the orphaned pages list.</p> <p>Also noticed something that might end up driving me nuts&#8230; the spell lists are under the 'spells' category, but the individual spell pages are under the 'spell' category.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5063049</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5063049</link>
+				<description></description>
+				<pubDate>Sun, 22 Aug 2021 07:21:48 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Thanks Fred, Its looking good! Ill keep working through other pages that I think need to go there. Currently im working through the MOoT 'Supernatural Gifts', and from there probably the Piety system from the same book (Since the supernatural gifts reference it). From there itll be the magical boons, charms (ill probably put chwinga charms on the same page as the DMG charms probably?) and then we'll have everything that was thought up for the section so far, that being non-magic item unlocks and non standard classes</p> <p>Ah, you missed putting the Epic Boons in there, though I probably should have put the link for them here (aswell as the fact that the page was completed) within this thread at the start, because I believe I forgot to do so. Here <a href="http://dnd5e.wikidot.com/epic-boons">http://dnd5e.wikidot.com/epic-boons</a></p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5061350</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5061350</link>
+				<description></description>
+				<pubDate>Fri, 20 Aug 2021 13:37:15 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Added Surivors and Dark Gifts to the Miscellaneous section on the Test page, I'll probably move all these changes over to the main page later today.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5060913</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5060913</link>
+				<description></description>
+				<pubDate>Fri, 20 Aug 2021 03:50:28 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The dark gifts page is finished, and can be found at <a href="http://dnd5e.wikidot.com/dark-gifts">http://dnd5e.wikidot.com/dark-gifts</a>.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5056827</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5056827</link>
+				<description></description>
+				<pubDate>Mon, 16 Aug 2021 04:12:16 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The Survivors page is finished, and can be found at <a href="http://dnd5e.wikidot.com/survivors">http://dnd5e.wikidot.com/survivors</a>. There are no subpage to it, as the survivor talents and survivor statblocks can all be located within little dropdowns, which I chose to do as while they did not warrant taking up the page fully, they also didnt warrent taking up extra pages. As such, they can be simply made visible or hidden away as the viewer wishes</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5056173</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5056173</link>
+				<description></description>
+				<pubDate>Sun, 15 Aug 2021 11:54:15 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Oh damn thats super cool, thats really cool actually</p> <p><a href="http://dnd5e.wikidot.com/warlock">warlock</a></p> <p>Thats really amazing. I wish I knew that before, cuz typing the whole thing out a million times was a bit irritating at times</p> <p>Good find Fred</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5055123</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5055123</link>
+				<description></description>
+				<pubDate>Sat, 14 Aug 2021 12:08:59 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Cool, we'll go with that then. I did notice it ended up wrapping around Path of the Ancestral Guardian for Barbarians since the column ended up a little narrow (at least on my laptop), but that's not a huge deal.</p> <p>Also, I found out that you don't have to type out the entire link to an internal page on here (remove the randomly placed spaces, wasn't sure how to get code to display without executing);<br /> [ <a href="http://dnd5e.wikidot.com/spells">http://dnd5e.wikidot.com/spells</a> Spells]<br /> [ [[spells| Spells]]]</p> <p>Little bit shorter, and it creates an internal site map. I'm working on changing the main page over to this.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5053380</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5053380</link>
+				<description></description>
+				<pubDate>Fri, 13 Aug 2021 05:17:35 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Dont think you did no, that should be all of them from what I remember</p> <p>Unles you want to add the spell lists linked next to each of their classes too, but thats sorta redundent anyways with the spell lists already being on the front page</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5053217</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5053217</link>
+				<description></description>
+				<pubDate>Fri, 13 Aug 2021 02:33:01 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I added it to the rest of the classes on the test page that I remembered had special pages that would benefit from having a quick link. Did I miss any?</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5053099</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5053099</link>
+				<description></description>
+				<pubDate>Fri, 13 Aug 2021 00:12:57 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I like that very much, thats very good</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5051696</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5051696</link>
+				<description></description>
+				<pubDate>Wed, 11 Aug 2021 15:29:52 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I made another small update to the test page to try something out. If you look at the Artificer section, I changed it to 3 columns wide and added a 'Quick Links' section that has a link to the Infusions page (which I also moved from artificer-infusions to artificer:infusions.</p> <p>To keep it from wrapping around, I had to changed the Unearthed Arcana <sup>(archived)</sup> to Unearthed Arcana <sup>(a)</sup>. What do you all think of that? Like NCat said above, I think it makes sense to have those types of pages more easily accessible, used to annoy me that I had to go into the Battlemaster page to get to the Maneuvers list.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5049509</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5049509</link>
+				<description></description>
+				<pubDate>Mon, 09 Aug 2021 12:18:12 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>That's my mistake, I always forget those have to be updated when new tables are added in the code. Test page is fixed and I'll move those out to the main page later this week unless someone objects.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5043527</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5043527</link>
+				<description></description>
+				<pubDate>Tue, 03 Aug 2021 01:57:40 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Ah yeah, 100% with that fixing the top of page icons, i kinda just stopped using them entirely when I started using this site often</p> <p>Yeah, I dont know why I missed thinking of that, eldritch invocations and the like are at times referenced by other features (Eldritch adept feat) and often players want to access them directly, so putting those kinds of things in the misc section is a smart move</p> <p>Thanks Cotton &lt;3</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5038064</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5038064</link>
+				<description></description>
+				<pubDate>Wed, 28 Jul 2021 02:57:21 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>i agree with ncat that the misc section should be placed below feats. the player options suggested make complete sense to be included in a misc section, though maybe it should be organized by core book (like the DMG), sourcebook/setting (like VGR and MOT), and adventure module (ID:RF).</p> <p>another thing we should keep track of when making edits to the home page is the functionality of the icons at the top of the page which should jump down to the relevant section. at the moment, they stop being functional once you try jumping to classes and only get worse from there as a result of rearranging and adding to sections. it's obviously not a huge issue and it is something that changes with every edit to the home page, but i have spoken with people who aren't as familiar with the site and that was a big issue as it meant that they had to scroll all the way through the spells, backgrounds, races, and classes to find what they were looking for rather than being able to click on a single button and be taken there.</p> <p>anyways, yea. adding the lesser-known player options that are being discussed would be great. i'd also be interested in adding sub-options like eldritch invocations, battle master techniques, and other class/race specific pages to a misc section since it can be a bit difficult to find through the pages themselves. just a thought.</p> <p>excellent work keeping up with the latest publications and releases! i'm always blown away by the speed by which y'all update this site &lt;3</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5037019</guid>
+				<title>Re: Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5037019</link>
+				<description></description>
+				<pubDate>Mon, 26 Jul 2021 23:12:21 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Alrighty, so, Ill start with whats most similiar to the sidekicks, and thats the survivor classes. They're a similiar concept, being a simplified stat sheet for a non-main player character, but rather than filling out a party they're supposed to be expendable player characters for the DM to play out scenes to show off the monsters being scary.</p> <p>Ive already begun working on the page for it, but I havent made too much progress. <a href="http://dnd5e.wikidot.com/survivors">http://dnd5e.wikidot.com/survivors</a><br /> One thing ive been testing out with it is the idea of implementing drop down sections of text. The reason being that you dont need to see the 4 statblocks all the time, you probably just want to see one at a time, or just the Survivor Talents (essentially survivor feats), so Ive been testing out using drop down menus to put the statblocks behind.<br /> The code is actually fairly straightforward, but I dont get it 100% so far. I cant work out how to make the dropdown part of a sentence, rather than having a whole line to itself, if it even is possible</p> <p>As for other things that should be in there, 'Alternative Player Unlocks' should be there. Items such as Epic Boons, Charms, Magical Boons, Chwinga Charms, Dark Gifts and the player options from Theros which I forgot the name of. Essentially all the non-item boosts to power and strength players can get over a campaign</p> <p>Overall, theres actually a whole lot that can go in here, so we might just need to take the time to look over every book one by one to find if there are any player options that should go into the wiki, but that will take some time.</p> <p>TLDR<br /> - Survivor Classes (VRgtR)<br /> - Epic Boons (DMG)<br /> - Magical Boons (DMG)<br /> - Charms (DMG)<br /> - Chwinga Charms (RotFM)<br /> - Dark Gifts (VRgtR)<br /> - Supernatural Gifts (MOoT)</p> <p>Ah, and a bit of a more layout note on the testpage, I feel the misc section may be a bit too high up? I dont think it will be used as often as feats or items, so I think it would slot better between the Racial Feats section and the Homebrew Subclasses section</p> <p>Thanks</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14149008#post-5036559</guid>
+				<title>Miscellaneous Section</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14149008/miscellaneous-section#post-5036559</link>
+				<description></description>
+				<pubDate>Mon, 26 Jul 2021 12:28:02 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>So far we've got the Sidekick classes placed in here on the test page (linked below).</p> <p>What else does everyone think should be added? Anything that should not be?</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

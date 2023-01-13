@@ -1,0 +1,182 @@
+/** Modern Navibar
+ *  By the Wikidot Community
+ *  Version: 1.01.140819
+ *  
+ *  Modernizes the appearance of the top Wikidot navibar
+ * 
+ *  Social Icons by PSDIcons (psdicons.net)
+ *  Page Info Icons by Font Awesome (fortawesome.github.io/Font-Awesome/)
+ *  ***************************************************************************/
+#navi-bar{
+    color: #FFF;
+    background-color: #262624;
+    position: fixed;
+    top: 0 !important;
+    width: 100%;
+    z-index: 9999;
+    overflow: hidden;
+    font-size: 12px;
+    height: 24px;
+}
+#navi-bar a{  color: #FFF; }
+#navi-bar a:hover{  color: #E7372D; }
+
+/*  Positioning
+=====================================================*/
+#navi-bar .logo,
+#navi-bar .new-site,
+#navi-bar .share,
+#navi-bar .action-buttons,
+#navi-bar .random-site,
+#navi-bar .join{
+    position: absolute;
+}
+
+#navi-bar .logo{  left: calc(8px + .5%); }
+#navi-bar .new-site{  left: calc(66px + 8%); }
+#navi-bar .share{  left: calc(250px + 15%); }
+
+#navi-bar .random-site{  right: calc(8px + 1%); }
+#navi-bar .action-buttons{  right: calc(24px + 8%); }
+#navi-bar .join{  right: calc(124px + 15%); }
+
+
+/*  Details
+=====================================================*/
+#navi-bar .logo{
+    background-image: url('//css.wikidot.com/local--files/cssnippet:modern-navibar/wikidot_logo_66x20.png');
+    background-repeat: no-repeat;
+    display: block;
+    width: 66px;
+    height: 22px;
+    position: absolute;
+    top: 2px;
+    font-size: 0;
+}
+
+#navi-bar .new-site{  top: 3px; }
+#navi-bar input.text{
+    text-align: right;
+    height: 18px;
+    width: 148px;
+    font-size: 12px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-right: 2px;
+    border-radius: 4px;
+    border: 1px solid #171717;
+    background: #FFF;
+    transition: opacity 256ms;
+    opacity: 1;
+}
+#navi-bar input.text.empty{  opacity: .5; }
+
+#navi-bar .share{  top: 3px; }
+#navi-bar .share span{  display: none; }
+#navi-bar .share a{
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    margin: 0 2px;
+}
+#navi-bar .share a img{  display: none; }
+#navi-bar .share a.twitter{
+    background-image: url('//css.wikidot.com/local--files/cssnippet:modern-navibar/twitter-2.png');
+    background-repeat: no-repeat;
+}
+#navi-bar .share a.facebook{
+    background-image: url('//css.wikidot.com/local--files/cssnippet:modern-navibar/facebook.png');
+    background-repeat: no-repeat;
+}
+#navi-bar .share a.delicious{
+    background-image: url('//css.wikidot.com/local--files/cssnippet:modern-navibar/delicious.png');
+    background-repeat: no-repeat;
+}
+#navi-bar .share a.digg{
+    background-image: url('//css.wikidot.com/local--files/cssnippet:modern-navibar/digg-1.png');
+    background-repeat: no-repeat;
+}
+#navi-bar .share a.reddit{
+    background-image: url('//css.wikidot.com/local--files/cssnippet:modern-navibar/reddit.png');
+    background-repeat: no-repeat;
+}
+#navi-bar .share a.stumbleupon{
+    background-image: url('//css.wikidot.com/local--files/cssnippet:modern-navibar/stumbleupon.png');
+    background-repeat: no-repeat;
+}
+
+#navi-bar .action-buttons{  top: 1px; }
+#navi-bar .action-buttons a,
+#navi-bar .random-site{
+    font-size: 0;
+    margin: 0 4px;
+}
+#navi-bar .action-buttons a:hover,
+#navi-bar .random-site{
+    text-decoration: none;
+}
+#navi-bar .action-buttons a:nth-child(1)::before{
+    font-family: 'FontAwesome';
+    font-size: 16px;
+    content: '';
+}
+#navi-bar .action-buttons a:nth-child(2)::before{
+    font-family: 'FontAwesome';
+    font-size: 16px;
+    content: '';
+}
+#navi-bar .action-buttons a:nth-child(3)::before{
+    font-family: 'FontAwesome';
+    font-size: 16px;
+    content: '';
+}
+#navi-bar .action-buttons a:nth-child(4)::before{
+    font-family: 'FontAwesome';
+    font-size: 16px;
+    content: '';
+}
+
+#navi-bar .random-site{  top: 1px; }
+#navi-bar .random-site::before{
+    font-family: 'FontAwesome';
+    font-size: 16px;
+    content: '';
+}
+
+#navi-bar .join{  top: 2px; }
+#navi-bar a.join{
+    display: inline-block;
+    line-height: 1;
+    margin-bottom: 0;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    border-radius: 4px;
+    font-size: 12px;
+    padding: 3px 12px;
+    color: #FFF;
+    background-color: #428BCA;
+    border: 1px solid #3573BD;
+}
+#navi-bar a.join:hover,
+#navi-bar a.join:focus{
+    text-decoration: none;
+    border-color: #285E8E;
+    background-color: #3071A9;
+}
+#navi-bar a.join:active{
+    box-shadow: 0 3px 5px rgba(0,0,0,.125) inset;
+    outline: 0 none;
+}
+
+#navi-bar .close{  display: none; }
+
+@media (max-width:992px){
+    #navi-bar .new-site{  display: none; }
+    #navi-bar .share{  left: calc(66px + 8%); }
+}
+@media (max-width:768px){
+    #navi-bar .random-site{  display: none; }
+    #navi-bar a.join{  display: none; }
+    #navi-bar .action-buttons{  left: calc(220px + 15%); }
+}

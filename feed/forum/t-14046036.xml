@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Trying to add Candlekeep Mysteries items</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14046036/trying-to-add-candlekeep-mysteries-items</link>
+		<description>Posts in the discussion thread &quot;Trying to add Candlekeep Mysteries items&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:25:44 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14046036#post-4979958</guid>
+				<title>Re: Trying to add Candlekeep Mysteries items</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14046036/trying-to-add-candlekeep-mysteries-items#post-4979958</link>
+				<description></description>
+				<pubDate>Sun, 16 May 2021 03:47:46 +0000</pubDate>
+				<wikidot:authorName>Valkyria Grey</wikidot:authorName>				<wikidot:authorUserId>6675660</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Just updating this thread by saying all the new items from the Candlekeep Mysteries book have been added.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14046036#post-4950514</guid>
+				<title>Re: Trying to add Candlekeep Mysteries items</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14046036/trying-to-add-candlekeep-mysteries-items#post-4950514</link>
+				<description></description>
+				<pubDate>Fri, 09 Apr 2021 12:49:28 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I don't have a good pdf of candlekeep mysteries yet, but once I get it, I can help with adding items. If you're looking for an example of how to implement a &quot;Unknown rarity&quot; section, you can check the Homebrew Items section where that's already a pre-established category. Transferring it over to the normal items pages shouldn't be too much of a change, though any changes will have to be made for all subpages (armor, rings, wondrous items, etc).</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14046036#post-4949850</guid>
+				<title>Trying to add Candlekeep Mysteries items</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14046036/trying-to-add-candlekeep-mysteries-items#post-4949850</link>
+				<description></description>
+				<pubDate>Thu, 08 Apr 2021 16:24:17 +0000</pubDate>
+				<wikidot:authorName>Valkyria Grey</wikidot:authorName>				<wikidot:authorUserId>6675660</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I was trying to add some of the new items from Candlekeep Mysteries, but I not used to the coding on this site, so I couldn't get it to work exactly. Just asking if anyone with more experience that myself would be able to help.</p> <p>Here's one of the items I managed to make a page for:<br /> <a href="http://dnd5e.wikidot.com/wondrous-items:orcus-figurine">http://dnd5e.wikidot.com/wondrous-items:orcus-figurine</a></p> <p>And a page of Candlekeep Mysteries exclusive items (I've already added it to the main page):<br /> <a href="http://dnd5e.wikidot.com/wondrous-items:cm">http://dnd5e.wikidot.com/wondrous-items:cm</a></p> <p>A lot the ite in Candlekeep Mysteries don't have a rarity specified, so I tried adding a new &quot;Unknown&quot; section, which might require a bit of coding and why thing are goofing up. Anyway, I'd appreciate any help!</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

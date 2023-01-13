@@ -1,0 +1,38 @@
+.hover{
+    text-decoration: underline;
+    border-bottom: 1px solid;
+}
+.hover:hover{
+    text-decoration: none;
+    border-bottom: none;
+}
+.hover span{    
+    visibility: hidden;
+    position: absolute;
+    opacity: 0;
+    transition: opacity 500ms;
+}
+.hover:hover span{
+    visibility: visible;
+    position: absolute;
+    display: inline;
+    opacity: 1;
+    color: #333;
+    font-size: 80%;
+    margin: 15px -20px;
+    height: auto;
+    background: #F9F9F9;
+    border: 1px solid #CCC;
+    width: 300px;
+    padding: 1em;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(100,100,100,0.3);
+}
+.hover:hover span span{
+    position: relative;
+    margin: auto;
+    height: auto;
+    width: auto;
+    border: none;
+    padding: 0;
+}

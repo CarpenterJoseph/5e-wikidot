@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>&quot;DnDOne&quot;</title>
+		<link>http://dnd5e.wikidot.com/forum/t-15094861/dndone</link>
+		<description>Posts in the discussion thread &quot;&quot;DnDOne&quot;&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:21:02 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15094861#post-5559284</guid>
+				<title>Re: &quot;DnDOne&quot;</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15094861/dndone#post-5559284</link>
+				<description></description>
+				<pubDate>Sat, 03 Sep 2022 14:07:33 +0000</pubDate>
+				<wikidot:authorName>Scarlet Spring</wikidot:authorName>				<wikidot:authorUserId>7804744</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I like the idea of having two different wikis that link to each other, if they're going to rewrite the entire phb then it would probably be too much to comfortably put on the main 5e wikidot.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15094861#post-5540360</guid>
+				<title>Re: &quot;DnDOne&quot;</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15094861/dndone#post-5540360</link>
+				<description></description>
+				<pubDate>Fri, 19 Aug 2022 13:13:32 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>So I actually already grabbed onednd.wikidot.com for our use and started fixing up the main page a bit.</p> <p>I figure for now we'll keep that to the UA information that's being released by WotC with links back to this page as necessary for things that don't seem to be changing yet (spells for example).</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15094861#post-5539839</guid>
+				<title>&quot;DnDOne&quot;</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15094861/dndone#post-5539839</link>
+				<description></description>
+				<pubDate>Fri, 19 Aug 2022 02:50:04 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Opening up a thread to start discussion and have a place to share thoughts about the new information regarding &quot;the next evolution of dnd&quot; and what it means for the overall shape of the wikidot.</p> <p>From what I can feel, despite the marketing, is that it is intended to be a 5.5e.</p> <p>My current thoughts on the matter are that, depending on how it turns out on release, we could do with a sister website? I.e., theres the Dnd5e.wikidot, and then the DnD5.5e or DnD1 or DnD[whatever] wikidot, which both would include a link and text on the frontpage along the lines of &quot;This content is for the DnD5e/5.5e edition of the game, content from Dnd5.5e/5e can be found on our sister wiki, [Link]&quot;, reason being from the UA article is that while the content does feel compatible-ish, it might cause massive amounts of bloat for the website if a lot of PHB stuff is doubled, or sections are doubled, or whatnot. And I'd prefer to avoid bloat and unwieldyness, since what I think makes the 5ewikidot a good website is its comfortable and easy to access formatting.</p> <p>Yeah, thoughts from everyone else?</p> <p>(edit: thinking about feats from another post actually, the sister sites feats section might end up a whole lot cleaner if thats what we do, since feats will be organized by level, so we could probably do for them a page similiar to what we do for spells (: )</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

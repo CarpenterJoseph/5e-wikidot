@@ -1,0 +1,149 @@
+header.header-wrap{  height: 550px; }
+nav.side-bar-wrap{  display: none !important; }
+div.main-content-wrap{  width: 100% !important; }
+ 
+main.content-wrap{  background: #FFF; }
+main .content.container{
+    max-width: none;
+    margin: 0;
+    width: auto;
+}
+main .content{
+    background: none;
+    box-shadow: none;
+    top: 0;
+    border-radius: 0;
+}
+main .main-content-wrap{  padding: 0; }
+main .content .page-title{  display: none; }
+ 
+main .content .main-content-wrap .main-content h1{
+    background: none;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+main .content .main-content h1{  margin-top: 0; }
+ 
+main .content .feature{  padding: 40px 0; }
+main .content .feature .row{  margin: 0 auto; }
+ 
+main .content .feature.feature-header{
+    display: block;
+    height: 410px;
+    background: none;
+    border: none;
+    position: absolute;
+    top: -410px;
+    width: 100%;
+    padding: 0;
+}
+main .content .feature-header h1{
+    font-size: 40px;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
+main .content .feature-header p{
+    font-size: 18px;
+    letter-spacing: .25px;
+}
+main .content .feature-header .btn,
+main .content .feature-header .button{
+    font-size: 24px;
+    margin-top: 0.5em;
+    padding: .25em 1em;
+    border-bottom-width: 4px;
+}
+ 
+main .content .feature.feature-center{  text-align: center; }
+ 
+@media (min-width:1200px){
+    main .content .feature .row{  max-width: 1170px; }
+}
+@media (max-width:1200px) and (min-width:992px){
+    main .content .feature .row{  max-width: 970px; }
+    main .content .feature .col-lg-1:not(:first-child),
+    main .content .feature .col-lg-2:not(:first-child),
+    main .content .feature .col-lg-3:not(:first-child),
+    main .content .feature .col-lg-4:not(:first-child),
+    main .content .feature .col-lg-5:not(:first-child),
+    main .content .feature .col-lg-6:not(:first-child),
+    main .content .feature .col-lg-7:not(:first-child),
+    main .content .feature .col-lg-8:not(:first-child),
+    main .content .feature .col-lg-9:not(:first-child),
+    main .content .feature .col-lg-10:not(:first-child),
+    main .content .feature .col-lg-11:not(:first-child){
+        margin-top: 40px;
+    }
+}
+@media (max-width:992px) and (min-width:768px){
+    main .content .feature .row{  max-width: 750px; }
+    main .content .feature .col-md-1:not(:first-child),
+    main .content .feature .col-md-2:not(:first-child),
+    main .content .feature .col-md-3:not(:first-child),
+    main .content .feature .col-md-4:not(:first-child),
+    main .content .feature .col-md-5:not(:first-child),
+    main .content .feature .col-md-6:not(:first-child),
+    main .content .feature .col-md-7:not(:first-child),
+    main .content .feature .col-md-8:not(:first-child),
+    main .content .feature .col-md-9:not(:first-child),
+    main .content .feature .col-md-10:not(:first-child),
+    main .content .feature .col-md-11:not(:first-child),
+    main .content .feature .col-lg-1:not(:first-child),
+    main .content .feature .col-lg-2:not(:first-child),
+    main .content .feature .col-lg-3:not(:first-child),
+    main .content .feature .col-lg-4:not(:first-child),
+    main .content .feature .col-lg-5:not(:first-child),
+    main .content .feature .col-lg-6:not(:first-child),
+    main .content .feature .col-lg-7:not(:first-child),
+    main .content .feature .col-lg-8:not(:first-child),
+    main .content .feature .col-lg-9:not(:first-child),
+    main .content .feature .col-lg-10:not(:first-child),
+    main .content .feature .col-lg-11:not(:first-child){
+        margin-top: 40px;
+    }
+}
+ 
+@media (max-width:768px){
+    main .content .feature-header{  text-align: center; }
+    main .content .feature-header h1{  font-size: 32px; }
+    main .content .feature .col-sm-1:not(:first-child),
+    main .content .feature .col-sm-2:not(:first-child),
+    main .content .feature .col-sm-3:not(:first-child),
+    main .content .feature .col-sm-4:not(:first-child),
+    main .content .feature .col-sm-5:not(:first-child),
+    main .content .feature .col-sm-6:not(:first-child),
+    main .content .feature .col-sm-7:not(:first-child),
+    main .content .feature .col-sm-8:not(:first-child),
+    main .content .feature .col-sm-9:not(:first-child),
+    main .content .feature .col-sm-10:not(:first-child),
+    main .content .feature .col-sm-11:not(:first-child),
+    main .content .feature .col-md-1:not(:first-child),
+    main .content .feature .col-md-2:not(:first-child),
+    main .content .feature .col-md-3:not(:first-child),
+    main .content .feature .col-md-4:not(:first-child),
+    main .content .feature .col-md-5:not(:first-child),
+    main .content .feature .col-md-6:not(:first-child),
+    main .content .feature .col-md-7:not(:first-child),
+    main .content .feature .col-md-8:not(:first-child),
+    main .content .feature .col-md-9:not(:first-child),
+    main .content .feature .col-md-10:not(:first-child),
+    main .content .feature .col-md-11:not(:first-child),
+    main .content .feature .col-lg-1:not(:first-child),
+    main .content .feature .col-lg-2:not(:first-child),
+    main .content .feature .col-lg-3:not(:first-child),
+    main .content .feature .col-lg-4:not(:first-child),
+    main .content .feature .col-lg-5:not(:first-child),
+    main .content .feature .col-lg-6:not(:first-child),
+    main .content .feature .col-lg-7:not(:first-child),
+    main .content .feature .col-lg-8:not(:first-child),
+    main .content .feature .col-lg-9:not(:first-child),
+    main .content .feature .col-lg-10:not(:first-child),
+    main .content .feature .col-lg-11:not(:first-child){
+        margin-top: 40px;
+    }
+}
+
+footer .footer{  padding-top: 40px; }

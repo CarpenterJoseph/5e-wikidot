@@ -1,0 +1,732 @@
+/** Community Bootstrap Base
+ *  Developed by the Wikidot Community
+ *  Version: 1.07.170416
+ *
+ *  Useable as an extension to Wikidot's own Bootstrap Base.  This base theme adds basic
+ *  styling to features not accounted for in Wikidot's version.  Most notably, the
+ *  Community Bootstrap Base styles community driven snippets, cross-site includes, and
+ *  Bootstrap Templates.
+ *
+ * Thanks to Font Awesome for the cool icons! (fortawesome.github.io/Font-Awesome/)
+ * 
+ *  TOC:
+ *      FTAW: FontAwesome
+ *      CVBS: Convert to Bootstrap
+ *      HEAD: Header
+ *      MAIN: Main Content
+ *      SIDE: Sidebar
+ *      TOCT: Table of Contents
+ *      WTBL: Wikidot Tables
+ *      CODE: Code Blocks
+ *      RATE: Rate Widget
+ *      ACTA: Action Area
+ *      FOOT: Footer
+ *      HVTP: Hover Tips
+ *      TABV: Tabview
+ *      FRUM: Forum
+ *      GALL: Gallery
+ *      BOOT: Bootstrap Version+
+ *  ***************************************************************************/
+
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
+@import url('//css.wikidot.com/cssnippet:modern-navibar/code_');
+
+
+/*  FontAwesome (!FTAW)
+==============================================================================*/
+.fa span{  display: none; }
+
+/*  Convert to Bootstrap (!CVBS)
+==============================================================================*/
+/**
+ *  Convert all unclassed buttons to default Bootstrap Buttons
+ */
+input[type=button]:not(.btn),
+input[type=submit]:not(.btn),
+.button,
+.join-box a,
+#new-post-button{
+    display: inline-block;
+    line-height: 1.42857;
+    margin-bottom: 0;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    border-radius: 4px;
+    font-size: 14px;
+    padding: 6px 12px;
+    color: #333;
+    background-color: #FFF;
+    border: 1px solid #CCC;
+}
+.join-box a{
+    background-image: none;
+    display: table;
+}
+input[type=button]:not(.btn):hover,
+input[type=button]:not(.btn):focus,
+input[type=submit]:not(.btn):hover,
+input[type=submit]:not(.btn):focus,
+.button:hover, .button:focus,
+.join-box a:hover, .join-box a:focus,
+#new-post-button:hover, #new-post-button:focus{
+    color: #333;
+    border-color: #ADADAD;
+    background-color: #EBEBEB;
+    text-decoration: none;
+}
+input[type=button]:not(.btn):active,
+input[type=submit]:not(.btn):active,
+.button:active,
+.join-box a:active,
+#new-post-button:active{
+    box-shadow: 0 3px 5px rgba(0,0,0,.125) inset;
+    outline: 0 none;
+}
+
+/**
+ *  Convert certain groups of buttons to Bootstrap Button Groups
+ */
+.page-options-bottom,
+.buttons{
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+}
+.page-options-bottom > .btn:first-child:not(:last-child):not(.dropdown-toggle),
+.buttons > .btn:first-child:not(:last-child):not(.dropdown-toggle){
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+.page-options-bottom > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle),
+.buttons > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle){
+    border-radius: 0;
+}
+.page-options-bottom > .btn:last-child:not(:first-child), .page-options-bottom > .dropdown-toggle:not(:first-child),
+.buttons > .btn:last-child:not(:first-child), .buttons > .dropdown-toggle:not(:first-child){
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+}
+.page-options-bottom .btn + .btn,
+.page-options-bottom .btn + .page-options-bottom,
+.page-options-bottom .page-options-bottom + .btn,
+.page-options-bottom .page-options-bottom + .page-options-bottom,
+.buttons .btn + .btn,
+.buttons .btn + .buttons,
+.buttons .buttons + .btn,
+.buttons .buttons + .buttons{
+    margin-left: -1px;
+}
+.page-options-bottom > .btn:first-child,
+.buttons > .btn:first-child{
+    margin-left: 0;
+}
+.page-options-bottom > .btn,
+.buttons > .btn{
+    float: left;
+    position: relative;
+}
+
+/**
+ *  Convert all unclassed form fields to Bootstrap Form Controls
+ */
+input[type=text]:not(.form-control),
+textarea:not(.form-control){
+    background: #FFF;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    color: #555;
+    font-size: 14px;
+    line-height: 1.42857;
+    padding: 6px 12px;
+    transition: border-color 0.15s ease-in-out 0s,
+                box-shadow 0.15s ease-in-out 0s;
+    vertical-align: middle;
+}
+input[type=text]:not(.form-control){
+    height: 34px;
+    max-width: 100%;
+}
+input[type=text]:not(.form-control):focus,
+textarea:not(.form-control):focus{
+    outline: none;
+    border-color: #66AFE9;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset,
+                  0 0 8px rgba(102, 175, 233, 0.6);
+}
+
+/**
+ *  Pagination
+ */
+.pager .pager-no{  display: none; }
+.pager .dots{  font-weight: bold; }
+.pager > .target > a,
+.pager > .current,
+.pager > .dots{
+    background: #FFF;
+    border: 1px solid #DDD;
+    color: #428BCA;
+    line-height: 1.42857;
+    margin: 0 0 0 -1px;
+    padding: 6px 12px;
+    position: relative;
+    text-decoration: none;
+}
+.pager > .target > a:hover,
+.pager > .target > a:focus{
+    color: #2A6496;
+    background: #EEE;
+}
+.pager > span:nth-child(2) > a,
+.pager > span:nth-child(2){
+    border-radius: 4px 0 0 4px;
+}
+.pager > span:last-child > a,
+.pager > span:last-child{
+    border-radius: 0 4px 4px 0;
+}
+.pager > .current{
+    background: #428BCA;
+    border-color: #428BCA;
+    color: #FFF;
+    font-weight: normal;
+}
+
+/**
+ *  Breadcrumbs
+ */
+.breadcrumbs{
+    background: #F5F5F5;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 8px 15px;
+    color: #777;
+}
+
+/**
+ *  Mailform Module
+ */
+.mailform-box{
+    width: 84%;
+    margin: 16px auto;
+}
+.mailform-box .form{  width: 100%; }
+.mailform-box .form tr td:first-child{
+    width: 16%;
+    text-align: right;
+    vertical-align: top;
+    padding: .5em 1em;
+    font-weight: bold;
+}
+.mailform-box input.text,
+.mailform-box textarea{  width: 100%; }
+.mailform-box .buttons{
+    text-align: center;
+    margin-top: 12px;
+    display: block;
+}
+.mailform-box .buttons input{  font-size: 16px; }
+.mailform-box .field-error-message{  color: #A94442; }
+
+@media (max-width: 1200px){
+    .mailform-box{  width: 90%; }
+    .mailform-box .form tr td:first-child{
+        width: 18%;
+    }
+}
+@media (max-width: 992px){
+    .mailform-box{  width: 96%; }
+    .mailform-box .form tr td:first-child{
+        width: 22%;
+    }
+}
+
+/**
+ *  Fix Panels
+ */
+.panel-heading p{  margin: 0; }
+
+/**
+ *  Fix Radios and Checkboxes
+ */
+.radio, .checkbox,
+input[type=radio], input[type=checkbox]{
+    display: inline-block;
+    margin: 0 4px;
+    vertical-align: bottom;
+}
+
+/**
+ *  Better Alert Text Colors
+ */
+.alert.alert-info{  color: #31708F; }
+.alert.alert-warning{  color: #8A6D3B; }
+.alert.alert-success{  color: #3C763D; }
+.alert.alert-danger{  color: #A94442; }
+
+/*  Header (!HEAD)
+==============================================================================*/
+header.header-wrap,
+header .header{
+    position: relative;
+}
+
+.login-status{
+    position: absolute;
+    top: 22px;
+    right: 5px;
+}
+
+#search-top-box{  float: right; }
+#search-top-box-input{  margin-right: 4px; }
+
+nav.top-bar-wrap{  margin-top: 10px; }
+
+/*  Main Content (!MAIN)
+==============================================================================*/
+main .content .page-title{
+    font-size: 36px;
+    border-bottom: 1px solid #CCC;
+    margin: 15px 0 1em 0;
+    padding: 0;
+    line-height: 1.25em;
+}
+
+.page-tags{
+    margin: 8px 0 0 0;
+}
+.page-tags a{
+    display: inline-block;
+    padding: 1px 10px 0 0;
+    border-top: 1px solid #CCC;
+    margin: 0;
+    font-size: 12px;
+}
+
+/*  Sidebar (!SIDE)
+==============================================================================*/
+nav.side-bar-wrap .navbar-collapse{  max-height: none; }
+
+/*  Table of Contents (!TOCT)
+==============================================================================*/
+#toc{
+    min-width: 200px;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    padding: .5em 1em;
+}
+#toc .title{  letter-spacing: 1px; }
+#toc-action-bar{  height: 0; }
+#toc-action-bar a{
+    font-size: 0;
+    position: relative;
+    left: 138px;
+}
+#toc-action-bar a:first-child::after{
+    font-family: 'FontAwesome';
+    content: '';
+    font-size: 12px;
+}
+#toc-action-bar a:last-child::after{
+    font-family: 'FontAwesome';
+    content: '';
+    font-size: 12px;
+}
+.floatleft {
+    float: left;
+}
+.floatright {
+    float: right;
+}
+
+/*  Wiki Tables (!WTBL)
+==============================================================================*/
+/**
+ *  Base Table styling to mimic Bootstrap Tables
+ */
+.wiki-content-table{
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 100%;
+    background-color: rgba(0,0,0,0);
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.wiki-content-table > thead > tr > th,
+.wiki-content-table > tbody > tr > th,
+.wiki-content-table > tfoot > tr > th,
+.wiki-content-table > thead > tr > td,
+.wiki-content-table > tbody > tr > td,
+.wiki-content-table > tfoot > tr > td{
+    border-top: 1px solid #CCC;
+    line-height: 1.42857;
+    padding: 8px;
+    vertical-align: top;
+}
+.wiki-content-table th{
+    text-align: left;
+}
+@media (max-width: 768px){
+    .table-responsive .wiki-content-table{  margin-bottom: 0; }
+    .table-responsive > .wiki-content-table > thead > tr > th,
+    .table-responsive > .wiki-content-table > tbody > tr > th,
+    .table-responsive > .wiki-content-table > tfoot > tr > th,
+    .table-responsive > .wiki-content-table > thead > tr > td,
+    .table-responsive > .wiki-content-table > tbody > tr > td,
+    .table-responsive > .wiki-content-table > tfoot > tr > td{
+        white-space: nowrap;
+    }
+}
+/**
+ *  Color the Table
+ */
+.wiki-content-table > thead > tr > th,
+.wiki-content-table > tbody > tr > th,
+.wiki-content-table > tfoot > tr > th,
+.wiki-content-table > thead > tr > td,
+.wiki-content-table > tbody > tr > td,
+.wiki-content-table > tfoot > tr > td{
+    border-top: none;
+    border-bottom: 1px solid #CCC;
+}
+.wiki-content-table > thead > tr > th,
+.wiki-content-table > tbody > tr > th,
+.wiki-content-table > tfoot > tr > th{
+    background: #E6E6E6;
+    color: #333;
+}
+
+/*  Code Blocks (!CODE)
+==============================================================================*/
+/**
+ *  Standard code highlight colors
+ */
+.code span.hl-reserved{  color: #1518FF; }
+.code span.hl-number{  color: #000099; }
+.code span.hl-special{  color: #0060FF; }
+.code span.hl-string{  color: #A31515; }
+.code span.hl-var{  color: #1518FF; }
+.code span.hl-types{  color: #0080AA; }
+
+/*  Rate Widget (!RATE)
+==============================================================================*/
+.page-rate-widget-box .rate-points{
+    background: none;
+    font-size: 0;
+}
+.page-rate-widget-box .rate-points .number{
+    font-size: 14px;
+    color: #333;
+    border: 1px solid #CCC;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 4px;
+}
+.page-rate-widget-box .btn{
+    padding: 0;
+    margin-right: 3px;
+}
+.page-rate-widget-box .btn a{
+    padding: 6px 12px;
+    background: none;
+    font-size: 0;
+    display: inline-block;
+    color: #333;
+}
+.page-rate-widget-box .btn a:hover{
+    color: #111;
+    text-decoration: none;
+}
+.page-rate-widget-box .btn a::after{
+    font-family: FontAwesome;
+    font-size: 14px;
+}
+.page-rate-widget-box .btn.rateup a::after{
+    content: '';
+}
+.page-rate-widget-box .btn.cancel a::after{
+    content: '';
+}
+.page-rate-widget-box .btn.ratedown a::after{
+    content: '';
+}
+    
+
+
+/*  Action Area (!ACTA)
+==============================================================================*/
+#edit-page-textarea{  font-family: Monaco, Menlo,Consolas, "Courier New", monospace; }
+ins{
+    font-weight: bold;
+    background-color: #DFF0D8;
+    color: #3C763D;
+}
+del{
+    text-decoration: line-through;
+    background-color: #F2DEDE;
+    color: #A94442;
+}
+
+/**
+ *  History
+ */
+#action-area #history-form-1 table.form td:first-child{  padding-right: 12px; }
+#action-area #history-form-1 .checkbox{
+    display: inline-block;
+    vertical-align: -5px;
+}
+#action-area .page-history{
+    margin-top: 12px;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 100%;
+    background-color: rgba(0,0,0,0);
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+#action-area .page-history tr > td{
+    border-top: 1px solid #CCC;
+    line-height: 1.42857;
+    padding: 8px;
+    vertical-align: top;
+    border-top: 1px solid #CCC;
+}
+#action-area .page-history tr:first-child td{
+    background: #E6E6E6;
+    color: #333;
+    font-weight: bold;
+}
+#action-area .page-history tr:not(:first-child) td:nth-child(6){  padding-top: 8px !important; }
+
+/**
+ *  Parent Autocomplete Listing
+ */
+#action-area .autocomplete-list ul{
+    position: absolute;
+    border: 1px solid #DDD;
+    background: #FFF;
+    box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    margin: 4px;
+    padding: 4px 0;
+    list-style: none;
+    width: 250px;
+    z-index: 999;
+}
+#action-area .autocomplete-list ul li{
+    padding: 2px 12px;
+}
+#action-area .autocomplete-list ul li:hover{
+    background: #428BCA;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.wd-editor-toolbar-panel + div{  clear: both; }
+
+/**
+ *  + Options > Delete center buttons - 09 Sep, 2014
+ */
+/* center delete page buttons (for delete completely) */
+#rename-option-rename > form > div {
+  text-align: center;
+}
+/* center rename buttons (for rename options vs delete completely) */
+#rename-option-delete {
+  text-align: center;
+}
+
+/* Footer (!FOOT)
+==============================================================================*/
+footer .footer{
+    text-align: center;
+    padding-bottom: 32px;
+}
+footer .footer > div{  margin: 8px 0; }
+
+/*  Hovertips (!HVTP)
+==============================================================================*/
+.hovertip {
+    border: none !important;
+    background: rgba(20, 20, 20, .95) !important;
+    font-size: 12px;
+    text-align: center;
+    min-width: 100px;
+    color: #FFF;
+    border-radius: 4px;
+}
+
+/*  Tabview (!TABV)
+==============================================================================*/
+/**
+ *  Basic Formatting
+ */
+.yui-navset .yui-nav{
+    list-style: none;
+    padding: 0;
+}
+.yui-navset .yui-nav li{  float: left; }
+.yui-navset .yui-nav li a{
+    display: inline-block;
+    border: 1px solid #CCC;
+    border-bottom: none;
+    border-radius: 4px 4px 0 0;
+    background: #FFF;
+    padding: 2px 12px;
+    margin-right: 2px;
+    margin-top: 4px;
+    color: #333;
+}
+.yui-navset .yui-nav li.selected a{
+    background: #F5F5F5;
+    padding: 4px 14px;
+    margin-top: 0;
+}
+.yui-navset .yui-nav li a:hover,
+.yui-navset .yui-nav li a:focus{
+    background: #E6E6E6;
+    border-color: #ADADAD;
+    text-decoration: none;
+    outline: none;
+}
+.yui-navset .yui-nav li.selected a:hover,
+.yui-navset .yui-nav li.selected a:focus{
+    background: #F5F5F5;
+    border-color: #CCC;
+    cursor: text;
+}
+.yui-navset .yui-nav li a:active{
+    outline: none;
+    box-shadow: 0 3px 5px rgba(0,0,0,.125) inset;
+}
+.yui-navset .yui-nav li.selected a:active{  box-shadow: none; }
+.yui-navset .yui-content{
+    clear: both;
+    border: 1px solid #CCC;
+    border-top-width: 3px;
+    background: #FFF;
+    border-radius: 0 4px 4px 4px;
+    padding: 12px 12px 0 12px;
+}
+
+/**
+ *  Colors corresponding with Bootstrap schemata
+ */
+.tabview-primary .yui-navset .yui-nav li a{
+    border-color: #3573BD;
+    background: #428BCA;
+    color: #FFF;
+}
+.tabview-primary .yui-navset .yui-nav li a:hover,
+.tabview-primary .yui-navset .yui-nav li a:focus{
+    background: #3071A9;
+    border-color: #285E8E;
+}
+.tabview-primary .yui-navset .yui-nav li.selected a{  background: #428BCA; }
+.tabview-primary .yui-navset .yui-nav li.selected a:hover,
+.tabview-primary .yui-navset .yui-nav li.selected a:focus{  border-color: #3573BD; }
+.tabview-primary .yui-navset .yui-content{  border-color: #3573BD; }
+
+.tabview-info .yui-navset .yui-nav li a{
+    border-color: #46B8DA;
+    background: #D9EDF7;
+    color: #31708F;
+}
+.tabview-info .yui-navset .yui-nav li a:hover,
+.tabview-info .yui-navset .yui-nav li a:focus{
+    background: #CBE2ED;
+    border-color: #269ABC;
+}
+.tabview-info .yui-navset .yui-nav li.selected a{  background: #BCE8F1; }
+.tabview-info .yui-navset .yui-nav li.selected a:hover,
+.tabview-info .yui-navset .yui-nav li.selected a:focus{  border-color: #46B8DA; }
+.tabview-info .yui-navset .yui-content{  border-color: #46B8DA; }
+
+.tabview-success .yui-navset .yui-nav li a{
+    border-color: #4CAE4C;
+    background: #DFF0D8;
+    color: #3C763D;
+}
+.tabview-success .yui-navset .yui-nav li a:hover,
+.tabview-success .yui-navset .yui-nav li a:focus{
+    background: #D2E5C9;
+    border-color: #398439;
+}
+.tabview-success .yui-navset .yui-nav li.selected a{  background: #D6E9C6; }
+.tabview-success .yui-navset .yui-nav li.selected a:hover,
+.tabview-success .yui-navset .yui-nav li.selected a:focus{  border-color: #4CAE4C; }
+.tabview-success .yui-navset .yui-content{  border-color: #4CAE4C; }
+
+.tabview-warning .yui-navset .yui-nav li a{
+    border-color: #EEA236;
+    background: #FCF8E3;
+    color: #8A6D3B;
+}
+.tabview-warning .yui-navset .yui-nav li a:hover,
+.tabview-warning .yui-navset .yui-nav li a:focus{
+    background: #EFEBD5;
+    border-color: #D58512;
+}
+.tabview-warning .yui-navset .yui-nav li.selected a{  background: #FAEBCC; }
+.tabview-warning .yui-navset .yui-nav li.selected a:hover,
+.tabview-warning .yui-navset .yui-nav li.selected a:focus{  border-color: #EEA236; }
+.tabview-warning .yui-navset .yui-content{  border-color: #EEA236; }
+
+.tabview-danger .yui-navset .yui-nav li a{
+    border-color: #D43F3A;
+    background: #F2DEDE;
+    color: #A94442;
+}
+.tabview-danger .yui-navset .yui-nav li a:hover,
+.tabview-danger .yui-navset .yui-nav li a:focus{
+    background: #E5CECE;
+    border-color: #AC2925;
+}
+.tabview-danger .yui-navset .yui-nav li.selected a{  background: #EBCCD1; }
+.tabview-danger .yui-navset .yui-nav li.selected a:hover,
+.tabview-danger .yui-navset .yui-nav li.selected a:focus{  border-color: #D43F3A; }
+.tabview-danger .yui-navset .yui-content{  border-color: #D43F3A; }
+
+/*  Forum (!FRUM)
+==============================================================================*/
+
+
+/*  Gallery (!GALL)
+==============================================================================*/
+.gallery-box .gallery-item{
+    float: left;
+    border: 1px solid #CCC;
+    padding: 5px;
+    margin: 5px;
+}
+.gallery-box::after{
+    clear: both;
+    display: table;
+    content: ' ';
+}
+
+/*  Bootstrap Version+ (!BOOT)
+==============================================================================*/
+.embed-responsive {
+    display: block;
+    height: 0;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+}
+.embed-responsive .embed-responsive-item, .embed-responsive embed, .embed-responsive iframe, .embed-responsive object, .embed-responsive video {
+    border: 0 none;
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.embed-responsive-16by9 {
+    padding-bottom: 56.25%;
+}
+.embed-responsive-4by3 {
+    padding-bottom: 75%;
+}

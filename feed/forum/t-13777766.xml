@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Alchemist is wrong</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13777766/alchemist-is-wrong</link>
+		<description>Posts in the discussion thread &quot;Alchemist is wrong&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:24:40 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13777766#post-4793258</guid>
+				<title>Re: Alchemist is wrong</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13777766/alchemist-is-wrong#post-4793258</link>
+				<description></description>
+				<pubDate>Sun, 11 Oct 2020 08:09:35 +0000</pubDate>
+				<wikidot:authorName>mTruitt</wikidot:authorName>				<wikidot:authorUserId>6444238</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Fixed, thanks for catching the error and providing the fixed text.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13777766#post-4786865</guid>
+				<title>Alchemist is wrong</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13777766/alchemist-is-wrong#post-4786865</link>
+				<description></description>
+				<pubDate>Fri, 02 Oct 2020 08:57:22 +0000</pubDate>
+				<wikidot:authorName>James Troy</wikidot:authorName>				<wikidot:authorUserId>6896264</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Quote from wikidot page on alchemist 5th level ability: &quot;At 5th level, you develop masterful command of magical chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your alchemist’s supplies as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).&quot;</p> <p>Quote from Eberron -Rising from the Last War: &quot;At 5th level, you develop masterful command of magical<br /> chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your<br /> alchemist's supplies as the spellcasting focus, you gain<br /> a bonus to one roll of the spell. That roll must restore hit<br /> points or be a damage roll that deals acid, fire, necrotic,<br /> or poison damage, and the bonus equals your Intelligence modifier (minimum of +1). &quot;</p> <p>It says I am not able to edit the page, could someone give me a hand? It omits 2 damage types from the original (fire and necrotic)</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

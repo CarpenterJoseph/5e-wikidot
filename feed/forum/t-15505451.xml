@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Races missing</title>
+		<link>http://dnd5e.wikidot.com/forum/t-15505451/races-missing</link>
+		<description>Posts in the discussion thread &quot;Races missing&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:20:52 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15505451#post-5811566</guid>
+				<title>Re: Races missing</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15505451/races-missing#post-5811566</link>
+				<description></description>
+				<pubDate>Wed, 04 Jan 2023 16:18:55 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The 502 errors are something I think are out of our control. I don't see how the new lineage pages could be causing 502 errors, they're no more taxing than anything else we have on the site. And they've existed for months before these errors started popping up, they just weren't linked on the main page. With how many sites wikidot hosts I wonder if they're hitting some kind of limit on the resources they have available/paid for. Based on comments in the support forum it doesn't look like the creator of wikidot is very involved anymore, so he could be letting everything run on autopilot.</p> <p>I responded on your other thread about putting the races back on the main page.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15505451#post-5808011</guid>
+				<title>Re: Races missing</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15505451/races-missing#post-5808011</link>
+				<description></description>
+				<pubDate>Tue, 03 Jan 2023 22:58:13 +0000</pubDate>
+				<wikidot:authorName>ArcaediusX</wikidot:authorName>				<wikidot:authorUserId>8419874</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The 502 error is widespread and not tied specifically to races.</p> <p>That being said, whatever editor/moderator decided to go ham back in April and <strong><em>completely</em></strong> try to reorganize all of the races into new pages instead of being accessible from the main page like they had been; reorganize all of the Unearthed Arcana into a single category (removing the UA book names from everything); changed all the urls of pages and redirected all the links to them&#8230;. it messed with a lot of things. For example, Volo's version of Aasimar was missing last I checked.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15505451#post-5807962</guid>
+				<title>Races missing</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15505451/races-missing#post-5807962</link>
+				<description></description>
+				<pubDate>Tue, 03 Jan 2023 21:28:21 +0000</pubDate>
+				<wikidot:authorName>Zapp Brannigan</wikidot:authorName>				<wikidot:authorUserId>1382739</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Not sure if anyone else has the same issue, but it seems that the races are missing from the main page and trying to go straight to some of the individual race pages ends in a 502 error. Has something changed with the site or is this just a bug?</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

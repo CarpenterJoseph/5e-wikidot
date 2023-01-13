@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Warlock Invocation page layout</title>
+		<link>http://dnd5e.wikidot.com/forum/t-15090025/warlock-invocation-page-layout</link>
+		<description>Posts in the discussion thread &quot;Warlock Invocation page layout&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:23:18 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15090025#post-5540505</guid>
+				<title>Re: Warlock Invocation page layout</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15090025/warlock-invocation-page-layout#post-5540505</link>
+				<description></description>
+				<pubDate>Fri, 19 Aug 2022 15:24:57 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Looks good to me!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15090025#post-5540471</guid>
+				<title>Re: Warlock Invocation page layout</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15090025/warlock-invocation-page-layout#post-5540471</link>
+				<description></description>
+				<pubDate>Fri, 19 Aug 2022 14:46:47 +0000</pubDate>
+				<wikidot:authorName>Zkaij</wikidot:authorName>				<wikidot:authorUserId>6690395</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I've moved UA options to the bottom under a section title. I considered adding a section to the start, but ultimately don't think it's necessary. Something like 'Published Content' would really stick out against how things are normally written on the site, and 'Eldritch Invocations' is already the page title. I think it looks good; the section also helps delineate the difference in the ToC, as I was hoping, so I don't think a spoiler-like dropdown in the body is necessary, and it would get in the way a little for people like me who like to reference UA options frequently. How about you two?</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15090025#post-5540460</guid>
+				<title>Re: Warlock Invocation page layout</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15090025/warlock-invocation-page-layout#post-5540460</link>
+				<description></description>
+				<pubDate>Fri, 19 Aug 2022 14:34:49 +0000</pubDate>
+				<wikidot:authorName>Zkaij</wikidot:authorName>				<wikidot:authorUserId>6690395</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I appreciate your acknowledgement, and I'm glad you both like my idea. What kind of drop-down menu were you imagining—in the body of the page, the ToC, or somewhere else? Is there a page which has an example of what you're envisioning?</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15090025#post-5539762</guid>
+				<title>Re: Warlock Invocation page layout</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15090025/warlock-invocation-page-layout#post-5539762</link>
+				<description></description>
+				<pubDate>Fri, 19 Aug 2022 01:50:00 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Yeah, thanks for hopping on the thread Zkaij, the reasoning makes sense.</p> <p>I think that solution sounds good as well.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15090025#post-5539729</guid>
+				<title>Re: Warlock Invocation page layout</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15090025/warlock-invocation-page-layout#post-5539729</link>
+				<description></description>
+				<pubDate>Fri, 19 Aug 2022 01:09:21 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>That sounds like a pretty good way of running it actually, having it split between UA and Not. Perhaps a drop down menu could also help for it?</p> <p>Also my bad on missing some stuff, thats on me for missing it during my UA double check.</p> <p>Thanks for hopping onto the thread Zkaij,</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15090025#post-5539675</guid>
+				<title>Re: Warlock Invocation page layout</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15090025/warlock-invocation-page-layout#post-5539675</link>
+				<description></description>
+				<pubDate>Thu, 18 Aug 2022 22:57:37 +0000</pubDate>
+				<wikidot:authorName>Zkaij</wikidot:authorName>				<wikidot:authorUserId>6690395</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hiya. Wasn't aware of this thread, but found it through your previous activity, so here I am to pitch in.</p> <p>The reason for my (re)revision was firstly because I added (and updated) content which was lost when you reverted: such a reversion should include a port of those changes: in particular, spell formatting, though there might have been other stuff. Secondly, this style matches other places, such as spell list pages (which include UA spells in the tables with the same note), as well as subclasses. However, that latter example gives me an idea that might include the better part of both of our 'versions': we could separate the UA options, listed at the bottom of the page, just how subclasses are separated in that way. That way, all can live on the same page (staying in keeping with other UA-related practices on the wiki), and UA options don't 'get in the way' of the non-UA ones. How does that sound to you?</p> <p>When I next have the time to do so, I'll check in on the page and work on such an edit (replies on this thread and the state of the page permitting).</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15090025#post-5537465</guid>
+				<title>Re: Warlock Invocation page layout</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15090025/warlock-invocation-page-layout#post-5537465</link>
+				<description></description>
+				<pubDate>Tue, 16 Aug 2022 23:35:12 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Mhm, though, the upside is that it can always be edited again. I'll revert it, though if Zkaij wants to hop in and say anything its always good to further discuss matters, extra communication only ever makes the wikidot more effective. Plus, should our minds change, I'll set it back to Zkaij's version myself the moment we say so</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15090025#post-5537164</guid>
+				<title>Re: Warlock Invocation page layout</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15090025/warlock-invocation-page-layout#post-5537164</link>
+				<description></description>
+				<pubDate>Tue, 16 Aug 2022 13:55:30 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I'd prefer it the previous way, with the UA on a separate page. It looks like Zkaij is the one that reverted the page to having the UA on the main invocations page.</p> <p>One of the disadvantages of wikis, I guess; anyone with the permissions can go through and undo the work someone else has done. You're right, the discussion is a good thing to have.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15090025#post-5536637</guid>
+				<title>Warlock Invocation page layout</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15090025/warlock-invocation-page-layout#post-5536637</link>
+				<description></description>
+				<pubDate>Tue, 16 Aug 2022 01:02:24 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hey just wanted to double check what we were doing with the warlock page and start a discussion, since I feel its worth discussing how to handle the UA in it?</p> <p>So recap to bring everyone up to speed, the UA work I was doing previously (I'll get back to double checking it all, sorry, had assignments due in the recent weeks) had us find a bunch of UA invocations that never made it to print, and also a bunch were revised or reworked. Though, for archival purposes I took this as a chance to move all the UA warlock feats into a seperate subpage (linked on the original invocations page), as so that the invocation page only holds printed content, and then if a person wanted to view old UA, they could hop into the subpage. However, a few days back, this was reverted, and the new UA invocations moved onto the main invocation page?</p> <p>I think since there is uncertainty in what we want to do, I feel bringing it up in a discussion thread is a good idea, so thats what this is. Would we rather all the UA invocations sit on the main invocations page as they did before, or would we rather to have them all on a separate sub page in order to organize them seperately and make it more clear between which is which.</p> <p>Yeah</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

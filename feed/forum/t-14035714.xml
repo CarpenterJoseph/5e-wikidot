@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Song of rest fix</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14035714/song-of-rest-fix</link>
+		<description>Posts in the discussion thread &quot;Song of rest fix&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:23:52 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14035714#post-4937041</guid>
+				<title>Re: Song of rest fix</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14035714/song-of-rest-fix#post-4937041</link>
+				<description></description>
+				<pubDate>Sat, 27 Mar 2021 14:01:40 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>good catch. should be fixed now</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14035714#post-4936482</guid>
+				<title>Song of rest fix</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14035714/song-of-rest-fix#post-4936482</link>
+				<description></description>
+				<pubDate>Fri, 26 Mar 2021 22:28:00 +0000</pubDate>
+				<wikidot:authorName>RogueZenzero</wikidot:authorName>				<wikidot:authorUserId>7038051</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The Bard class feature Song of Rest is currently missing the <strong>bold</strong> part of the text in the entry:<br /> Beginning at 2nd Level, you can use soothing music or oration to help Revitalize your wounded allies during a Short Rest. If you or any friendly creatures who can hear your Performance regain Hit Points by spending Hit Dice at the end of the Short Rest, each of those creatures regains an extra 1d6 Hit Points.</p> <p><strong>The extra Hit Points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.</strong></p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

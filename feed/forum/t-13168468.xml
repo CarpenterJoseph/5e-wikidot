@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Error in the &#039;Mending&#039; spell page</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13168468/error-in-the-mending-spell-page</link>
+		<description>Posts in the discussion thread &quot;Error in the &#039;Mending&#039; spell page&quot; - the casting time is wrong (its 1 minute not one action), and i dont want to bother the server owner over this and i dont know how to contact the mods.</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:24:50 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13168468#post-4703488</guid>
+				<title>Re: Error in the &#039;Mending&#039; spell page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13168468/error-in-the-mending-spell-page#post-4703488</link>
+				<description></description>
+				<pubDate>Sun, 28 Jun 2020 19:34:33 +0000</pubDate>
+				<wikidot:authorName>Skyao</wikidot:authorName>				<wikidot:authorUserId>6089401</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>That's fixed now, thank you!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13168468#post-4557378</guid>
+				<title>Error in the &#039;Mending&#039; spell page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13168468/error-in-the-mending-spell-page#post-4557378</link>
+				<description></description>
+				<pubDate>Fri, 20 Mar 2020 22:14:35 +0000</pubDate>
+				<wikidot:authorName>EarlSocksIII</wikidot:authorName>				<wikidot:authorUserId>5359723</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>On that page (spell:mending tag), the casting time is 1 action instead of how it should be, one minute. I dont know where 1 action came from, but its kinda annoying me and id want it to be fixed.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

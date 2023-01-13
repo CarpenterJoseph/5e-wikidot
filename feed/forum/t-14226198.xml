@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Spell issue</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14226198/spell-issue</link>
+		<description>Posts in the discussion thread &quot;Spell issue&quot; - Life transference is Necromancy</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:25:29 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14226198#post-5107870</guid>
+				<title>Re: Spell issue</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14226198/spell-issue#post-5107870</link>
+				<description></description>
+				<pubDate>Thu, 14 Oct 2021 11:54:36 +0000</pubDate>
+				<wikidot:authorName>Valkyria Grey</wikidot:authorName>				<wikidot:authorUserId>6675660</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Thanks for letting us know! This issue should be fixed now.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14226198#post-5107546</guid>
+				<title>Spell issue</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14226198/spell-issue#post-5107546</link>
+				<description></description>
+				<pubDate>Wed, 13 Oct 2021 23:50:26 +0000</pubDate>
+				<wikidot:authorName>Varrick1992</wikidot:authorName>				<wikidot:authorUserId>7706166</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>So I noticed the spell Life Transfer is listed as an Evocation spell instead of a Necromancy spell and wanted to try to make sure that got corrected. I had no way of contacting the admins via the site so I thought I'd bring it to attention this way</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

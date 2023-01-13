@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Confusion Spell</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14034180/confusion-spell</link>
+		<description>Posts in the discussion thread &quot;Confusion Spell&quot; - Missing for Druids, Wrongfully on Warlocks.</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:23:53 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14034180#post-4934752</guid>
+				<title>Re: Confusion Spell</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14034180/confusion-spell#post-4934752</link>
+				<description></description>
+				<pubDate>Wed, 24 Mar 2021 21:41:56 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Good catch! Should be fixed now, let us know if there's anything else you find misfiled.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14034180#post-4934142</guid>
+				<title>Confusion Spell</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14034180/confusion-spell#post-4934142</link>
+				<description></description>
+				<pubDate>Wed, 24 Mar 2021 07:31:16 +0000</pubDate>
+				<wikidot:authorName>Brbrstrsnd</wikidot:authorName>				<wikidot:authorUserId>7339272</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hey!<br /> The Confusion Spell is on the Warlock List, where I think it shouldn't be, and is not on the Druid List, where it should be.<br /> I'm quite a new player so I hope I didn't confuse (haha) something here. :)</p> <p>KR</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

@@ -1,0 +1,65 @@
+/** Minimalized Search Bar
+ *  Developed by the Wikidot Community
+ *  
+ *  Minimizes the search bar when not active.  Focusing on the search bar
+ *  reveals the search form.
+ *  ***************************************************************************/
+#search-top-box{
+    position: relative;
+    width: 200px;
+    height: 28px;
+}
+#search-top-box input.btn{  display: none; }
+#search-top-box input.text{
+    position: absolute;
+    right: 0;
+    height: 28px; width: 28px;
+    border: 1px solid #E3E3E3;
+    border-radius: 14px;
+    background: rgba(255,255,255,0);
+    box-shadow: none;
+    padding: 2px 0;
+    color: rgba(51,51,51,0);
+    transition: width 500ms,
+                color 500ms,
+                background 500ms;
+    cursor: pointer;
+}
+#search-top-box-input{  margin: 0; }
+#search-top-box form{
+    width: 24px;
+    height: 28px;
+}
+#search-top-box form:hover input.text{
+    background: rgba(0,0,0,.188);
+    border-color: #D7D7D7;
+}
+#search-top-box form:hover input.text:focus{
+    background: rgba(255,255,255,1);
+}
+#search-top-box form:focus{  width: 200px; }
+#search-top-box input.text:focus{
+    width: 200px;
+    padding: 2px 1em 2px 1em;
+    color: rgba(51,51,51,1);
+    box-shadow: 1px 1px 2px -1px rgba(0,0,0,0.15) inset;
+    border-color: #D7D7D7;
+    background: rgba(255,255,255,1);
+    cursor: text;
+}
+#search-top-box input.text.empty{  font-size: 0; }
+#search-top-box form:before{
+    position: absolute;
+    right: 0; top: 0;
+    font-family: 'FontAwesome';
+    font-size: 13px;
+    content: '';
+    width: 28px; height: 28px;
+    padding: 0;
+    color: #333;
+    text-align: center;
+    background: #FFF;
+    border-radius: 14px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, .2) inset;
+    line-height: 28px;
+}

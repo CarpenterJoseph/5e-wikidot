@@ -1,0 +1,16 @@
+﻿/*******************************************************************************
+    WE DO NOT USE THIS CUSTOM THEME EDITOR!
+
+    Want to edit your site's theme?  Read below.
+
+    If you are using a PUBLIC site:
+      Go to the css:_home page.
+      Follow any steps given on the page.
+    
+    If you are using a PRIVATE site:
+      In the Site Manager, find the theme called Private Site CSS
+      Add your custom CSS below what you see.
+*******************************************************************************/
+
+@import url('http://css.wikidot.com/theme:standard-yellow/code_');
+@import url('../global-css/style.css');

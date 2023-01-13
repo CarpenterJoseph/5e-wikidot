@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Tools</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14359319/tools</link>
+		<description>Posts in the discussion thread &quot;Tools&quot; - I made a page for Tools (both PHB and XGE stuff)</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:23:44 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14359319#post-5181280</guid>
+				<title>Re: Tools</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14359319/tools#post-5181280</link>
+				<description></description>
+				<pubDate>Wed, 19 Jan 2022 20:55:27 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>update: the <a href="https://dnd5e.wikidot.com/tools">Tools</a> page is now complete. i'm not super happy with the layout (having the table of contents and a bunch of tables/tabs doesn't work too well), but i'm not sure how to fix it or make it better, so i'd appreciate any thoughts y'all might have.</p> <p>in other news, i also made a <a href="https://dnd5e.wikidot.com/mounts-vehicles">Mounts and Vehicles</a> page with info for all the mounts/vehicles/other transportation items listed in the PHB. i think the tools page would work in either Items or Miscellaneous, but Mounts and Vehicles should definitely go in Items.</p> <p>now to pick another massive project to import into the wiki. maybe adding tal'dorei reborn to homebrew pages once i get my hands on it, who knows</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14359319#post-5146605</guid>
+				<title>Tools</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14359319/tools#post-5146605</link>
+				<description></description>
+				<pubDate>Fri, 03 Dec 2021 02:05:40 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>So in the spirit of finishing the <em>This Is Your Life</em> page, I decided to start adding in descriptions of the various tool kits, esp since we don't have them otherwise in items. I've gotten pretty far, and all that remains is adding the tool descriptions from XGE (I got up to cartographer's tools).</p> <p>The page is <a href="http://dnd5e.wikidot.com/tools">http://dnd5e.wikidot.com/tools</a>, feel free to work on it if you've got the time, otherwise i'll work on it when I have the time. I think it could fit in either Items as its own category or in Miscellaneous, but I'm leaning towards Items.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

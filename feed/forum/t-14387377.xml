@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>New Lineage Pages</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14387377/new-lineage-pages</link>
+		<description>Posts in the discussion thread &quot;New Lineage Pages&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:23:49 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14387377#post-5161115</guid>
+				<title>Re: New Lineage Pages</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14387377/new-lineage-pages#post-5161115</link>
+				<description></description>
+				<pubDate>Tue, 21 Dec 2021 15:36:44 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Im a fan of it. Dont know where it would go, but I really like the layout youve done for it</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14387377#post-5157400</guid>
+				<title>New Lineage Pages</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14387377/new-lineage-pages#post-5157400</link>
+				<description></description>
+				<pubDate>Thu, 16 Dec 2021 21:09:32 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>So been working on this off and on for months. It's always bugged me that the races (from this point on called lineages) weren't actually in their own categories. And the whole set up I thought was kind of messy so thought I'd play around see if I could come up with something else.</p> <p><a href="http://dnd5e.wikidot.com/lineage">http://dnd5e.wikidot.com/lineage</a></p> <p>If you look at the coding on these, most of them use [[include]] statements and pull in from other pages specific to a given variant or release version. If there's only a single variant, then it's all just coded on the main page.</p> <p>Curious what you all think of this set up. It won't make for a huge change to the main page, but gets them all in a category and should be a bit easier to handle if/when we start setting up book/setting specific pages like has been discussed in other threads.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

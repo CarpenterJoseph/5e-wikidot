@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Error in Tabaxi page</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13215997/error-in-tabaxi-page</link>
+		<description>Posts in the discussion thread &quot;Error in Tabaxi page&quot; - Wrong walking speed listed</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:24:53 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13215997#post-4703474</guid>
+				<title>Re: Error in Tabaxi page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13215997/error-in-tabaxi-page#post-4703474</link>
+				<description></description>
+				<pubDate>Sun, 28 Jun 2020 19:23:17 +0000</pubDate>
+				<wikidot:authorName>Skyao</wikidot:authorName>				<wikidot:authorUserId>6089401</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Thanks, this has been fixed last I checked!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13215997#post-4584045</guid>
+				<title>Error in Tabaxi page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13215997/error-in-tabaxi-page#post-4584045</link>
+				<description></description>
+				<pubDate>Mon, 06 Apr 2020 11:02:28 +0000</pubDate>
+								<wikidot:authorUserId>6304680</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The Tabaxi walking speed is listed at 40ft when it should be 30ft.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

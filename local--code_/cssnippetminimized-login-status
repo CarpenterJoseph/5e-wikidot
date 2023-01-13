@@ -1,0 +1,97 @@
+/** Minimalized Login Status
+ *  Developed by the Wikidot Community
+ *  
+ *  Minimalizes the Login Status so that it only shows the user's avatar and
+ *  behaves like a button.
+ *  ***************************************************************************/
+ 
+/* * When Logged In * */
+.login-status .printuser{  font-size: 0; }
+.login-status .printuser img.small{
+    max-width: 20px !important;
+    padding: 0 !important;
+    background-image: none !important;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+}
+ 
+.login-status .btn{
+    background: none;
+    border: none;
+    padding: 0;
+    min-height: 0;
+}
+.login-status .btn.disabled{
+    position: relative;
+    left: 23px;
+    top: 4px;
+    z-index: 50;
+}
+.login-status .btn.dropdown-toggle{
+    width: 28px;
+    height: 28px;
+    border: 1px solid #E3E3E3;
+    border-radius: 14px;
+    z-index: 49;
+}
+.login-status .btn.dropdown-toggle:hover{
+    background: #EEE;
+    border-color: #D7D7D7;
+}
+.login-status .caret{  visibility: hidden; }
+.login-status ul{
+    left: -102px;
+    box-shadow: 0 2px 3px -1px rgba(0,0,0,.2);
+    border-radius: 5px;
+}
+.login-status ul .divider{  display: none; }
+.login-status ul li i{
+    margin-right: 10px;
+}
+.login-status .printuser-show{  display: none; }
+
+/* * When Logged Out * */
+.login-status .login-status-create-account,
+.login-status > span{
+    display: none;
+}
+.login-status .login-status-sign-in.btn{
+    padding: 4px 8px;
+    font-size: 12px;
+}
+
+/* * Old Logged Out * *
+.login-status .login-status-sign-in{
+    background: #FFF;
+    border: 1px solid #E3E3E3;
+    width: 28px;
+    height: 28px;
+    border-radius: 14px;
+    color: #000;
+    font-size: 0;
+    padding-top: 2px;
+}
+.login-status .login-status-sign-in::before{
+    font-family: 'FontAwesome';
+    font-size: 16px;
+    content: '';
+}
+.login-status .login-status-sign-in:hover{
+    border-color: #D7D7D7;
+    background: #EEE;
+}
+
+/* * Messages * */
+.login-status .btn.disabled .badge.badge-info{
+    font-size: 11px;
+    position: absolute;
+    top: 1px;  right: 28px;
+    background: rgba(20, 20, 20, 0.95);
+    border-radius: 4px;
+}
+.login-status .dropdown-menu .badge{
+    position: relative;
+    top: -1px; left: 6px;
+    font-size: 11px;
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Wiki not displaying correctly on Chrome browsers</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13640950/wiki-not-displaying-correctly-on-chrome-browsers</link>
+		<description>Posts in the discussion thread &quot;Wiki not displaying correctly on Chrome browsers&quot; - The wiki displays incorrectly when visiting on Google Chrome-- Not caused by problematic Chrome extensions</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:24:43 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13640950#post-4752932</guid>
+				<title>Re: Wiki not displaying correctly on Chrome browsers</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13640950/wiki-not-displaying-correctly-on-chrome-browsers#post-4752932</link>
+				<description></description>
+				<pubDate>Thu, 20 Aug 2020 23:58:36 +0000</pubDate>
+				<wikidot:authorName>mTruitt</wikidot:authorName>				<wikidot:authorUserId>6444238</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Try using Ctrl + R to &quot;force reload&quot; your browser&#8212; Clearing your cookies won't fix the issue, but clearing your cache hopefully will</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13640950#post-4752000</guid>
+				<title>Re: Wiki not displaying correctly on Chrome browsers</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13640950/wiki-not-displaying-correctly-on-chrome-browsers#post-4752000</link>
+				<description></description>
+				<pubDate>Thu, 20 Aug 2020 00:22:48 +0000</pubDate>
+				<wikidot:authorName>DillonPickle</wikidot:authorName>				<wikidot:authorUserId>6744273</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hey! This is happening for me too, and clearing my cookies isn't helping. It's about the 3rd time I've seen this bug, and it's pretty frustrating, so a more solid fix would be great!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13640950#post-4751050</guid>
+				<title>Re: Wiki not displaying correctly on Chrome browsers</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13640950/wiki-not-displaying-correctly-on-chrome-browsers#post-4751050</link>
+				<description></description>
+				<pubDate>Tue, 18 Aug 2020 20:41:45 +0000</pubDate>
+				<wikidot:authorName>mTruitt</wikidot:authorName>				<wikidot:authorUserId>6444238</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Finally working again! Thanks! I tried that when it first happened but I guess the issue must have been fixed somehow in the past few days since I tried. Glad to see the page looking how it should again</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13640950#post-4750974</guid>
+				<title>Re: Wiki not displaying correctly on Chrome browsers</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13640950/wiki-not-displaying-correctly-on-chrome-browsers#post-4750974</link>
+				<description></description>
+				<pubDate>Tue, 18 Aug 2020 18:22:08 +0000</pubDate>
+				<wikidot:authorName>Snat</wikidot:authorName>				<wikidot:authorUserId>6750820</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I've had the same problem but I found a solution. Clear your cache. Did it literally just now and it fixed the display entirely.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13640950#post-4749158</guid>
+				<title>Re: Wiki not displaying correctly on Chrome browsers</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13640950/wiki-not-displaying-correctly-on-chrome-browsers#post-4749158</link>
+				<description></description>
+				<pubDate>Sun, 16 Aug 2020 20:04:03 +0000</pubDate>
+				<wikidot:authorName>mTruitt</wikidot:authorName>				<wikidot:authorUserId>6444238</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Yeah, that's weird. I just tested it on Firefox as well and it also has the same problem. The only browsers it's been fine on so far have been Microsoft Edge and mobile browsers.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13640950#post-4748755</guid>
+				<title>Re: Wiki not displaying correctly on Chrome browsers</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13640950/wiki-not-displaying-correctly-on-chrome-browsers#post-4748755</link>
+				<description></description>
+				<pubDate>Sun, 16 Aug 2020 09:14:02 +0000</pubDate>
+				<wikidot:authorName>Theolo</wikidot:authorName>				<wikidot:authorUserId>6013981</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>It hasn't worked on Firefox either for me and someone else. I don't think its a chromium specific thing.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13640950#post-4746988</guid>
+				<title>Wiki not displaying correctly on Chrome browsers</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13640950/wiki-not-displaying-correctly-on-chrome-browsers#post-4746988</link>
+				<description></description>
+				<pubDate>Fri, 14 Aug 2020 04:40:46 +0000</pubDate>
+				<wikidot:authorName>mTruitt</wikidot:authorName>				<wikidot:authorUserId>6444238</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>As of a handful of days ago(Not exactly sure how many), the front page of the wiki has stopped displaying correctly when I visit on Google Chrome. I've checked with a couple other people who note it also looks broken, and have tested it with and without browser extensions. The same layout problems persist on other pages as well, tables aren't displaying and images aren't showing up. Does anyone know of a fix for this or is this a problem with the site's CSS that needs to be fixed to be compatible with Chrome?</p> <p>Since I'm low-karma, the site won't let me post links, so here are the broken links to the uploaded images of the site displaying as intended in Microsoft Edge, and how it looks in Chrome:<br /> <strong>Edge:</strong> i <em>dot</em> imgur <em>dot</em> com <em>slash</em> PuVS1tn <em>dot</em> png<br /> <strong>Chrome:</strong> i <em>dot</em> imgur <em>dot</em> com <em>slash</em> ImD1fOt <em>dot</em> png<br /> Sorry about the broken links being a pain, I really had to make them not link-like.</p> <p>Edit: Seems to be a problem with <em>any</em> Chromium-based browser.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>I believe Artificer Infusions are wrong</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13794014/i-believe-artificer-infusions-are-wrong</link>
+		<description>Posts in the discussion thread &quot;I believe Artificer Infusions are wrong&quot; - Repeating shot and Radiant weapon levels are switched</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:24:40 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13794014#post-4793255</guid>
+				<title>Re: I believe Artificer Infusions are wrong</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13794014/i-believe-artificer-infusions-are-wrong#post-4793255</link>
+				<description></description>
+				<pubDate>Sun, 11 Oct 2020 08:07:21 +0000</pubDate>
+				<wikidot:authorName>mTruitt</wikidot:authorName>				<wikidot:authorUserId>6444238</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Checked a couple different sources, this seems to be the case. Made the fix.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13794014#post-4790455</guid>
+				<title>I believe Artificer Infusions are wrong</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13794014/i-believe-artificer-infusions-are-wrong#post-4790455</link>
+				<description></description>
+				<pubDate>Wed, 07 Oct 2020 04:16:21 +0000</pubDate>
+				<wikidot:authorName>Briant717</wikidot:authorName>				<wikidot:authorUserId>6909701</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Repeating Shot is labeled as a 6th level infusion when it isn't<br /> Radiant Weapon is not labeled as a 6th level infusion when it actually is.</p> <p>It actually might be the descriptions too. Since it says radiant weapon requires the ammunition property.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

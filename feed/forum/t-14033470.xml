@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Ranger-Revised touch ups</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14033470/ranger-revised-touch-ups</link>
+		<description>Posts in the discussion thread &quot;Ranger-Revised touch ups&quot; - adding and updating its linked subclasses</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:25:46 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14033470#post-4954961</guid>
+				<title>Re: Ranger-Revised touch ups</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14033470/ranger-revised-touch-ups#post-4954961</link>
+				<description></description>
+				<pubDate>Thu, 15 Apr 2021 06:10:40 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The stated reason for having extra attack be a subclass feature was specifically just for the beast master, since it didnt get extra attack to compensate for the damage output the companion gave</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14033470#post-4953390</guid>
+				<title>Re: Ranger-Revised touch ups</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14033470/ranger-revised-touch-ups#post-4953390</link>
+				<description></description>
+				<pubDate>Tue, 13 Apr 2021 04:28:02 +0000</pubDate>
+				<wikidot:authorName>Out of Time</wikidot:authorName>				<wikidot:authorUserId>4858050</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I believe I added in the Extra Attack feature with (UA) next to it to every ranger subclass, but this is fine as well. I don't know why revised ranger does that, because every revised subclass gives extra attack, but whatever</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14033470#post-4932827</guid>
+				<title>Ranger-Revised touch ups</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14033470/ranger-revised-touch-ups#post-4932827</link>
+				<description></description>
+				<pubDate>Tue, 23 Mar 2021 00:08:48 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Id like to begin by noting that ranger revised links to every single one of the current ranger subclasses, however, I do not believe this to be the best option. Despite ranger and ranger revised being very similiar, ranger revised is built in such a way that it does not interact well with the base game subclasses. For example, it lacks extra-attack, due to it being reliant on its subclasses to give it the feature, so as to balance alterations to beast master.</p> <p>As such, I have decided to remove these links from the ranger-revised page.</p> <p>Aswell, I have noticed that the revised rangers actual subclasses, Beastmaster(revised), Hunter (revised) and Gloomstalker(Revised) lack pages. Technically the beastmaster has a page, at <a href="http://dnd5e.wikidot.com/ranger:beast-master-new">http://dnd5e.wikidot.com/ranger:beast-master-new</a>, however the page is empty</p> <p>As such, I have added and linked the revised rangers page to the following in place of its old links:</p> <p><a href="http://dnd5e.wikidot.com/revised-ranger-ua:beast-master">http://dnd5e.wikidot.com/revised-ranger-ua:beast-master</a><br /> <a href="http://dnd5e.wikidot.com/revised-ranger-ua:hunter">http://dnd5e.wikidot.com/revised-ranger-ua:hunter</a><br /> <a href="http://dnd5e.wikidot.com/revised-ranger-ua:deep-stalker">http://dnd5e.wikidot.com/revised-ranger-ua:deep-stalker</a></p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

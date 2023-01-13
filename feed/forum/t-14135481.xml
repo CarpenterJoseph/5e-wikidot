@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>[D&amp;D 5th Edition] wikidot pages errors</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14135481/d-d-5th-edition-wikidot-pages-errors</link>
+		<description>Posts in the discussion thread &quot;[D&amp;D 5th Edition] wikidot pages errors&quot; - the Alarm and the Purify Food &amp; Drink spells are missing the Ritual tag</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:25:34 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14135481#post-5056677</guid>
+				<title>Re: [D&amp;D 5th Edition] wikidot pages errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14135481/d-d-5th-edition-wikidot-pages-errors#post-5056677</link>
+				<description></description>
+				<pubDate>Mon, 16 Aug 2021 01:20:42 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Both have been fixed.</p> <p>It looks like someone removed the Warlock link &amp; tags from Thunderwave at some point, then someone else reverted the page back to a version with the tags and link for some reason.</p> <p>Magic Jar someone removed the link to the warlock spell list, but didn't remove the tag.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14135481#post-5056563</guid>
+				<title>Re: [D&amp;D 5th Edition] wikidot pages errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14135481/d-d-5th-edition-wikidot-pages-errors#post-5056563</link>
+				<description></description>
+				<pubDate>Sun, 15 Aug 2021 21:47:55 +0000</pubDate>
+				<wikidot:authorName>figureofspeech</wikidot:authorName>				<wikidot:authorUserId>7608063</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Thunderwave appears in the list of Warlock spells, (and the page for the spell also says it's a warlock spell) but it isn't actually on the Warlock spell list in the PHB or in Tasha's Guide. Magic Jar also is listed under Warlock spells, but shouldn't be (for this one, the page for the spell correctly only lists Wizard).</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14135481#post-5053531</guid>
+				<title>Re: [D&amp;D 5th Edition] wikidot pages errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14135481/d-d-5th-edition-wikidot-pages-errors#post-5053531</link>
+				<description></description>
+				<pubDate>Fri, 13 Aug 2021 07:53:19 +0000</pubDate>
+				<wikidot:authorName>jubicz</wikidot:authorName>				<wikidot:authorUserId>7278839</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hello, I would like to bring it to your attention that page about rare magic item Wand of Paralysis most probably contains an outdated descryption.</p> <p>The descryption on this site is kinda counterintuitive cause there is a paragraph about saving throw but no saving throw type is defined.</p> <p>Accordin to site below this was corrected by an errata (unfortunately I cant post correct links)<br /> rpg.stackexchange. com/questions/96091/what-is-the-wand-of-paralysis-saving-throw</p> <p>Thank you guys and keep up the good work!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14135481#post-5018860</guid>
+				<title>Re: [D&amp;D 5th Edition] wikidot pages errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14135481/d-d-5th-edition-wikidot-pages-errors#post-5018860</link>
+				<description></description>
+				<pubDate>Sat, 03 Jul 2021 12:48:03 +0000</pubDate>
+				<wikidot:authorName>Valkyria Grey</wikidot:authorName>				<wikidot:authorUserId>6675660</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Thanks for bringing the issue of the ritual spells to our attention. They have now been fixed. Please let us know if you find any other errors like that.</p> <p>Also, with regards to the spells lists, those spells were added to those spell lists in Tasha's Cauldron of Everything.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14135481#post-5018736</guid>
+				<title>Re: [D&amp;D 5th Edition] wikidot pages errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14135481/d-d-5th-edition-wikidot-pages-errors#post-5018736</link>
+				<description></description>
+				<pubDate>Sat, 03 Jul 2021 09:25:10 +0000</pubDate>
+				<wikidot:authorName>eruhcvnxb</wikidot:authorName>				<wikidot:authorUserId>7541241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I'm looking through the druid spells and there's a bunch of ones listed as part of the druid spell list, that do not belong there. If a spell is granted by an archetype, it is not in general part of the spell list, so it should not have the Spell list:druid at the bottom, nor appear on the spell:druid page.</p> <p>This concerns eg. Divination, Aura of Vitality, Revivify, Augury, Cone of Cold</p> <p>Aura of Vitality is also not part of the Cleric Spell list, revivify not a ranger spell, augury not a wizard spell,</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14135481#post-5018471</guid>
+				<title>[D&amp;D 5th Edition] wikidot pages errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14135481/d-d-5th-edition-wikidot-pages-errors#post-5018471</link>
+				<description></description>
+				<pubDate>Sat, 03 Jul 2021 04:38:01 +0000</pubDate>
+				<wikidot:authorName>Oracle-Raven</wikidot:authorName>				<wikidot:authorUserId>7541010</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Regarding the wikidot pages for D&amp;D 5th edition spells, I noticed a few errors.</p> <p>1. The pages which list the &quot;Alarm&quot; spell and the &quot;Purify Food and Drink&quot; spell are missing the Ritual tag on the list of all spells, under the &quot;1st Level&quot; tab.</p> <p>2. Although the page for the &quot;Alarm&quot; spell does mention it is a &quot;Ritual&quot;, it still does not appear on the list of all Ritual spells.</p> <p>3. The page for the &quot;Purify Food and Drink&quot; spell does not mention it is a ritual, even though it is.</p> <p>4. The &quot;Purify Food and Drink&quot; spell also does not appear on the list of all Ritual spells.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

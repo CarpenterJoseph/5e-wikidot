@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Error in the Swarmkeeper Ranger Subclass</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13080716/error-in-the-swarmkeeper-ranger-subclass</link>
+		<description>Posts in the discussion thread &quot;Error in the Swarmkeeper Ranger Subclass&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:24:49 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13080716#post-4703491</guid>
+				<title>Re: Error in the Swarmkeeper Ranger Subclass</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13080716/error-in-the-swarmkeeper-ranger-subclass#post-4703491</link>
+				<description></description>
+				<pubDate>Sun, 28 Jun 2020 19:39:23 +0000</pubDate>
+				<wikidot:authorName>Skyao</wikidot:authorName>				<wikidot:authorUserId>6089401</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Thanks for the catch, it's been fixed!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13080716#post-4518107</guid>
+				<title>Error in the Swarmkeeper Ranger Subclass</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13080716/error-in-the-swarmkeeper-ranger-subclass#post-4518107</link>
+				<description></description>
+				<pubDate>Tue, 25 Feb 2020 20:53:41 +0000</pubDate>
+				<wikidot:authorName>Bobalugee1940</wikidot:authorName>				<wikidot:authorUserId>4381784</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>You forgot that they learn the mage hand cantrip.</p> <p>It reads: “You learn the magehand cantrip if you don’t already know it. When you cast it, the hand takes the form of swarming nature spirits”</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

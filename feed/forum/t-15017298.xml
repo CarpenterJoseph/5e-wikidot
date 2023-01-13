@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>The wording on the page for Mace of Terror is a bit off</title>
+		<link>http://dnd5e.wikidot.com/forum/t-15017298/the-wording-on-the-page-for-mace-of-terror-is-a-bit-off</link>
+		<description>Posts in the discussion thread &quot;The wording on the page for Mace of Terror is a bit off&quot; - There&#039;s a repeat in the description paragraph.</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:23:19 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15017298#post-5466368</guid>
+				<title>Re: The wording on the page for Mace of Terror is a bit off</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15017298/the-wording-on-the-page-for-mace-of-terror-is-a-bit-off#post-5466368</link>
+				<description></description>
+				<pubDate>Mon, 18 Jul 2022 03:25:42 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Fixed, thanks for spotting that</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15017298#post-5460549</guid>
+				<title>The wording on the page for Mace of Terror is a bit off</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15017298/the-wording-on-the-page-for-mace-of-terror-is-a-bit-off#post-5460549</link>
+				<description></description>
+				<pubDate>Sat, 16 Jul 2022 02:19:59 +0000</pubDate>
+				<wikidot:authorName>Oracle-Raven</wikidot:authorName>				<wikidot:authorUserId>7541010</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hi,</p> <p>I noticed a repeat in the description paragraph for Mace of Terror.</p> <p>It says &quot;Each creature of your choice in a 30-foot radius extending from you must succeed on a DC 15 Wisdom saving throw <strong>or become frightened of you for 1 minute. While it is frightened of you for 1 minute. While it is frightened in this way</strong>, a creature must spend its turns trying to move as far away from you as it can [&#8230;]&quot;</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

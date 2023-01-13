@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Increasing amount of 502 (Bad Gateway) Errors</title>
+		<link>http://dnd5e.wikidot.com/forum/t-15500865/increasing-amount-of-502-bad-gateway-errors</link>
+		<description>Posts in the discussion thread &quot;Increasing amount of 502 (Bad Gateway) Errors&quot; - An increasing amount of pages have been giving 502 errors over these past few days - is there a known cause?</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:18:40 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15500865#post-5826684</guid>
+				<title>Re: Increasing amount of 502 (Bad Gateway) Errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15500865/increasing-amount-of-502-bad-gateway-errors#post-5826684</link>
+				<description></description>
+				<pubDate>Sat, 07 Jan 2023 22:33:38 +0000</pubDate>
+				<wikidot:authorName>Chris Shaffer</wikidot:authorName>				<wikidot:authorUserId>8426021</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I'm seeing 502 errors on many pages - about 20% of the time I try to load anything. It's not consistent.</p> <p>I found that if I clear my cache, the affected page will load immediately with no problems.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15500865#post-5818990</guid>
+				<title>Re: Increasing amount of 502 (Bad Gateway) Errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15500865/increasing-amount-of-502-bad-gateway-errors#post-5818990</link>
+				<description></description>
+				<pubDate>Fri, 06 Jan 2023 20:50:10 +0000</pubDate>
+				<wikidot:authorName>Solkani</wikidot:authorName>				<wikidot:authorUserId>8424538</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I'm getting a ton of these now too! Random stuff from certain wizard spells to weapons, then druid spells will work fine.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15500865#post-5818785</guid>
+				<title>Re: Increasing amount of 502 (Bad Gateway) Errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15500865/increasing-amount-of-502-bad-gateway-errors#post-5818785</link>
+				<description></description>
+				<pubDate>Fri, 06 Jan 2023 17:31:16 +0000</pubDate>
+				<wikidot:authorName>EvanBomb12</wikidot:authorName>				<wikidot:authorUserId>7981775</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I am seeing the same thing constantly on the backrooms Wikidot too and it is very frustrating as I'm trying to read it and at one second it just does the error. And some are extremely bad like Level 600 constantly does the error 24/7 and only works every little second.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15500865#post-5808006</guid>
+				<title>Re: Increasing amount of 502 (Bad Gateway) Errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15500865/increasing-amount-of-502-bad-gateway-errors#post-5808006</link>
+				<description></description>
+				<pubDate>Tue, 03 Jan 2023 22:49:29 +0000</pubDate>
+				<wikidot:authorName>ArcaediusX</wikidot:authorName>				<wikidot:authorUserId>8419874</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Yep, something is definitely wrong &#8212; and 502 is primarily a server overload error; which means it is on Wikidot's end and not the user. This error has been happening more and more for at least the past month or so. It's gotten to the point I'm constantly joking with my friends that Wizards of the Coast is DDoS-ing the site because it provides game info. XD</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15500865#post-5807832</guid>
+				<title>Re: Increasing amount of 502 (Bad Gateway) Errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15500865/increasing-amount-of-502-bad-gateway-errors#post-5807832</link>
+				<description></description>
+				<pubDate>Tue, 03 Jan 2023 18:12:24 +0000</pubDate>
+				<wikidot:authorName>Arioch53</wikidot:authorName>				<wikidot:authorUserId>8419637</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Yup, something is up. If I change browsers, it goes away temporarily and then slowly starts coming back. Emptying the cache doesn't seem to solve it.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15500865#post-5800495</guid>
+				<title>Re: Increasing amount of 502 (Bad Gateway) Errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15500865/increasing-amount-of-502-bad-gateway-errors#post-5800495</link>
+				<description></description>
+				<pubDate>Sun, 01 Jan 2023 14:04:57 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I'm not on here as much as I used to be so I don't know if that's why I haven't encountered it? Intermittent problems like that are hard to diagnose though. Since nothing major has changed on the site my best guess would be that wikidot changed something on their backend causing them to occasionally send a bad response. Or whatever wikidot changed isn't being recognized by some server along the chain from the hosting back to the user.</p> <p>There are so many links in the chain and any one of them could be responsible unfortunately.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15500865#post-5798055</guid>
+				<title>Increasing amount of 502 (Bad Gateway) Errors</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15500865/increasing-amount-of-502-bad-gateway-errors#post-5798055</link>
+				<description></description>
+				<pubDate>Sat, 31 Dec 2022 14:58:00 +0000</pubDate>
+				<wikidot:authorName>BlazingGold</wikidot:authorName>				<wikidot:authorUserId>3267446</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Hi!</p> <p>I've been using this website for a while now, and as of recent I've noticed a lot of 502 errors. I saw one mentioned already with Fire Genasi, but it's covered a lot of different pages - spell:summon-aberration, spells:wizard, etc. Many spells and other options seem to frequently return these errors, some lasting for several days at a time.</p> <p>From what I know about these, it's possible that they can be from my end instead of the server's - I have been able to access some of those pages while in Incognito mode. But, since I'm not the only one, I was curious about what others have found and think is happening.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

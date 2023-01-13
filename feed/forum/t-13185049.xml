@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Error in Paladin Spell list</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13185049/error-in-paladin-spell-list</link>
+		<description>Posts in the discussion thread &quot;Error in Paladin Spell list&quot; - Silent image is listed there. I believe it shouldn&#039;t be.</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:24:52 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13185049#post-4703479</guid>
+				<title>Re: Error in Paladin Spell list</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13185049/error-in-paladin-spell-list#post-4703479</link>
+				<description></description>
+				<pubDate>Sun, 28 Jun 2020 19:28:23 +0000</pubDate>
+				<wikidot:authorName>Skyao</wikidot:authorName>				<wikidot:authorUserId>6089401</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Good catch! It's fixed now</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13185049#post-4567040</guid>
+				<title>Error in Paladin Spell list</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13185049/error-in-paladin-spell-list#post-4567040</link>
+				<description></description>
+				<pubDate>Fri, 27 Mar 2020 06:53:57 +0000</pubDate>
+				<wikidot:authorName>Sir Francis</wikidot:authorName>				<wikidot:authorUserId>6272780</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Silent image is listed in the Paladin spell list. I believe it shouldn't be.<br /> Thanks!</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

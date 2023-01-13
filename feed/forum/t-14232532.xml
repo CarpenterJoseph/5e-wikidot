@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>A couple corrections</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections</link>
+		<description>Posts in the discussion thread &quot;A couple corrections&quot; - Some spells and other things</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:23:47 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5180434</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5180434</link>
+				<description></description>
+				<pubDate>Tue, 18 Jan 2022 14:35:41 +0000</pubDate>
+				<wikidot:authorName>shoc</wikidot:authorName>				<wikidot:authorUserId>7840306</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>That sounds a lot like something that WotC would do. i can see their recent overhauls changing that kind of stuff, and it being hidden under all the more breaking changes and erratas</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5180396</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5180396</link>
+				<description></description>
+				<pubDate>Tue, 18 Jan 2022 12:59:44 +0000</pubDate>
+				<wikidot:authorName>Valkyria Grey</wikidot:authorName>				<wikidot:authorUserId>6675660</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I've noticed that quite a few of the spells there are ones I've added recently. I think a lot of these &quot;errors&quot; are in line with how they appear in the books. WotC has been implementing subtle changes to the way spells and stat blocks are written in new publications, so it might be the case that all the spells on here might have to be edited to be in line with newer printings.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5177329</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5177329</link>
+				<description></description>
+				<pubDate>Thu, 13 Jan 2022 23:22:50 +0000</pubDate>
+				<wikidot:authorName>shoc</wikidot:authorName>				<wikidot:authorUserId>7840306</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>new laundry list<br /> The inconsistency if spell schools are uppercase 64or lowercase (1st-level conjuration vs 1st-level conjuration)<br /> There's also the special case when cantrips are involved cause they are expressed as Conjuration cantrip<br /> It seems like the current norm is lowercase for spells , but uppercase for cantrips</p> <p>So the following spells break parity<br /> Ashardalon's Stride lvl 3 Transmutation<br /> Borrowed Knowledge lvl 2 Divination<br /> Catnap lvl 3 Enchantment<br /> Distort Value lvl 1 Illusion<br /> Draconic Transformation lvl 7 Transmutation<br /> Fizban's Platinum Shield lvl 6 Abjuration<br /> Flame Stride (UA) lvl 3 Transmutation<br /> Kinetic Jaunt lvl 2 Transmutation<br /> Nathair's Mischief lvl 2 Illusion<br /> Raulothim's Psychic Lance lvl 4 Enchantment<br /> Rime's Binding Ice lvl 2 Evocation<br /> Silvery Barbs lvl 1 Enchantment<br /> Summon Draconic Spirit lvl 5 Conjuration<br /> Vortex Warp lvl 2 Conjuration<br /> Wither and Bloom lvl 2 Necromancy</p> <p>And for cantrips only<br /> On/Off (UA) cantrip (technomagic)<br /> breaks the standard as it straight up doesnt have a school and according to the UA it comes from it should be Transmutation</p> <p>Yes, before you wonder i definitely automated the looking for of this things</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5177233</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5177233</link>
+				<description></description>
+				<pubDate>Thu, 13 Jan 2022 18:16:43 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Yep, appreciate the effort.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5177208</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5177208</link>
+				<description></description>
+				<pubDate>Thu, 13 Jan 2022 17:06:24 +0000</pubDate>
+				<wikidot:authorName>shoc</wikidot:authorName>				<wikidot:authorUserId>7840306</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Will keep it coming as i find other types of inconsistencies like that</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5177195</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5177195</link>
+				<description></description>
+				<pubDate>Thu, 13 Jan 2022 16:40:27 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>looks like fredbob fixed Dark Star, just fixed that formatting for the spells you listed.</p> <p>and while i can't speak for the other mods, i personally appreciate getting a laundry list of things that need to be fixed because that just streamlines the process of fixing things. id rather get told what needs to be fixed rather than finding errors out of nowhere. all that to say, you're all good :)</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5177168</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5177168</link>
+				<description></description>
+				<pubDate>Thu, 13 Jan 2022 15:52:58 +0000</pubDate>
+				<wikidot:authorName>shoc</wikidot:authorName>				<wikidot:authorUserId>7840306</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Another one i found, the 8th level spell Dark star is also missing the hyphen on the level</p> <p>Getting hated by wikimaintainers speedrun any%<br /> the Following spells have break parity by being &quot;0th-<strong>L</strong>evel&quot; instead of &quot;0th-level&quot; spells<br /> Silvery Barbs 1st Level<br /> Fizban's Platinum Shield 6th Level<br /> Raulothim's Psychic Lance 4th<br /> Borrowed Knowledge 2nd<br /> Summon Draconic Spirit 5th-Level<br /> Vortex Warp 2nd-Level<br /> Nathair's Mischief 2nd<br /> Wither and Bloom 2nd<br /> Rime's Binding Ice 2nd-Level<br /> Draconic Transformation 7th level<br /> Ashardalon's Stride 3rd level</p> <p>Summon Lesser Demons says 3th level instead of 3rd level</p> <p>I would fix them but i don't have privileges, as i am cleaning up the results on my end</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5176380</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5176380</link>
+				<description></description>
+				<pubDate>Wed, 12 Jan 2022 14:26:36 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I made two edits to that page pretty close together, must have erased the first one where I added the source.</p> <p>Have noticed recently that the edit option doesn't always pull up the most recent code for a given page.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5176360</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5176360</link>
+				<description></description>
+				<pubDate>Wed, 12 Jan 2022 13:58:20 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>source has been added to arcane hacking. thanks!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5175998</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5175998</link>
+				<description></description>
+				<pubDate>Wed, 12 Jan 2022 01:09:23 +0000</pubDate>
+				<wikidot:authorName>shoc</wikidot:authorName>				<wikidot:authorUserId>7840306</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Source for Arcane Hacking is still missing bit i have tracked it down to<br /> Source: Unearthed Arcana 7 - Modern Magic</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5175982</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5175982</link>
+				<description></description>
+				<pubDate>Wed, 12 Jan 2022 00:33:10 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Everything listed should be fixed and consistent now.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5175783</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5175783</link>
+				<description></description>
+				<pubDate>Tue, 11 Jan 2022 16:31:04 +0000</pubDate>
+				<wikidot:authorName>shoc</wikidot:authorName>				<wikidot:authorUserId>7840306</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Some more parity breaking things i have found<br /> The following spells have break parity by not using a dash (-) between the level number and the word level<br /> Tether Essence 7th level<br /> Arcane Hacking (UA) 2nd level<br /> Time Ravage 9th level<br /> Ravenous Void 9th level<br /> Pulse Wave 3rd level<br /> Gravity Fissure 6th level<br /> Reality Break 8th level<br /> Gravity Sinkhole 4th level</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5175379</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5175379</link>
+				<description></description>
+				<pubDate>Tue, 11 Jan 2022 00:04:42 +0000</pubDate>
+				<wikidot:authorName>shoc</wikidot:authorName>				<wikidot:authorUserId>7840306</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Ceremony, the 1st level evocation has no source<br /> It should be<br /> Source:Xanathar's Guide to Everything</p> <p>Arcane Hacking (UA)<br /> the second level transmutation (technomagic)<br /> also has no source it hould be<br /> Source: Unearthed Arcana 7 - Modern Magic</p> <p>On a more petty note sword burst the cantrip breaks parity with all other times Tasha's is mentioned by using ´ instead of ' in it's name</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5174785</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5174785</link>
+				<description></description>
+				<pubDate>Mon, 10 Jan 2022 02:35:50 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>erupting earth has been fixed. thanks for letting us know!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5173613</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5173613</link>
+				<description></description>
+				<pubDate>Sat, 08 Jan 2022 04:43:05 +0000</pubDate>
+				<wikidot:authorName>ceslack</wikidot:authorName>				<wikidot:authorUserId>7604689</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Erupting Earth at higher levels is incorrect.<br /> It says: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d12 for each slot level above 2nd.<br /> It should say: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d12 for each slot level above 3rd.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5112694</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5112694</link>
+				<description></description>
+				<pubDate>Wed, 20 Oct 2021 12:39:06 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Fixed the issue on the main page.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5112331</guid>
+				<title>Re: A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5112331</link>
+				<description></description>
+				<pubDate>Wed, 20 Oct 2021 03:49:12 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Thanks for letting us know about these typos! I've fixed all but the Dragon Wings error on the front page (only admin moderators have access to it for obvious reasons).</p> <p>(I have a theory for why Maddening Darkness had the em dashes instead of hyphens: it's the same formatting that dnd-spells.com used for the spell.)</p> <p>Thanks again, and let us know if you notice anything else!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14232532#post-5112040</guid>
+				<title>A couple corrections</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14232532/a-couple-corrections#post-5112040</link>
+				<description></description>
+				<pubDate>Tue, 19 Oct 2021 18:03:31 +0000</pubDate>
+				<wikidot:authorName>merwini</wikidot:authorName>				<wikidot:authorUserId>7048651</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Creation's casting time is incorrectly set as 1 action. Should be 1 minute.<br /> Tenser's Transformation is correctly 1 action in the body of the page, but in the tags is &quot;Special&quot; instead.</p> <p>Also several minor typos I've noticed (bolded for emphasis):<br /> On the front page, the Dragon Wings racial feat is spelled &quot;Dragon <strong>Winga</strong>&quot;, although it's correct on its actual page.<br /> The Components section for Earthquake says &quot;a pinch <strong>o f</strong> dirt, a piece <strong>o f</strong> rock&quot;<br /> Dark Star description includes two typos right next to each other &quot;A creature with darkvision can't <strong>set though</strong> the magical darkness&quot;, should be <strong>see through</strong><br /> Illusory Dragon has a random apostrophe in the description &quot;taking <strong>'7d6</strong> damage&quot;<br /> Vedalken race has a space in the middle of a word &quot;Whenever you make an ability check with the chosen <strong>s kill</strong> or tool&quot;</p> <p>Maddening Darkness used em dashes in the description instead of hyphens which isn't really a typo but just looks weird. &quot;60—foot—radius&quot;</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

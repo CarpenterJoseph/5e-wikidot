@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Shifter&#039;s languages are wrong</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14250853/shifter-s-languages-are-wrong</link>
+		<description>Posts in the discussion thread &quot;Shifter&#039;s languages are wrong&quot; - The shifter page has the languages of the kalashtar race instead.</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:23:17 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14250853#post-5549020</guid>
+				<title>Re: Shifter&#039;s languages are wrong</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14250853/shifter-s-languages-are-wrong#post-5549020</link>
+				<description></description>
+				<pubDate>Sun, 28 Aug 2022 12:27:42 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Fixed, sorry for that error being there.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14250853#post-5547337</guid>
+				<title>Shifter’s Speeds are Wrong</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14250853/shifter-s-languages-are-wrong#post-5547337</link>
+				<description></description>
+				<pubDate>Fri, 26 Aug 2022 17:34:28 +0000</pubDate>
+				<wikidot:authorName>FosterWinter</wikidot:authorName>				<wikidot:authorUserId>8218367</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I just checked the MMOTM shifter, it says they get a climbing speed though MOTM does not say that at all. This a pretty big deal and i’ve been running with the wrong info on this for weeks.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14250853#post-5123285</guid>
+				<title>Re: Shifter&#039;s languages are wrong</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14250853/shifter-s-languages-are-wrong#post-5123285</link>
+				<description></description>
+				<pubDate>Tue, 02 Nov 2021 15:33:10 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>The shifter page has been updated. Thanks for pointing that out!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14250853#post-5122477</guid>
+				<title>Shifter&#039;s languages are wrong</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14250853/shifter-s-languages-are-wrong#post-5122477</link>
+				<description></description>
+				<pubDate>Mon, 01 Nov 2021 14:04:53 +0000</pubDate>
+				<wikidot:authorName>CowboyJones</wikidot:authorName>				<wikidot:authorUserId>7735114</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Shifter languages are listed as &quot;You can read and write Common, Quori, and one other language of your choice.&quot; when they should be &quot;You can speak, read, and write Common.&quot;</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

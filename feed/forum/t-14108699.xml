@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Origins Page</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14108699/origins-page</link>
+		<description>Posts in the discussion thread &quot;Origins Page&quot; - Does a page like this add anything to the site?</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:25:43 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14108699#post-4998542</guid>
+				<title>Re: Origins Page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14108699/origins-page#post-4998542</link>
+				<description></description>
+				<pubDate>Sun, 06 Jun 2021 13:07:56 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>im a fan of having an origins page like that. maybe adding a link to &quot;Races/Lineages&quot; on the main page like we have a link to &quot;All Spells&quot; would be the best way to approach it.</p> <p>i think lineage is the better word to use since &quot;origins&quot; is used mostly to swap out parts of a character's racial bonuses (like dwarven stonecunning, elven weapon training, or languages) that don't make sense for their character whereas &quot;lineage&quot; is what's used for making custom races and also includes the new options from van richten's guide to ravenloft (on a related note, changing the link/page name from &quot;custom origin&quot; to &quot;custom lineage&quot; would also be handy on the main page as others have noted in the forum)</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14108699#post-4989989</guid>
+				<title>Origins Page</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14108699/origins-page#post-4989989</link>
+				<description></description>
+				<pubDate>Thu, 27 May 2021 23:32:39 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Was playing around with this a while ago and kind of forgot about it. Not thrilled with it really at the moment, but was just considering whether we needed a page consolidating the various origin options (yes, I went with origin because that seems to be the terminology WotC is starting to go with).</p> <p><a href="http://dnd5e.wikidot.com/origin">http://dnd5e.wikidot.com/origin</a></p> <p>Regardless, I think the origin/race pages need to be moved under their own respective category. Since that requires an update to the main page I'll try and take care of it all in one go, means some links might be broken for a short time though. So instead of the page for Human being : <a href="http://dnd5e.wikidot.com/human">http://dnd5e.wikidot.com/human</a> it will be <a href="http://dnd5e.wikidot.com/origin:human">http://dnd5e.wikidot.com/origin:human</a></p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

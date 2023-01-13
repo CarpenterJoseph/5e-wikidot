@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Missing Artificer Infusion changes from Tasha&#039;s.</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13960917/missing-artificer-infusion-changes-from-tasha-s</link>
+		<description>Posts in the discussion thread &quot;Missing Artificer Infusion changes from Tasha&#039;s.&quot;</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:25:23 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13960917#post-4957134</guid>
+				<title>Re: Missing Artificer Infusion changes from Tasha&#039;s.</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13960917/missing-artificer-infusion-changes-from-tasha-s#post-4957134</link>
+				<description></description>
+				<pubDate>Sun, 18 Apr 2021 03:37:22 +0000</pubDate>
+				<wikidot:authorName>cottoneyenoh</wikidot:authorName>				<wikidot:authorUserId>5928724</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Good catch. Checked my copy, and you're right. Those errors are fixed. Let us know if there's anything else you find!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13960917#post-4956658</guid>
+				<title>Re: Missing Artificer Infusion changes from Tasha&#039;s.</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13960917/missing-artificer-infusion-changes-from-tasha-s#post-4956658</link>
+				<description></description>
+				<pubDate>Sat, 17 Apr 2021 12:32:39 +0000</pubDate>
+				<wikidot:authorName>MoiMagnus</wikidot:authorName>				<wikidot:authorUserId>7377986</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>About the new <strong>Mind Sharpener</strong> infusion:<br /> On the wiki, it says &quot;(requires attunement)&quot;. On my physical copy, <span style="text-decoration: underline;">it doesn't</span>.<br /> That's not the only place on the internet where it says that it requires attunement (and honestly it should), but I didn't found the source of this errata / clarification.</p> <p>Another point, where I'm sure that's a mistake: replicating <strong>Cloak of Elvenkind</strong> requires attunement.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13960917#post-4870789</guid>
+				<title>Re: Missing Artificer Infusion changes from Tasha&#039;s.</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13960917/missing-artificer-infusion-changes-from-tasha-s#post-4870789</link>
+				<description></description>
+				<pubDate>Fri, 15 Jan 2021 13:48:35 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Sorry for the delay, made these updates. I looked at the Errata released for Eberron that coincided with the release of Tasha's and that seems to be all the changes made. Can't guarantee I didn't miss one, but I think that's all. Let me know if you find anything else.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13960917#post-4854634</guid>
+				<title>Missing Artificer Infusion changes from Tasha&#039;s.</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13960917/missing-artificer-infusion-changes-from-tasha-s#post-4854634</link>
+				<description></description>
+				<pubDate>Sun, 27 Dec 2020 05:10:11 +0000</pubDate>
+				<wikidot:authorName>BucklingSwashes</wikidot:authorName>				<wikidot:authorUserId>7074875</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>It looks like a lot of the Artificer changes from Tasha's have been added already, but I came across a few more things that haven't been updated yet on the Ariticer Infusions page:</p> <ul> <li>Homunculus Servant: item needed now reads as a gem or crystal worth at least 100 GP, no longer lists dragonshard</li> <li>Homunculus Servant: no longer has a level requirement, page currently still lists previous Level 6 req</li> <li>Homunculus Servant stat block: Perception should be +0 plus (PB x 2), page lists as +0 plus PB</li> <li>Replicate Magic Item: the third paragraph of the description has been removed</li> <li>Replicate Magic Item: Armblade, Prosthetic Limb, and Wand Sheath have been removed</li> <li>Replicate Magic Item: added to 10th level list is Necklace of Adaptation, which requires attunement</li> </ul> <p>That's all that I've noticed so far, but might be worth having someone go through the list again as well in case if I missed something!</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

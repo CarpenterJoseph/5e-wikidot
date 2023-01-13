@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Error in Artificer Spell List</title>
+		<link>http://dnd5e.wikidot.com/forum/t-13651312/error-in-artificer-spell-list</link>
+		<description>Posts in the discussion thread &quot;Error in Artificer Spell List&quot; - Dragons Breath</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:24:44 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13651312#post-4751482</guid>
+				<title>Re: Error in Artificer Spell List</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13651312/error-in-artificer-spell-list#post-4751482</link>
+				<description></description>
+				<pubDate>Wed, 19 Aug 2020 08:42:09 +0000</pubDate>
+				<wikidot:authorName>mTruitt</wikidot:authorName>				<wikidot:authorUserId>6444238</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Removed it from the list and updated the page to indicate that it's in the sorcerer and wizard spell lists only, thanks for catching that!</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-13651312#post-4750191</guid>
+				<title>Error in Artificer Spell List</title>
+				<link>http://dnd5e.wikidot.com/forum/t-13651312/error-in-artificer-spell-list#post-4750191</link>
+				<description></description>
+				<pubDate>Tue, 18 Aug 2020 00:14:27 +0000</pubDate>
+				<wikidot:authorName>PapaSmorc</wikidot:authorName>				<wikidot:authorUserId>6747990</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I noticed that one of my favorite spells; Dragon's Breath, was on the Artificer spell list on this site when I thought it was not. I did some digging and discovered it is not a spell available to artificers. I don't know if there are other like mistakes on the spell list but I could find no source for Dragon's Breath on Artificers.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

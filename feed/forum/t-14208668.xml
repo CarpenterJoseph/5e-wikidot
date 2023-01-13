@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>DnD Evolutions</title>
+		<link>http://dnd5e.wikidot.com/forum/t-14208668/dnd-evolutions</link>
+		<description>Posts in the discussion thread &quot;DnD Evolutions&quot; - A brief conversation regarding the upcoming dnd edition</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:25:31 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14208668#post-5096036</guid>
+				<title>Re: DnD Evolutions</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14208668/dnd-evolutions#post-5096036</link>
+				<description></description>
+				<pubDate>Thu, 30 Sep 2021 05:13:07 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Yeah, alrighty</p> <p>I guess we've just gotta sit here and stew for a while until we see what happens</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14208668#post-5094987</guid>
+				<title>Re: DnD Evolutions</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14208668/dnd-evolutions#post-5094987</link>
+				<description></description>
+				<pubDate>Tue, 28 Sep 2021 14:31:23 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I hadn't thought about it yet, but I guess it's going to depend on exactly what these new rulebooks look like.</p> <p>If they're completely revamped classes and subclasses then we'll need to figure out where to put them. Unfortunately Wikidot doesn't seem to support nested categories where we could set up a page like dnd5e.wikidot.com/5e:wizard:necromancy so it would create a 5e category and a wizard category inside of that. You can create that particular URL, but it doesn't actually seem to read past the first colon.</p> <p>I tried setting up a page like dnd5e.wikidot.com/5e/wizard, but it would only create the page dnd5e.wikidot.com/5e. It just removed the second '/' and anything after it.</p> <p>I'll do some more research on what we can do, maybe there's some way to make one of those two options work. Then we can have a 5e section of the site and a 55e or whatever they end up calling it.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-14208668#post-5093778</guid>
+				<title>DnD Evolutions</title>
+				<link>http://dnd5e.wikidot.com/forum/t-14208668/dnd-evolutions#post-5093778</link>
+				<description></description>
+				<pubDate>Mon, 27 Sep 2021 01:12:27 +0000</pubDate>
+				<wikidot:authorName>NCat</wikidot:authorName>				<wikidot:authorUserId>6662241</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p><em>&quot;I can actually reveal today that we have earlier this year - we began work on the next evolution of Dungeons and Dragons - new versions of the Core Rule Books, which will be coming out in 2024 to celebrate the 50th anniversary of Dungeons and Dragons &#8230; with the surveys we have been giving out &#8230; the next evolution of the game &#8230; we are doing the best to give you the version of the game that you really want; so we can't really say much more yet about what our plans are, as we are still making them; but you are gonna see more surveys like that &#8230;. next year - the timing is next year, so next year we will have plenty more to say about those books and what they mean for D&amp;D &#8230;. one thing by the way I can assure you these new versions of the books are gonna be completely compatible with all those 5th Edition products that you already own and love and all those products that we will release between now and then &#8230;. so next year we will have more to say.&quot;</em></p> <p>So, in the recent dnd celebration livestreams, we have basically just been handing a 3 year heads up for whats most likely going to be a 5.5e, or at the very least a revamp of all the core rulebooks</p> <p>The good news is that it will be backwards compatible</p> <p>So, while its way to early to create a plan for how we're going to integrate what they throw at us to the website, since well, we dont have a clue for atleast a good while, but its sorta a good idea to plan ahead for things we know they might throw at us</p> <p>We do know the recent survey we got from WoTC basically asked for feedback on the entirety of the PHB classes, so odds are we could be looking at revisions for basically all the phb player content, in otherwords, all the PHB player content</p> <p>So, would we move the old PHB stuff to a '5.0e' section, just as we move abandoned UA, and then have the new versions on the front page?</p> <p>And this is assuming the rules change too drastically hopefully, but since its supposed to be backwards compatiable, odds are most of the current stuff on the site, aside from phb stuff, should be fine</p> <p>Idunno, thoughts?</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

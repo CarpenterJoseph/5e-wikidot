@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Noting Tasha&#039;s expansioned class spell lists</title>
+		<link>http://dnd5e.wikidot.com/forum/t-15401544/noting-tasha-s-expansioned-class-spell-lists</link>
+		<description>Posts in the discussion thread &quot;Noting Tasha&#039;s expansioned class spell lists&quot; - Any way to implement this?</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:18:43 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15401544#post-5818987</guid>
+				<title>Re: Noting Tasha&#039;s expansioned class spell lists</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15401544/noting-tasha-s-expansioned-class-spell-lists#post-5818987</link>
+				<description></description>
+				<pubDate>Fri, 06 Jan 2023 20:43:32 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>We could do that for spells that came out with Tasha's, but Tasha's also expanded the spell lists of classes with spells that were released in earlier books, including from the PHB.</p> <p>For example, Teleportation Circle is from the PHB, but got added to the warlock spell list by Tasha's.</p> <p>We obviously shouldn't mark that spell as a Tasha's spell, but we don't have a way to mark it only for the warlock spell list. It's just a limitation of how we've got this set up right now. And again, I'm just not sure how we'd do it, unless we set up a separate page for each spell for each class that has access to it.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15401544#post-5815110</guid>
+				<title>Re: Noting Tasha&#039;s expansioned class spell lists</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15401544/noting-tasha-s-expansioned-class-spell-lists#post-5815110</link>
+				<description></description>
+				<pubDate>Thu, 05 Jan 2023 19:09:00 +0000</pubDate>
+				<wikidot:authorName>ArcaediusX</wikidot:authorName>				<wikidot:authorUserId>8419874</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>Is it not possible to treat Tasha's as a new category &#8212; like how you can click to view all spells by school, or all ritual spells, regardless of class?? And then just create a superscript for it on the individual spell pages that just lets players know 'hey, this spell is a Tasha's spell'?</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15401544#post-5731367</guid>
+				<title>Re: Noting Tasha&#039;s expansioned class spell lists</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15401544/noting-tasha-s-expansioned-class-spell-lists#post-5731367</link>
+				<description></description>
+				<pubDate>Fri, 25 Nov 2022 14:58:59 +0000</pubDate>
+				<wikidot:authorName>Fredbob711</wikidot:authorName>				<wikidot:authorUserId>6144441</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>It's a good idea, but I'm not sure how we'd implement it. The current superscripts are on the spell pages, which aren't specific to a given class. If we added the superscript for Tasha's on the spell page, it would look like the spell was an expanded spell list for every class. And I don't know if there's something we can do on the PageList module that we use to display the list of spells.</p> 
+				 	]]>
+				</content:encoded>							</item>
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15401544#post-5723349</guid>
+				<title>Noting Tasha&#039;s expansioned class spell lists</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15401544/noting-tasha-s-expansioned-class-spell-lists#post-5723349</link>
+				<description></description>
+				<pubDate>Mon, 21 Nov 2022 05:07:27 +0000</pubDate>
+				<wikidot:authorName>qorinthian</wikidot:authorName>				<wikidot:authorUserId>6517502</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I think it'd be helpful to note which spells were offered via Tasha's expanded spells, which are technically optional. This would be a pretty big undertaking but I think is worth it to avoid future confusion. A superscript T like how we treated the Dunamancy/Chronurgy spells would be pretty elegant.</p> <p>How do we feel about this?</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>

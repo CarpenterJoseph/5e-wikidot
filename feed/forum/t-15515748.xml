@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wikidot="http://www.wikidot.com/rss-namespace">
+
+	<channel>
+		<title>Broken Links</title>
+		<link>http://dnd5e.wikidot.com/forum/t-15515748/broken-links</link>
+		<description>Posts in the discussion thread &quot;Broken Links&quot; - I recently made a local backup of this site and in the process discovered a bunch of broken links which I list in this thread.</description>
+				<copyright></copyright>
+		<lastBuildDate>Fri, 13 Jan 2023 20:18:43 +0000</lastBuildDate>
+		
+					<item>
+				<guid>http://dnd5e.wikidot.com/forum/t-15515748#post-5825470</guid>
+				<title>Broken Links</title>
+				<link>http://dnd5e.wikidot.com/forum/t-15515748/broken-links#post-5825470</link>
+				<description></description>
+				<pubDate>Sat, 07 Jan 2023 18:04:56 +0000</pubDate>
+				<wikidot:authorName>GavstarB</wikidot:authorName>				<wikidot:authorUserId>8425778</wikidot:authorUserId>				<content:encoded>
+					<![CDATA[
+						 <p>I use this site a lot during character creation but recently I keep getting 502 errors on random pages. To combat this I took a mirror of the entire site so I can load the missing pages locally. In the process of changing the links on the mirrored pages to redirect to my other local pages I discovered a few mistyped or otherwise broken links.</p> <p>[artificer] &quot;spells:cure-wounds&quot; should be &quot;spell:cure-wounds&quot;<br /> [artificer:armorer-ua] &quot;spell:greater-invisibilty&quot; should be &quot;spell:greater-invisibility&quot;<br /> [background:gruul-anarch] &quot;spell:dominante-beast&quot; should be &quot;spell:dominate-beast&quot;<br /> [background:sword-coast-heroic-chronicle] &quot;background:Cloistered&quot; should be &quot;background:cloistered-scholar&quot;<br /> [background:sword-coast-heroic-chronicle] &quot;background:spy&quot; should be &quot;background:criminal#toc1&quot;<br /> [epic-boons] &quot;spells:plane-shift&quot; should be &quot;spell:plane-shift&quot;<br /> [fighter:monster-hunter-ua] &quot;spelldetect-magic&quot; should be &quot;spell:detect-magic&quot;<br /> [lineage:kalashtar] &quot;dream&quot; should be &quot;spell:dream&quot; x2<br /> [lineage:kalashtar] &quot;sleep&quot; should be &quot;spell:sleep&quot; x2<br /> [sorcerer:clockwork-soul-ua] &quot;spell:protection-from-good-and-evil&quot; should be &quot;spell:protection-from-evil-and-good&quot; (link text wrong too)<br /> [supernatural-gifts] &quot;piety&quot; (missing page?)<br /> [warlock:celestial-ua] &quot;spell:buuning-hands&quot; should be &quot;spell:burning-hands&quot;<br /> [warlock:ghost-in-the-machine-ua] &quot;spell:haywire&quot; should be &quot;spell:haywire-ua&quot;<br /> [wizard:artificer-ua:magic-item-tables] &quot;wondrous-items:dust-of-dissapearance&quot; should be &quot;wondrous-items:dust-of-disappearance&quot; (link text wrong too)<br /> [wizard:artificer-ua:magic-item-tables] &quot;wondrous-items:goggle-of-night&quot; should be &quot;wondrous-items:goggles-of-night&quot; (link text wrong too)<br /> [wizard:artificer-ua:magic-item-tables] &quot;wondrous-items:Potion-of-greater-healing&quot; should be &quot;wondrous-items:potion-of-healing&quot;<br /> [wondrous-items:all] &quot;wondrous-items:shield&quot; (missing page?)<br /> [wondrous-items:cauldron-of-rebirth] &quot;wondrous-items:potion-of-greater-healing&quot; should be &quot;wondrous-items:potion-of-healing&quot;<br /> [wondrous-items:demonomicon-of-iggwilv] &quot;wondrous-items:fraz-urbluus-staff&quot; (missing page?)<br /> [wondrous-items:the-infernal-machine-of-lum-the-mad] &quot;spell:conjure-minor-elemental&quot; should be &quot;spell:conjure-minor-elementals&quot; (link text wrong too)</p> <p>Hope this is helpful and thank you to everyone who contributes to this site.</p> 
+				 	]]>
+				</content:encoded>							</item>
+				</channel>
+</rss>
